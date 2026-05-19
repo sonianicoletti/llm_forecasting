@@ -23,7 +23,7 @@ dependencies = [
     "anthropic",
     "gnews==0.3.6",
     "newspaper4k",
-    "newscatcherapi",
+    # "newscatcherapi",
     "sentence_transformers",
     "markdown2",
     "google-generativeai",
