@@ -9,6 +9,9 @@ import together
 import anthropic
 import google.generativeai as google_ai
 
+from config.constants import GROQ_SOURCE
+from config.keys import GROQ_KEY
+
 # Local application/library-specific imports
 from config.constants import (
     OAI_SOURCE,
@@ -42,6 +45,16 @@ if TOGETHER_KEY:
     
 if GOOGLE_AI_KEY:
     google_ai.configure(api_key=GOOGLE_AI_KEY)
+
+if GROQ_KEY:
+    groq_async_client = openai.AsyncOpenAI(
+        api_key=GROQ_KEY,
+        base_url="https://api.groq.com/openai/v1",
+    )
+    groq_client = openai.OpenAI(
+        api_key=GROQ_KEY,
+        base_url="https://api.groq.com/openai/v1",
+    )
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
@@ -180,6 +193,16 @@ def get_response_from_together_ai_model(
         api_call, wait_time, "Together AI API request exceeded rate limit."
     )
 
+def get_response_from_groq_model(model_name, prompt, max_tokens, temperature, wait_time):
+    def api_call():
+        response = groq_client.chat.completions.create(
+            model=model_name,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=temperature,
+            max_tokens=max_tokens,
+        )
+        return response.choices[0].message.content
+    return get_response_with_retry(api_call, wait_time, "Groq API request exceeded rate limit.")
 
 def get_response_from_google_model(
     model_name, prompt, max_tokens, temperature, wait_time
@@ -241,6 +264,10 @@ def get_response_from_model(
         )
     elif model_source == TOGETHER_AI_SOURCE:
         return get_response_from_together_ai_model(
+            model_name, prompt, max_tokens, temperature, wait_time
+        )
+    elif model_source == GROQ_SOURCE:
+        return get_response_from_groq_model(
             model_name, prompt, max_tokens, temperature, wait_time
         )
     elif model_source == GOOGLE_SOURCE:
@@ -309,6 +336,14 @@ async def get_async_response(
                     max_tokens=max_tokens,
                 )
                 return chat_completion.choices[0].message.content
+            elif model_source == GROQ_SOURCE:
+                response = await groq_async_client.chat.completions.create(
+                    model=model_name,
+                    messages=[{"role": "user", "content": prompt}],
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                )
+                return response.choices[0].message.content
             else:
                 logger.debug("Not a valid model source: {model_source}")
                 return ""

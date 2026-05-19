@@ -8,6 +8,7 @@ ANTHROPIC_SOURCE = "ANTHROPIC"
 TOGETHER_AI_SOURCE = "TOGETHER"
 GOOGLE_SOURCE = "GOOGLE"
 HUGGINGFACE_SOURCE = "HUGGINGFACE"
+GROQ_SOURCE = "GROQ"
 
 DEFAULT_RETRIEVAL_CONFIG = {
     "NUM_SEARCH_QUERY_KEYWORDS": 3,
@@ -83,6 +84,7 @@ MODEL_TOKEN_LIMITS = {
     "zero-one-ai/Yi-34B-Chat": 4096,
     "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO": 32768,
     "NousResearch/Nous-Hermes-2-Yi-34B": 32768,
+    "llama-3.3-70b-versatile": 32768,
 }
 
 MODEL_NAME_TO_SOURCE = {
@@ -106,6 +108,7 @@ MODEL_NAME_TO_SOURCE = {
     "zero-one-ai/Yi-34B-Chat": TOGETHER_AI_SOURCE,
     "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO": TOGETHER_AI_SOURCE,
     "NousResearch/Nous-Hermes-2-Yi-34B": TOGETHER_AI_SOURCE,
+    "llama-3.3-70b-versatile": GROQ_SOURCE,
 }
 
 ANTHROPIC_RATE_LIMIT = 5
