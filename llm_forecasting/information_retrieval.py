@@ -8,7 +8,7 @@ from dateutil.relativedelta import relativedelta
 # Related third-party imports
 from gnews import GNews
 import newspaper
-from newscatcherapi import NewsCatcherApiClient
+# from newscatcherapi import NewsCatcherApiClient
 import requests
 
 # Local application/library-specific imports
@@ -583,7 +583,7 @@ def retrieve_webpage_from_background(
 def get_search_queries(
     prompt,
     num_keywords=3,
-    model_name="gpt-4-1106-preview",
+    model_name="gpt-4.1-mini",
     temperature=0.0,
     return_response=False,
 ):
@@ -599,7 +599,7 @@ def get_search_queries(
         prompt (str): The prompt to use for the API call.
         num_keywords (int, optional): Number of keywords to extract (default:3).
         model_name (str, optional): The name of the model to use (default:
-            "gpt-4-1106-preview").
+            "gpt-4.1-mini").
         temperature (float, optional): The temperature to use for the API call
             (default: 0.0).
         return_response (bool, optional): Whether to return the full response.
@@ -626,7 +626,7 @@ def get_search_queries(
 async def async_get_search_queries(
     prompts,
     num_keywords=3,
-    model_name="gpt-4-1106-preview",
+    model_name="gpt-4.1-mini",
     temperature=0.0,
     return_response=False,
 ):
@@ -637,7 +637,7 @@ async def async_get_search_queries(
         prompts (list[str]): A list of prompts to use for the API call.
         num_keywords (int, optional): Number of search queries to extract (default:3).
         model_name (str, optional): The name of the model to use (default:
-            "gpt-4-1106-preview").
+            "gpt-4.1-mini").
         temperature (float, optional): The temperature to use for the API call
             (default: 0.0).
         return_response (bool, optional): Whether to return the full response.

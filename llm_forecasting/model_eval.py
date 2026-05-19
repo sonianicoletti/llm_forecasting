@@ -348,7 +348,7 @@ async def async_make_forecast(
     dates,
     retrieved_info,
     reasoning_prompt_templates,
-    model_name="gpt-4-1106-preview",
+    model_name="gpt-4.1-mini",
     temperature=1.0,
     return_prompt=False,
 ):
@@ -362,7 +362,7 @@ async def async_make_forecast(
         dates (str): Dates to provide to the model.
         retrieved_info (str): Retrieved information to provide to the model.
         reasoning_prompt_templates (list of str): List of reasoning prompt templates to use.
-        model_name (str, optional): Name of the model to use (such as "gpt-4-1106-preview").
+        model_name (str, optional): Name of the model to use (such as "gpt-4.1-mini").
         temperature (float, optional): Sampling temperature.
         return_prompt (bool, optional): Whether to return the full prompt or not.
 

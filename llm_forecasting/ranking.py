@@ -399,7 +399,7 @@ async def retrieve_summarize_and_rank_articles(
     articles = []
     articles = information_retrieval.get_articles_from_all_sources(
         search_queries_list_gnews,
-        search_queries_list_nc,
+        [],
         date_range,
         num_articles=config["NUM_ARTICLES_PER_QUERY"],
         length_threshold=200,

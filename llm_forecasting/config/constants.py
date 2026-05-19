@@ -13,7 +13,7 @@ DEFAULT_RETRIEVAL_CONFIG = {
     "NUM_SEARCH_QUERY_KEYWORDS": 3,
     "MAX_WORDS_NEWSCATCHER": 5,
     "MAX_WORDS_GNEWS": 8,
-    "SEARCH_QUERY_MODEL_NAME": "gpt-4-1106-preview",
+    "SEARCH_QUERY_MODEL_NAME": "gpt-4.1-mini",
     "SEARCH_QUERY_TEMPERATURE": 0.0,
     "SEARCH_QUERY_PROMPT_TEMPLATES": [
         PROMPT_DICT["search_query"]["0"],
@@ -39,7 +39,7 @@ DEFAULT_RETRIEVAL_CONFIG = {
 }
 
 DEFAULT_REASONING_CONFIG = {
-    "BASE_REASONING_MODEL_NAMES": ["gpt-4-1106-preview"],
+    "BASE_REASONING_MODEL_NAMES": ["gpt-4.1-mini"],
     "BASE_REASONING_TEMPERATURE": 1.0,
     "BASE_REASONING_PROMPT_TEMPLATES": [
         [
@@ -71,7 +71,7 @@ MODEL_TOKEN_LIMITS = {
     "gpt-3.5-turbo-1106": 16000,
     "gpt-3.5-turbo-16k": 16000,
     "gpt-3.5-turbo": 8000,
-    "gpt-4-1106-preview": 128000,
+    "gpt-4.1-mini": 60000,
     "gemini-pro": 30720,
     "togethercomputer/llama-2-7b-chat": 4096,
     "togethercomputer/llama-2-13b-chat": 4096,
@@ -94,7 +94,7 @@ MODEL_NAME_TO_SOURCE = {
     "gpt-3.5-turbo-1106": OAI_SOURCE,
     "gpt-3.5-turbo-16k": OAI_SOURCE,
     "gpt-3.5-turbo": OAI_SOURCE,
-    "gpt-4-1106-preview": OAI_SOURCE,
+    "gpt-4.1-mini": OAI_SOURCE,
     "gemini-pro": GOOGLE_SOURCE,
     "togethercomputer/llama-2-7b-chat": TOGETHER_AI_SOURCE,
     "togethercomputer/llama-2-13b-chat": TOGETHER_AI_SOURCE,

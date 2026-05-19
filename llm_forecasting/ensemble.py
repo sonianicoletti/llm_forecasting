@@ -42,13 +42,13 @@ async def meta_reason(
     today_to_close_date_range,
     retrieved_info,
     reasoning_prompt_templates,
-    base_model_names=["gpt-4-1106-preview", "claude-2.1"],
+    base_model_names=["gpt-4.1-mini", "claude-2.1"],
     base_temperature=1.0,  # temperature for the base reasonings
     aggregation_method="meta",
     answer_type="probability",
     weights=None,
     end_words=list(TOKENS_TO_PROBS_DICT["ten_options"].keys()),
-    meta_model_name="gpt-4-1106-preview",
+    meta_model_name="gpt-4.1-mini",
     meta_prompt_template=PROMPT_DICT["meta_reasoning"]["0"],
     meta_temperature=0.2,
 ):
@@ -163,7 +163,7 @@ def aggregate_base_reasonings(
     answer_type="probability",
     weights=None,
     end_words=list(TOKENS_TO_PROBS_DICT["ten_options"].keys()),
-    model_name="gpt-4-1106-preview",  # meta model name
+    model_name="gpt-4.1-mini",  # meta model name
     meta_prompt_template=PROMPT_DICT["meta_reasoning"]["0"],
     meta_temperature=0.2,
 ):
