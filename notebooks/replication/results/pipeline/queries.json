@@ -1,0 +1,127 @@
+{
+  "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?": {
+    "question": "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+    "retrievals": {
+      "2015-10-04": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-04"
+        ],
+        "queries_gnews": [
+          "advanced LIGO latest results 2015",
+          "LIGO gravitational wave discovery announcement timeline",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO observation run schedule 2015-2016",
+          "advanced LIGO detection status October 2015",
+          "advanced LIGO operational status 2015",
+          "advanced LIGO gravitational waves announcement timeline"
+        ],
+        "queries_nc": [
+          "LIGO announcement timeline 2016",
+          "advanced LIGO status update",
+          "advanced LIGO gravitational wave detection",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO status 2015",
+          "advanced LIGO observation run schedule",
+          "gravitational waves discovery announcement"
+        ]
+      },
+      "2015-10-07": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-07"
+        ],
+        "queries_gnews": [
+          "gravitational waves discovery announcement timeline",
+          "advanced LIGO latest results 2015",
+          "LIGO experiment progress update 2015",
+          "LIGO Scientific Collaboration discovery predictions",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO operational status 2015",
+          "advanced LIGO gravitational waves announcement timeline"
+        ],
+        "queries_nc": [
+          "LIGO gravitational waves update",
+          "LIGO detection announcement timeline",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO status 2015",
+          "gravitational waves discovery status",
+          "LIGO discovery announcement timeline",
+          "advanced LIGO gravitational waves update"
+        ]
+      },
+      "2015-10-15": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-15"
+        ],
+        "queries_gnews": [
+          "LIGO discovery predictions 2016",
+          "advanced LIGO latest results 2015",
+          "LIGO gravitational waves discovery announcement timeline",
+          "advanced LIGO observation run schedule 2015",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO operational status 2015",
+          "advanced LIGO gravitational waves announcement timeline"
+        ],
+        "queries_nc": [
+          "LIGO gravitational waves announcement prediction",
+          "advanced LIGO operational status",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "LIGO discovery timeline",
+          "advanced LIGO detection update",
+          "gravitational waves announcement 2015",
+          "advanced LIGO observation run schedule"
+        ]
+      },
+      "2015-11-02": {
+        "date_range": [
+          "2015-10-02",
+          "2015-11-02"
+        ],
+        "queries_gnews": [
+          "LIGO gravitational waves announcement prediction",
+          "advanced LIGO detection update 2015",
+          "advanced LIGO observation runs schedule",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO operational status 2015",
+          "advanced LIGO gravitational waves announcement timeline",
+          "latest LIGO gravitational wave discovery news"
+        ],
+        "queries_nc": [
+          "LIGO gravitational wave detection prediction",
+          "LIGO data analysis progress",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO operational status 2015",
+          "LIGO discovery announcement timeline",
+          "advanced LIGO gravitational waves update",
+          "advanced LIGO observation run schedule"
+        ]
+      },
+      "2015-12-14": {
+        "date_range": [
+          "2015-10-02",
+          "2015-12-14"
+        ],
+        "queries_gnews": [
+          "advanced LIGO status October 2015",
+          "advanced LIGO observation run schedule 2015",
+          "LIGO gravitational wave discovery announcement timeline",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "LIGO announcement timeline gravitational waves",
+          "advanced LIGO operational status 2015",
+          "advanced LIGO gravitational wave detection update"
+        ],
+        "queries_nc": [
+          "gravitational waves discovery timeline",
+          "gravitational waves discovery update",
+          "LIGO announcement January 2016",
+          "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+          "advanced LIGO status 2015",
+          "advanced LIGO detection update",
+          "advanced LIGO observation run schedule"
+        ]
+      }
+    }
+  }
+}

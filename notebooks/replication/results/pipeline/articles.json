@@ -1,0 +1,42 @@
+{
+  "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?": {
+    "question": "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+    "retrievals": {
+      "2015-10-04": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-04"
+        ],
+        "articles": []
+      },
+      "2015-10-07": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-07"
+        ],
+        "articles": []
+      },
+      "2015-10-15": {
+        "date_range": [
+          "2015-10-02",
+          "2015-10-15"
+        ],
+        "articles": []
+      },
+      "2015-11-02": {
+        "date_range": [
+          "2015-10-02",
+          "2015-11-02"
+        ],
+        "articles": []
+      },
+      "2015-12-14": {
+        "date_range": [
+          "2015-10-02",
+          "2015-12-14"
+        ],
+        "articles": []
+      }
+    }
+  }
+}

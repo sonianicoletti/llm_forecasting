@@ -1,0 +1,172 @@
+[
+  {
+    "question": "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+    "resolution": 0.0,
+    "date_begin": "2015-10-02",
+    "date_close": "2015-12-15",
+    "date_resolve_at": "2016-02-01",
+    "retrieval_dates": [
+      "2015-10-04",
+      "2015-10-07",
+      "2015-10-15",
+      "2015-11-02",
+      "2015-12-14"
+    ],
+    "retrieval_date_queries": {
+      "2015-10-04": [
+        "advanced LIGO latest results 2015",
+        "advanced LIGO observation runs schedule",
+        "advanced LIGO announcement plans 2016",
+        "advanced LIGO gravitational waves detection timeline",
+        "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+        "advanced LIGO operational status 2015",
+        "LIGO gravitational waves discovery announcement timeline"
+      ],
+      "2015-10-07": [
+        "advanced LIGO latest results 2015",
+        "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+        "expert predictions gravitational waves discovery 2016",
+        "advanced LIGO gravitational waves announcement timeline",
+        "LIGO gravitational wave detection updates 2015",
+        "advanced LIGO operational status 2015"
+      ],
+      "2015-10-15": [
+        "advanced LIGO latest results 2015",
+        "LIGO gravitational wave detection announcement timeline",
+        "advanced LIGO gravitational waves announcement",
+        "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+        "advanced LIGO observation run schedule 2015",
+        "advanced LIGO operational status 2015",
+        "advanced LIGO discovery timeline 2016"
+      ],
+      "2015-11-02": [
+        "advanced LIGO observation run schedule 2015-2016",
+        "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+        "LIGO gravitational wave detection announcement prediction",
+        "latest updates on advanced LIGO gravitational waves",
+        "advanced LIGO gravitational waves detection 2015",
+        "advanced LIGO discovery announcement timeline",
+        "advanced LIGO operational status 2015"
+      ],
+      "2015-12-14": [
+        "advanced LIGO observation run schedule",
+        "advanced LIGO latest results 2015",
+        "LIGO gravitational waves detection prediction",
+        "advanced LIGO gravitational waves announcement",
+        "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+        "advanced LIGO operational status 2015",
+        "advanced LIGO discovery timeline 2016"
+      ]
+    }
+  },
+  {
+    "question": "Will Ukraine retake Polohy by the 1st of October, 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-06-01",
+    "date_close": "2023-09-30",
+    "date_resolve_at": "2023-10-01",
+    "retrieval_dates": [
+      "2023-06-03",
+      "2023-06-07",
+      "2023-06-18",
+      "2023-07-17",
+      "2023-09-29"
+    ],
+    "retrieval_date_queries": {
+      "2023-06-03": [
+        "Russian defenses Polohy frontline June 2023",
+        "Russian defensive fortifications Polohy frontline",
+        "Ukraine counteroffensive progress June 2023",
+        "Will Ukraine retake Polohy by the 1st of October, 2023?",
+        "Ukraine counteroffensive progress near Polohy",
+        "Ukrainian battalions Western tanks deployment",
+        "New Ukrainian battalions western tanks summer 2023"
+      ],
+      "2023-06-07": [
+        "Russian defenses Polohy region 2023",
+        "Russian defenses fortifications Polohy frontline",
+        "Ukraine counteroffensive progress June 2023",
+        "Will Ukraine retake Polohy by the 1st of October, 2023?",
+        "Ukraine counteroffensive progress near Polohy",
+        "Ukrainian forces near Polohy updates",
+        "Ukrainian new battalions western tanks deployment"
+      ],
+      "2023-06-18": [
+        "Russian defenses Polohy area 2023",
+        "Ukrainian battalions Western tanks readiness",
+        "Ukraine counteroffensive progress June 2023",
+        "Will Ukraine retake Polohy by the 1st of October, 2023?",
+        "Ukrainian forces strength near Polohy",
+        "Russian defenses Polohy frontline updates"
+      ],
+      "2023-07-17": [
+        "Polohy frontline battle updates Ukraine Russia",
+        "Russian defenses Polohy area 2023",
+        "Ukraine counteroffensive progress June 2023",
+        "Will Ukraine retake Polohy by the 1st of October, 2023?",
+        "Ukrainian battalions Western tanks deployment",
+        "Ukrainian new battalions western tanks impact"
+      ],
+      "2023-09-29": [
+        "Ukrainian forces new battalions Western tanks",
+        "Russian defenses Polohy frontline status",
+        "Ukraine counteroffensive progress June 2023",
+        "Will Ukraine retake Polohy by the 1st of October, 2023?",
+        "Ukraine counteroffensive progress near Polohy",
+        "Ukrainian new battalions western tanks update",
+        "Russian defenses Polohy frontline 2023"
+      ]
+    }
+  },
+  {
+    "question": "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-06-02",
+    "date_close": "2023-06-16",
+    "date_resolve_at": "2023-06-14",
+    "retrieval_dates": [
+      "2023-06-03",
+      "2023-06-04",
+      "2023-06-06",
+      "2023-06-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-06-03": [
+        "EU MEPs position AI Act mandate June",
+        "EU Parliament AI Act negotiating mandate vote",
+        "AI Act debate EU Parliament June 13 2023",
+        "EU Parliament political groups AI Act endorsement",
+        "EU Parliament AI Act negotiating mandate June 2023",
+        "AI Act endorsement June 2023 EU Parliament",
+        "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?"
+      ],
+      "2023-06-04": [
+        "AI Act debate EU Parliament June 13 updates",
+        "EU Parliament AI Act endorsement June 2023",
+        "EU MEPs stance AI Act endorsement",
+        "AI Act negotiating mandate vote schedule",
+        "EU Parliament AI Act negotiating mandate June 2023",
+        "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?",
+        "EU Parliament political groups stance AI Act"
+      ],
+      "2023-06-06": [
+        "EU Parliament AI Act endorsement vote date",
+        "EU Parliament June 13 AI Act debate updates",
+        "EU Parliament debate AI Act June 13 2023",
+        "AI Act negotiating mandate political opposition",
+        "AI Act opposition or support EU Parliament 2023",
+        "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?",
+        "EU Parliament AI Act negotiating mandate endorsement"
+      ],
+      "2023-06-10": [
+        "EU Parliament AI Act negotiating mandate vote",
+        "EU MEPs debate AI Act June session",
+        "AI Act debate June 13 2023 updates",
+        "AI Act endorsement June 2023 EU Parliament",
+        "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?",
+        "EU Parliament political groups position AI Act",
+        "EU Parliament AI Act negotiating mandate endorsement"
+      ]
+    }
+  }
+]

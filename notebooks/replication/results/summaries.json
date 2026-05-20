@@ -1,0 +1,130 @@
+[
+  {
+    "question": "Will advanced LIGO announce discovery of gravitational waves by Jan. 31 2016?",
+    "resolution": 0.0,
+    "date_begin": "2015-10-02",
+    "date_close": "2015-12-15",
+    "retrieval_dates": [
+      "2015-10-04",
+      "2015-10-07",
+      "2015-10-15",
+      "2015-11-02",
+      "2015-12-14"
+    ],
+    "retrieval_date_summaries": {
+      "2015-10-04": {
+        "num_articles_pooled": 0,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "No articles were retrieved for this question."
+      },
+      "2015-10-07": {
+        "num_articles_pooled": 2,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2015-10-15": {
+        "num_articles_pooled": 1,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2015-11-02": {
+        "num_articles_pooled": 6,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2015-12-14": {
+        "num_articles_pooled": 9,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      }
+    }
+  },
+  {
+    "question": "Will Ukraine retake Polohy by the 1st of October, 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-06-01",
+    "date_close": "2023-09-30",
+    "retrieval_dates": [
+      "2023-06-03",
+      "2023-06-07",
+      "2023-06-18",
+      "2023-07-17",
+      "2023-09-29"
+    ],
+    "retrieval_date_summaries": {
+      "2023-06-03": {
+        "num_articles_pooled": 4,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2023-06-07": {
+        "num_articles_pooled": 9,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2023-06-18": {
+        "num_articles_pooled": 14,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2023-07-17": {
+        "num_articles_pooled": 22,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2023-09-29": {
+        "num_articles_pooled": 26,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      }
+    }
+  },
+  {
+    "question": "Will the EU Parliament endorse a negotiating mandate for the AI Act before June 16, 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-06-02",
+    "date_close": "2023-06-16",
+    "retrieval_dates": [
+      "2023-06-03",
+      "2023-06-04",
+      "2023-06-06",
+      "2023-06-10"
+    ],
+    "retrieval_date_summaries": {
+      "2023-06-03": {
+        "num_articles_pooled": 0,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "No articles were retrieved for this question."
+      },
+      "2023-06-04": {
+        "num_articles_pooled": 0,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "No articles were retrieved for this question."
+      },
+      "2023-06-06": {
+        "num_articles_pooled": 2,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      },
+      "2023-06-10": {
+        "num_articles_pooled": 4,
+        "num_articles_ranked": 0,
+        "ranked_articles": [],
+        "summary": "---\nNo articles were retrieved for this question.\n----"
+      }
+    }
+  }
+]
