@@ -20,25 +20,33 @@
       },
       "2015-10-07": {
         "num_articles_pooled": 2,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2015-10-15": {
         "num_articles_pooled": 1,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2015-11-02": {
-        "num_articles_pooled": 6,
+        "num_articles_pooled": 5,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2015-12-14": {
-        "num_articles_pooled": 9,
+        "num_articles_pooled": 8,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       }
@@ -58,32 +66,42 @@
     ],
     "retrieval_date_summaries": {
       "2023-06-03": {
-        "num_articles_pooled": 4,
+        "num_articles_pooled": 3,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2023-06-07": {
         "num_articles_pooled": 9,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2023-06-18": {
-        "num_articles_pooled": 14,
+        "num_articles_pooled": 13,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2023-07-17": {
         "num_articles_pooled": 22,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2023-09-29": {
-        "num_articles_pooled": 26,
+        "num_articles_pooled": 28,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       }
@@ -114,14 +132,18 @@
         "summary": "No articles were retrieved for this question."
       },
       "2023-06-06": {
-        "num_articles_pooled": 2,
+        "num_articles_pooled": 1,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       },
       "2023-06-10": {
-        "num_articles_pooled": 4,
+        "num_articles_pooled": 3,
+        "num_articles_rated": 0,
         "num_articles_ranked": 0,
+        "all_rated_articles": [],
         "ranked_articles": [],
         "summary": "---\nNo articles were retrieved for this question.\n----"
       }

@@ -1,0 +1,2466 @@
+[
+  {
+    "question": "Will S&P 500 increase in April 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-02",
+    "date_resolve_at": "2023-05-02",
+    "retrieval_dates": [
+      "2023-04-04",
+      "2023-04-06",
+      "2023-04-10",
+      "2023-04-17",
+      "2023-05-01"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-04": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US market trends 2023": [
+          {
+            "title": "The Art Basel and UBS Global Art Market Report 2023 - Art Basel",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Art Basel",
+            "source_url": "https://www.artbasel.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3RmMlN0d2swUHhMYkMxSnJNQUowZWdEeWxfTUxqOUt2OFdXMjZXOXJWUE54bGRJQzFFN0s0algwSC1zeVpKWFRORFltLXhmU1FuZjRhVGRWWUplb2tBVTJ5TTk3RWp3cjFRZlBLdFN2dTJhRmlaWm4tNy1kNzBSdlFTV2hHdURNUGlzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-global-art-market-report-2023",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Ipsos releases Global Trends 2023: A new world disorder - Ipsos",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Ipsos",
+            "source_url": "https://www.ipsos.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcndzRmZSTEF1cDBubkZxNFowY3FXTWx3cElWUG1faVJSTThfVnVSUU9vVDlHZWRiZnpNWHQzTmt0T3hpcDVhM2hQQ3BJWXJPNWlITFhTVnFhS0l5bjZyejV3TndmNzlsR01NLTFaUkZxT2YxU25CMmdRYjBQMVhwVmRIS2FFYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ipsos.com/en-ch/ipsos-releases-global-trends-2023-new-world-disorder",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Analysis: Home Mortgage Demand Declines in Rural America, Mirroring National Market - The Daily Yonder",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "The Daily Yonder",
+            "source_url": "https://dailyyonder.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEQ4RzJlRWdJQ0lsRVNVaGIwcnBJREtHZk5wV1QtUW5mdFlGbGRzV1owRWk4MTAtTFpEak80ODgyd1I4LXZjclV6TC1sdm5EVW8wcW1ZSlUzQnBfMTh1V1BLN2pReWJEalM0bEhxZFJqQXVxcWlUaTlIdEtOR24tMncyT1VtaE5ZUmUzazVkQm5hS1VDMnVJRXNmNXloNVl0cF9uOTdIcExWb3h6Y2RUU0Rlcl93dkFs?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://dailyyonder.com/analysis-home-mortgage-demand-declines-in-rural-america-mirroring-national-market/2023/04/03/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "US labor market loosening as job openings approach two-year low - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekFVeFliRS1zRl9fRWI0Ul9ZNUlRNTlubExid2pXbnJqTll1ay15TFhuNmJxdGpoY0prVWwyVTNRX3N1a0RzTG5ubHVhS3VCVDJSRHFQb2lsdGtOWmtXRTM3RGNFeF9HVG9KcDZfcWMxZkhETVF3NEhqdFBYeGxtdXcxNHpuaEFteGZnVnAySzZMWEdKMko2U0NSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/us/us-job-openings-lowest-nearly-two-years-february-2023-04-04/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "STR U.S. Hotel Performance Review for February 2023 - Hotel News Resource",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Hotel News Resource",
+            "source_url": "https://www.hotelnewsresource.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51MEo4N3pvQ3BuQUJlNFJ3cmhSNmkzdWJnNzZCdmNfUDA3ZmJxYTJPdV9CdEdUSUs5ekRMSHpqYjdZX0U1b0FPR1ZqTGFiZEFpOUFBTFRxaWt4aXpvUkZJSTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hotelnewsresource.com/article125722.html",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Radioligand Therapy (RLT) Market is anticipated to exhibit a CAGR of 7.8% from 2022 to 2030 - Digital Journal",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Digital Journal",
+            "source_url": "https://www.digitaljournal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjhoa1BiX3FqazIyNzhwOHVPaFJiWlFEMWJEQ2tXR0laY2dMREJ4MUstWGlWWU0tT0tibDlBRHJOdUpLRVJMVWozanlDSU10RUxHaWo2Vmh6azRQd1ZOUGpGRDNmWXlDcWlRclRROGpQZnh4WDlYa1dYMzU4VXIybC1zOW5wcmZJa1lvcTdYVk5kREtpRnFXaDFaSThZUjRUSW9ScEwxUExnc1dOZzlWSmlLNVZEVFlfclI0ZHAtNXM0STRDRVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.digitaljournal.com/pr/news/radioligand-therapy-rlt-market-is-anticipated-to-exhibit-a-cagr-of-7-8-from-2022-to-2030",
+            "query": "US market trends 2023",
+            "text": null
+          }
+        ],
+        "S&P 500 investor sentiment": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          }
+        ],
+        "US economic news today": [
+          {
+            "title": "Dollar skids after soft U.S. economic data; impact of OPEC+ cuts fades - Reuters",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGdseGczRWM0TXRpMUFrREtmYk1Eb3VmZkp5dGVqb3ZnUXJSMGFaUFZETVlQaFlNVEFGV3RHZnFQYVlLSldZdTBNSUFWYllib09ROUw1WjRUd2ZodEJDQndWTUJFTnlvb3JJX1hDMkhHbWs4M1RoU2E1NzNHemtZYlRyd1FaaWNBdjhzeExDZU5HeURGM2hqN0w5cS1pNmVXZFd5SkF2d19fcFFIMU9VcHV0Tnh2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/currencies/dollar-gains-inflation-worries-resurface-after-opec-surprise-2023-04-03/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "The myth that America prospered after WWII despite extremely high taxes on the rich - Northwood University",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Northwood University",
+            "source_url": "https://www.northwood.edu",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHJqU2pNblBTZ1Z1aDgyeXpBb2NaSGpmaEtWXzRTSExuTnlhdmlOendVLWpuZk9uUEREcjY5NnNsQnhYQWI0WkR4RGViZ3V0TW8wWHpRQzlHc2xjc0dVTlNfNS1ZUm9BM3g3UVpzSk12ZjlxYzZGWDRZWHRjRHNMU1NoUGdidVJNX3pMdTlxdE5CODRuNTlNT1NjUDhCd3JyYTg5a0FscU5mbXdsRzZxYUVMWXE5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.northwood.edu/news/the-myth-that-america-prospered-after-wwii-despite-extremely-high-taxes-on-the-rich/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Ways Congress can strengthen the trucking workforce - American Trucking Associations",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "American Trucking Associations",
+            "source_url": "https://www.trucking.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMkp0Wmlvbzg5MTh0bDBLZ01tWmZkZ2RFblVrSGNXQzNaRE1MTnp2QTMya0JqVjB0OThkT2NmMzFKMnpRQ2tkdzBMT1M3RlhTSVVXS19GazVUdl9DRktxTWRabWFIR0kyOEdEdXc3ZXdRU3Q2LUZzcW5sX3hFaVFsN0I0azZXQXVUbzdpOE5Law?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.trucking.org/news-insights/ways-congress-can-strengthen-trucking-workforce",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Jamie Dimon, CEO of largest US bank, optimistic about economy despite turmoil - Good Morning America",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Good Morning America",
+            "source_url": "https://www.goodmorningamerica.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVhGV2FuZTdYVkZYTG9fRnJKU0lZMVFFLWtRemtvS0l5NFNkQU1JLVNIc0JHRVAwai1TcTVHOENlZFJ5eVlSRGJjazJyU2xZRnBjVW05SkxtWGs1dkF0dVUxRWdWUW0ybDRlU0tfaUVxellJd2JHeTkxZk1WZWxDN1E4S2haeEhFcmxUeTUxYUFwcjhJWm9kS2w2TmVPSXNCY3Z5ZnJ2eEfSAa4BQVVfeXFMUGphMHEzQVh4RzZCV2tCUGcyUTU5MlVlS1I0T0xvbjhLTGQ4MTN3QmlsQkx3R01INlE4eTNNc2J4cVdfQ09faXRUeElMRWRDd2ttMFhlQlVURVJjNWFQT0gtNkJGV2hNTWZDRjdyb0k3Z1U2NWo2NC0yVktrZjJxenNjNFAzSkJQN1dJOU1YYW45d21FUWVVbUFISFBOc0Z2T1djMTZEVDVHbHRCeVBB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goodmorningamerica.com/news/story/jamie-dimon-ceo-largest-us-bank-optimistic-economy-98346724",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Don't expect ChatGPT to transform the US economy in the next decade, Nobel laureate Paul Krugman says - markets.businessinsider.com",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "markets.businessinsider.com",
+            "source_url": "https://markets.businessinsider.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFlGclBDNURaQ1FhYm9tZzVDakVqNkRRdUxYR1Vqck5kRF8zQXdFMElQcEpQaF9Oc2RLclVLWDE5a3RCZnNDQ3hNRW9sMkZfUjZNVHZvQzU5SjNxYUxjTU9xSXVHQ3RzMEhLYXJjTHp0QVdvV2d1UDFzQnNuWlBBQVpBMi1oai1HbkpsdFkzeTB0dXRDQlZaUTI4TU5mbjc2Q1ZVRXpSQmZhWlpTU1BYVGEzX3V6Vm1jUjZBek03OVFIeU9UcjF4THBFMElqMG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://markets.businessinsider.com/news/stocks/chatgpt-artificial-intelligence-ai-economic-growth-paul-krugman-nobel-economist-2023-4",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "On Minnesota visit, Biden touts job creation from big spending bills - Duluth News Tribune",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Duluth News Tribune",
+            "source_url": "https://www.duluthnewstribune.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkxOT3kxZ2J5X1k1Z1lnYVJuV0xvQ09VamdnbHh1WE1qdDhCaDFCekZjY0w5RlVGR2hTUmRMVkZacFBBcUI2ZzQydGhfa1Y1TTRNNlliY2hwMFFCWjNwQzZ5YzRWeDdBUEF5SU9vZkNnRTJWd2dFRWpMQ3pZZGpHZEJndjh5NXJVYzZtQmR4TmdzOTh6YmU5RDhMNkM5d3RwNkFjdWM3YV8xNnlmUlo0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.duluthnewstribune.com/news/minnesota/biden-to-tout-economic-agenda-during-twin-cities-visit-monday",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Economic Headwinds Flatten Hearing Aid Sales in 2022 - The Hearing Review",
+            "published_date": "Mon, 03 Apr 2023 14:47:04 GMT",
+            "source": "The Hearing Review",
+            "source_url": "https://hearingreview.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0V3Mm9MZGF1a0hKaEh0bnVTUmRUSF85M2w3VjQwbTJPSEpTbXQxdXE2WjdBSVhsT1F4aU4tQzJqbjZldG1MMENvTmxMbWpqYWl4Y2V6YVgwSUlxM0ZSSV9IbWNtZ09VdTV5ZGFTZk5tOGlyaS1JNm5mVmlMX2RyeW1PRnIteUVJa2FWNVE0bEllSUZRLUZaMnlaZk82d2lqVE9NeUZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://hearingreview.com/inside-hearing/industry-news/negative-2022-economic-outlook-hearing-aid-sales",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Why Poverty Persists in America (Published 2023) - The New York Times",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOFRxNEFHNUItTTh3TDJoek5KdHlkeFBRd2NvWUFqWmhsbU5zeEFSZFJrZzdMSTJjX3l2U00tTllsTUxpQmxJT1hFSDRoOWNzQ1FwbnZEbExiY1FUeVJianl1NUhvMWZCZEhBLTY3STNMVTVuTEdmX2NkOGx1dGx2NEFES0tya1h3eF9J?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/03/09/magazine/poverty-by-america-matthew-desmond.html",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Asian shares mixed after Wall St dips on weak economic data - fox5sandiego.com",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "fox5sandiego.com",
+            "source_url": "https://fox5sandiego.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT21RbEVkT20xWEpEOTlxbXZ5ZGJXa0NEOEViMkhreHR0NjFESTFiakZaUHJBa2V5Qi13clluT0tGcVpvNGFZMzJST3FjeUx4cXpWelZaNkpTV2pZNHotbE45dlNCeGx4U2VKM1ZUcHZkR01RQVZ4R01nM1RNTkNWVFpySUEwcU5hYm9Rb0JTbTV0cU44UUVtRVdFZ21IblFKSjJuaGdxY0hjTTdBdFVxZkJvLWM3Z9IBtgFBVV95cUxQT21RbEVkT20xWEpEOTlxbXZ5ZGJXa0NEOEViMkhreHR0NjFESTFiakZaUHJBa2V5Qi13clluT0tGcVpvNGFZMzJST3FjeUx4cXpWelZaNkpTV2pZNHotbE45dlNCeGx4U2VKM1ZUcHZkR01RQVZ4R01nM1RNTkNWVFpySUEwcU5hYm9Rb0JTbTV0cU44UUVtRVdFZ21IblFKSjJuaGdxY0hjTTdBdFVxZkJvLWM3Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://fox5sandiego.com/news/business/ap-business/asian-shares-mixed-after-wall-st-dips-on-weak-economic-data/amp/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "U.S. dollar slumps after weak data; markets betting Fed near end of hiking cycle - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYU1mUFdLQW1MNERjUHBIdGl1T3lENlhJSGg2UmFpNnQta3c4MGMwZ1ZQRTB0c014bDBTLVZhbjM5Y0twYzRCNmdTN19qQVBHblFhOFlYQ1g3cGtWNWRJZzEwZUdxZHlfX0xBaU5LcFFFWkp1cVl4OFhKTUpqQjl4Q0dMS1ltclV2QVdBdWh4RXVERURkMjg4alNFdmNlY2wtRlBabDR2QnFSemlCWUp0Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/currencies/dollar-slides-sluggish-us-data-aussie-steadies-ahead-rba-2023-04-04/",
+            "query": "US economic news today",
+            "text": null
+          }
+        ],
+        "Market trends for April 2023": [
+          {
+            "title": "Four Trends That Will Pop the $250 Billion Gross-to-Net Bubble\u2014and Transform PBMs, Market Access, and Benefit Design - Drug Channels",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Drug Channels",
+            "source_url": "https://www.drugchannels.net",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnl0R2hWRkV6ODg0LWpaN2lqWW9jQXNmZmxnbFFpRjRsSzZSX1VFbFQycnJGSzNjd1RhaHk0NnM3Y1dWallRb29ENk9HdHZ1RFhCRjNUZTJQUGs0d2VmelFLa2Z3YlgyeWdXdnZqTDlDQjg2QkQ0XzRmRDFRdW84QTRXNXl6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.drugchannels.net/2023/04/four-trends-that-will-pop-250-billion.html",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "US labor market loosening as job openings approach two-year low - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekFVeFliRS1zRl9fRWI0Ul9ZNUlRNTlubExid2pXbnJqTll1ay15TFhuNmJxdGpoY0prVWwyVTNRX3N1a0RzTG5ubHVhS3VCVDJSRHFQb2lsdGtOWmtXRTM3RGNFeF9HVG9KcDZfcWMxZkhETVF3NEhqdFBYeGxtdXcxNHpuaEFteGZnVnAySzZMWEdKMko2U0NSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/us/us-job-openings-lowest-nearly-two-years-february-2023-04-04/",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "The New Blueprint for Corporate Performance - Boston Consulting Group",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Boston Consulting Group",
+            "source_url": "https://www.bcg.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmxpaXdCSXZ6eXlmdGxTY0JES0ZtdThrQkVja0FSTWY2R0J1a3pnSjJZVXo3RE5lcFBMZThHbUY0WTRsQklnOXhpSUx3UTg0UTVVbkN1NGVDcFdqY1RuNmhuYW4wR09BYkhHVGh5MXdIcU9rc1VJcWN0TEJnZnVONVB5UHcydWJY?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bcg.com/publications/2023/the-new-blueprint-for-corporate-performance",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "'When will the market bottom out?' and more questions for TD Economics on the Canadian housing market - TD Stories",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "TD Stories",
+            "source_url": "https://stories.td.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc0UtS084MXh3ajJjMHc3MzJuOURlWDljeFBIbThLOXplT1RvQ3RHUl9oMDNYTk9fU0VZOXBiMFJtNk1TUzgzSURtS2loY0VXbkNRWFA1azZNSkFzcWM3U0NGTHp1S09Xc0czbm9WQWlxam8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://stories.td.com/ca/en/article/canadian-housing-market-2023",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "Green Sweeps the Nation - Pest Control Technology",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Pest Control Technology",
+            "source_url": "https://www.pctonline.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05Y2kyQ3VicDEzQ3JiQ05yd3R1YUpOeGZXNE5FNHJBbnNtQnRHaTNMeTNud3NGX25YYVE1UWlhb0dWQjd5TExVSWNCNC1GYkU4UkhoSW1scWwxVkZHeDRmdXpPM2tkcG5sMDZJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pctonline.com/article/green-sweeps-the-nation-/",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "Key Trends Shaping the Health Supplement Market in China in 2023 - BeautyMatter",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "BeautyMatter",
+            "source_url": "https://beautymatter.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWFF3SHJVbDg5Y01ka0xqU0loY2dGMDdhcG5VeHZRRXNxS25Tc0ZlUzVNd0hEemRiZ0ZTdWgwNnJaMTgtTWZNWEI0N0YzVTRPaXlrWHBPUkpjenk3U1NyZ3hTd2s2dkljcm9fSlk0Y0FxZHp5RHRtaXVDcHRCbzJhdGVqUGFSYnlWd244?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://beautymatter.com/articles/key-trends-shaping-the-supplement-market-in-china",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "Top Fashion Retail Trends of 2023: Innovations Shaping the Industry - Femestella",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Femestella",
+            "source_url": "https://www.femestella.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnR3ZmxmeHZkYjNXS2tTM3VNOHFFU2xUSGdVMDMyX051djRrZ0ZvREFRbm03UHpqaXlVS2VSSWRtY1p1X1d6MW52STBpdWNkUkVQX2pfNG01X0VUdURuM1JFZnQ1MnZEN0VvalpvNGRiSm9WNHc1ZnM3YzBDTVVxWERzTGx4WHdnTHBEYmNVa3R2c0l6ZzNfSTRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.femestella.com/top-fashion-retail-trends-of-2023-innovations-shaping-the-industry/",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "Bangladesh Economy to Grow Moderately Amid Global Economic Slowdown - adb.org",
+            "published_date": "Tue, 04 Apr 2023 06:39:25 GMT",
+            "source": "adb.org",
+            "source_url": "https://www.adb.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcER6SWJUY2pYQWd4LTh2X2M3SWg2SWNuUzVRODN5MEY5b2JvUWNDaVl1NGhKLUNETVY1NHNwWEdzRjQ5cEpKRk5lSkpHa2dESlVMV1pNOHFFMTR0WVVzcHNiN3JVWE9pMWcwZ0NhczVZb19zUEhNUzlPMzVaNTYxd2tCYld1SS0wQUFGVDBjUW94azg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.adb.org/news/bangladesh-economy-grow-moderately-amid-global-economic-slowdown",
+            "query": "Market trends for April 2023",
+            "text": null
+          },
+          {
+            "title": "Inside our markets: Unilever in Vietnam - Unilever",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Unilever",
+            "source_url": "https://www.unilever.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnJmNzcwRVF0TXhTdmczcDZnSm5zYUMyamVGakpTeG5zUkRQYUJvVHJEUndwVllPbGk0WmhFTldlUjY4cFNmLUtUWTJvN2haYXNacEhWSTMtdVFGNEJlUWpoRktTZHdITklRbWR0c0tZX2FLZTU4dTRSQ1pKNkZKcXNjQS03VDdZMTcza0VJTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.unilever.com/news/news-search/2023/inside-our-markets-unilever-in-vietnam/",
+            "query": "Market trends for April 2023",
+            "text": null
+          }
+        ]
+      },
+      "2023-04-06": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US market trends 2023": [
+          {
+            "title": "The Art Basel and UBS Global Art Market Report 2023 - Art Basel",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Art Basel",
+            "source_url": "https://www.artbasel.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3RmMlN0d2swUHhMYkMxSnJNQUowZWdEeWxfTUxqOUt2OFdXMjZXOXJWUE54bGRJQzFFN0s0algwSC1zeVpKWFRORFltLXhmU1FuZjRhVGRWWUplb2tBVTJ5TTk3RWp3cjFRZlBLdFN2dTJhRmlaWm4tNy1kNzBSdlFTV2hHdURNUGlzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-global-art-market-report-2023",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "US banking industry shifts from crisis management to addressing growth challenges - The World Economic Forum",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "The World Economic Forum",
+            "source_url": "https://www.weforum.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnUtYV81Z3Q4Uk5NdHVDcUJKeGd3Ymo0M2dEZEgycGxNaGMzODlkY3RsUVhTdC1rX2twWXVtaW9MWDlhSkctekl5RWZBd0ZJZzd1ZlM1d0lXcmVRZEpRY0NyTF84WGE4RzdqYWVZb3pkUFpaYTN6TkJEbUdLV29ONk5Rb3lEX2I0TmY1QmtMRU1kZnd4MXhSc2s5c2Y2ZlRWc2M0VW1hSUFGSmVOR3Y1cUlfcmpKcGlVeUNfWGZjRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.weforum.org/stories/2023/04/us-banking-industry-shifts-from-crisis-management-to-addressing-growth-challenges/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Walmart Sales And Profits Analysis For FY 2023 \u2014 Top 10 Insights - Forrester",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Forrester",
+            "source_url": "https://www.forrester.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUwzT1V2Wm5VYU1ENUNPVHAzcjBzS3lra0NMNWptOW5nbXpJb0pyWDM4T2lyVmI0c0RPVV9lQzFQVXJHWC00LUVKLTJrS2x3a08tYk1ySVRtaU84ZUlBWDdrbHlfdTRlTDRVc3FhNGZqMUl4SmNsekt0WU12TUJReENRd0JSLWYtb1MyNndDM2hyMzlrdlllemszWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.forrester.com/blogs/walmart-sales-and-profits-analysis-for-fy-2023-top-10-insights/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Ipsos releases Global Trends 2023: A new world disorder - Ipsos",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Ipsos",
+            "source_url": "https://www.ipsos.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcndzRmZSTEF1cDBubkZxNFowY3FXTWx3cElWUG1faVJSTThfVnVSUU9vVDlHZWRiZnpNWHQzTmt0T3hpcDVhM2hQQ3BJWXJPNWlITFhTVnFhS0l5bjZyejV3TndmNzlsR01NLTFaUkZxT2YxU25CMmdRYjBQMVhwVmRIS2FFYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ipsos.com/en-ch/ipsos-releases-global-trends-2023-new-world-disorder",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "US labor market loosening as job openings approach two-year low - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekFVeFliRS1zRl9fRWI0Ul9ZNUlRNTlubExid2pXbnJqTll1ay15TFhuNmJxdGpoY0prVWwyVTNRX3N1a0RzTG5ubHVhS3VCVDJSRHFQb2lsdGtOWmtXRTM3RGNFeF9HVG9KcDZfcWMxZkhETVF3NEhqdFBYeGxtdXcxNHpuaEFteGZnVnAySzZMWEdKMko2U0NSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/us/us-job-openings-lowest-nearly-two-years-february-2023-04-04/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "ThredUp: US resale market projected to reach $70B by 2027 - Retail Dive",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Retail Dive",
+            "source_url": "https://www.retaildive.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkJBZVU5cVpHZWVZUndRaXRkaUxLZUVOR0tKdzN5SmFnYkhaRU1XOXJjbUtVc1FWLVc2VzFOalFtN1hpZWNpYkJpbXZZV0NVNm96X0NIUHVwa0J6LWJXMmZaYmhxX2k1Q01udVQ5dDFzR2xwUmpHQkFLVE1kRmh6ODRkTk5uQ1NXa05OMXhFa29uZnRkRFhUeXhydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.retaildive.com/news/thredup-us-resale-market-projected-to-reach-70b-by-2027/646861/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "STR U.S. Hotel Performance Review for February 2023 - Hotel News Resource",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Hotel News Resource",
+            "source_url": "https://www.hotelnewsresource.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51MEo4N3pvQ3BuQUJlNFJ3cmhSNmkzdWJnNzZCdmNfUDA3ZmJxYTJPdV9CdEdUSUs5ekRMSHpqYjdZX0U1b0FPR1ZqTGFiZEFpOUFBTFRxaWt4aXpvUkZJSTNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hotelnewsresource.com/article125722.html",
+            "query": "US market trends 2023",
+            "text": null
+          }
+        ],
+        "S&P 500 analyst predictions": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 analyst predictions",
+            "text": null
+          }
+        ],
+        "US economic outlook": [
+          {
+            "title": "Charging up on battery energy storage 101, US market outlook - S&P Global",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "S&P Global",
+            "source_url": "https://www.spglobal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFVpRjRLdjlFNnI3UG04NGZoUDNUd3N1eXlfVXdtXzFKOHNrVnBWVHlWd0FzMDJ0RjJXLW1nLVZjdm9teWNxM1ZPNVZteng5VlVCQlBKR050OUZMbnNuak8tZnJqTVotbWQwVjNQMGUtZVZIZ3ZfUkxncXlEMXdBbk01NmttcHYwVVIxYUdWUkplRTV0Zm9HalBzNmlITVZuR3YzVkp2OEswM2o2UDg2N3RhUDdpTjlvbGR5Zk5NRWNocnBpVTgtOE53?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/charging-up-on-battery-energy-storage-101-us-market-outlook",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Recession Risks: The Global Impact of a US Hard Landing Scenario - Euromonitor",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Euromonitor",
+            "source_url": "https://www.euromonitor.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdmWUZ5U01UTlZUMS1RelBFTmM2endVU3MxOWY2Zk5fOERSUi1SeFFCZktyRnhqSUtsVHprU09DTXoxZGY0SnFfM2JxUkt0VEVYWHo0dDBkTERDTjZBV0w3RUNKWHAwbS1zT3lnZURzVTkyWkU1RkxBaWxuY0pjSFU3MVA3YnBkYWE2OVRqdGJsQUVJdGZLeVlfT2xYa05o?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.euromonitor.com/article/recession-risks-the-global-impact-of-a-us-hard-landing-scenario",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "US job openings slipped to 9.9 million in February - KATV",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "KATV",
+            "source_url": "https://katv.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPWnlTMFZsWUhWcEVnZWtRU1FpUFY0MDloTjJ5RTVCYTJsX2FmT1JYQjVrTEVDMkwya3NUU0NtczRqaW5HZWZwZElMSVM1VXVlUEtYTmZ5Y3QwNGdZRUM3a1hYb3ZITjB3RVk2RWNwQ0g5SkhvZDRrNWtBSmJWbnhhTmNLZ0lDQk9vY1lBNVphbFljeWhIRmdtOHhuUzl3UUo1ZHk0SHAxVTdNUmNncTE3R1duRkRLazh3QnhtNTBzLUV2eUxhdkFkU0pUVC1iMXlXWFctb2JqQXBpLUFpTlVIeXI5RmNtM1hoMElDYmJpYTloanNjM01BYXdmVzlUQmlSclpGRk81bFJyT1ByNzE2aVM3UjBiYWxXcDdLS0NFOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://katv.com/news/nation-world/us-job-openings-slipped-to-99-million-in-february-high-inflation-federal-reserve-economic-outlook-labor-department-vacancies-open-positions-american-job-market",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Economic Headwinds Flatten Hearing Aid Sales in 2022 - The Hearing Review",
+            "published_date": "Mon, 03 Apr 2023 14:47:04 GMT",
+            "source": "The Hearing Review",
+            "source_url": "https://hearingreview.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0V3Mm9MZGF1a0hKaEh0bnVTUmRUSF85M2w3VjQwbTJPSEpTbXQxdXE2WjdBSVhsT1F4aU4tQzJqbjZldG1MMENvTmxMbWpqYWl4Y2V6YVgwSUlxM0ZSSV9IbWNtZ09VdTV5ZGFTZk5tOGlyaS1JNm5mVmlMX2RyeW1PRnIteUVJa2FWNVE0bEllSUZRLUZaMnlaZk82d2lqVE9NeUZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://hearingreview.com/inside-hearing/industry-news/negative-2022-economic-outlook-hearing-aid-sales",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "U.S. auto sales defy economic headwinds in first-quarter of 2023 - CBT News",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "CBT News",
+            "source_url": "https://www.cbtnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRTJidjA4Rml4dFhCcHBxVVRjLVdkd0hyUGMtVlBvQUVHNk95YTVaZXJ1NjRNMk5QNG9uRDJTbExHd0E3S3phYllMZHBzdmVwSkljWW5LYTNtZi1MLVFibnN1UDhFQmpSM1l5eUZmVDZUNHdNMUwwOExpb3lQX2tQWk5CRjlhaHNjYmVxS3JTZ1NfZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbtnews.com/u-s-auto-sales-defy-economic-headwinds-in-first-quarter-of-2023/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "14 Charts on the Q1 2023 Whiplash Market Performance - Morningstar",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Morningstar",
+            "source_url": "https://www.morningstar.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDdBQ19kN1B5bmhlT1Q5U2pIaWFoQmE2MXk1WElkNkEtQ0s2RGlHMXJVeXNaemlKLXZ4bm80VnVtWmt4a2thNzdneDlfdlhyaEVDS01SZ2poM1M3bElpMWdHQ0xaWFV6NWhjMzlicEpTS2czRUtKdDF0amhrVWRuWThST3FqbHZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.morningstar.com/markets/14-charts-q1-2023-whiplash-market-performance",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "U.S. dollar slumps after weak data; markets betting Fed near end of hiking cycle - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYU1mUFdLQW1MNERjUHBIdGl1T3lENlhJSGg2UmFpNnQta3c4MGMwZ1ZQRTB0c014bDBTLVZhbjM5Y0twYzRCNmdTN19qQVBHblFhOFlYQ1g3cGtWNWRJZzEwZUdxZHlfX0xBaU5LcFFFWkp1cVl4OFhKTUpqQjl4Q0dMS1ltclV2QVdBdWh4RXVERURkMjg4alNFdmNlY2wtRlBabDR2QnFSemlCWUp0Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/currencies/dollar-slides-sluggish-us-data-aussie-steadies-ahead-rba-2023-04-04/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "There are 3 key signs that suggest a recession is around the corner - and 2 are already flashing - markets.businessinsider.com",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "markets.businessinsider.com",
+            "source_url": "https://markets.businessinsider.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXU3OUxYZXpFM0I4UHEyUjBjVnVvcVMzX0hRVFl0eThNVldwZFpTN29jWHhhVmpHX2RNdVo2N0J1WXZSVDl0anJ0SHpLNmo4ZWFpbUpBXzRzaTNTRG5oZXVvYW5ib1ozN2E1Mi1JTFBsTTJwcllBa0JFaU13bDdYN21sOGJPWDVNRXVucm9VZUNNNmhpcUhfVlA1NGlRSzZyMVdIV2pnOThyVkdidjdXTXREdi1hMUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://markets.businessinsider.com/news/stocks/recession-outlook-3-key-signals-economy-downturn-stock-market-2023-4",
+            "query": "US economic outlook",
+            "text": null
+          }
+        ],
+        "Market trends 2023": [
+          {
+            "title": "The Art Basel and UBS Global Art Market Report 2023 - Art Basel",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Art Basel",
+            "source_url": "https://www.artbasel.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3RmMlN0d2swUHhMYkMxSnJNQUowZWdEeWxfTUxqOUt2OFdXMjZXOXJWUE54bGRJQzFFN0s0algwSC1zeVpKWFRORFltLXhmU1FuZjRhVGRWWUplb2tBVTJ5TTk3RWp3cjFRZlBLdFN2dTJhRmlaWm4tNy1kNzBSdlFTV2hHdURNUGlzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-global-art-market-report-2023",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Ipsos releases Global Trends 2023: A new world disorder - Ipsos",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Ipsos",
+            "source_url": "https://www.ipsos.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcndzRmZSTEF1cDBubkZxNFowY3FXTWx3cElWUG1faVJSTThfVnVSUU9vVDlHZWRiZnpNWHQzTmt0T3hpcDVhM2hQQ3BJWXJPNWlITFhTVnFhS0l5bjZyejV3TndmNzlsR01NLTFaUkZxT2YxU25CMmdRYjBQMVhwVmRIS2FFYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ipsos.com/en-ch/ipsos-releases-global-trends-2023-new-world-disorder",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Four Trends That Will Pop the $250 Billion Gross-to-Net Bubble\u2014and Transform PBMs, Market Access, and Benefit Design - Drug Channels",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Drug Channels",
+            "source_url": "https://www.drugchannels.net",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnl0R2hWRkV6ODg0LWpaN2lqWW9jQXNmZmxnbFFpRjRsSzZSX1VFbFQycnJGSzNjd1RhaHk0NnM3Y1dWallRb29ENk9HdHZ1RFhCRjNUZTJQUGs0d2VmelFLa2Z3YlgyeWdXdnZqTDlDQjg2QkQ0XzRmRDFRdW84QTRXNXl6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.drugchannels.net/2023/04/four-trends-that-will-pop-250-billion.html",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Total Property Taxes On Single-Family Homes Up 4 Percent Across U.S. In 2022, To $340 Billion - attom",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "attom",
+            "source_url": "https://www.attomdata.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHVUUkRJcEYzSGNRdFB5a3ZfdThpUFVEOGExNW9VYWR1Y1VFeEtnM0EtNTUyQVB5RGoyMHBESjVHcTZyeFFfTUJyWExCNUozbF9pZ1RwcW1hWUFtc1llWlFEMGVLQko2ckZiOGE3M0FxTWVSampFeW9RaTJscl91b19aZW9uWVJfSmg2Ui10SzB1X3U5Rlc5Qm5mQ0c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.attomdata.com/news/market-trends/home-sales-prices/attom-2022-property-tax-analysis/",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "World Health Day: 8 trends shaping global healthcare - The World Economic Forum",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "The World Economic Forum",
+            "source_url": "https://www.weforum.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnJJb2ZObkJHa0NpdWNORmdiMHhZQThqZ2dENGJUMFBNc2xXXzE2RmJFb1dYeVhHSVo5LWtQeEgxcXowb1JoTFlRb00yRkJYZUFRWWtKSGxLX3dlMFZmajBRcGFSb285bjBIcWRkdXA1RlFiWTlha2V3ZHRqeXRZMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.weforum.org/stories/2023/04/world-health-day-healthcare-trends/",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "'When will the market bottom out?' and more questions for TD Economics on the Canadian housing market - TD Stories",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "TD Stories",
+            "source_url": "https://stories.td.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc0UtS084MXh3ajJjMHc3MzJuOURlWDljeFBIbThLOXplT1RvQ3RHUl9oMDNYTk9fU0VZOXBiMFJtNk1TUzgzSURtS2loY0VXbkNRWFA1azZNSkFzcWM3U0NGTHp1S09Xc0czbm9WQWlxam8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://stories.td.com/ca/en/article/canadian-housing-market-2023",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Art Market Has Climbed Above Prepandemic Level, Major Study Says (Published 2023) - The New York Times",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEpjTVdCSTFjWENoVmNJTzF0Nk56Nk5yYUt2ajl1eEVuODBRbkd4MUwyR0MtMXNOMzJlY21YZzRvT21GbzZmdDBORWRzbzhXcjV2eDMwVU40TWxOY184NWZkZERQamhrNlp1aDUwbUdldUNHWkZGV2wzZERjN0FocTVIOTlkNF93MkR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/04/arts/design/ubs-art-basel-report-art-market.html",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Top Fashion Retail Trends of 2023: Innovations Shaping the Industry - Femestella",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Femestella",
+            "source_url": "https://www.femestella.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnR3ZmxmeHZkYjNXS2tTM3VNOHFFU2xUSGdVMDMyX051djRrZ0ZvREFRbm03UHpqaXlVS2VSSWRtY1p1X1d6MW52STBpdWNkUkVQX2pfNG01X0VUdURuM1JFZnQ1MnZEN0VvalpvNGRiSm9WNHc1ZnM3YzBDTVVxWERzTGx4WHdnTHBEYmNVa3R2c0l6ZzNfSTRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.femestella.com/top-fashion-retail-trends-of-2023-innovations-shaping-the-industry/",
+            "query": "Market trends 2023",
+            "text": null
+          }
+        ]
+      },
+      "2023-04-10": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US market trends 2023": [
+          {
+            "title": "Navigating toward a new normal: 2023 Deloitte corporate travel study - Deloitte",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGJnTmJSN3hyeU11S29iYTktMDVOcEl0Y3hWc1NVMGJpZTFIY0M0dzFNRjF2YVh4NW9rUUhjVWRhazRLZzZHSkRhT2NFaWFkeXd1eDdSd3Vrd1piajQwSngxYXJOZEdUZzRpWjlPQWhCYjNMY0N6blpMaFV0SDR2Z2wySDN2X3FKZG9QVXZISXBWTzhJRThVUDgwSUt2b2xlNEEwcW9aR2xPQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/us/en/insights/industry/transportation/corporate-business-travel-survey/2023.html",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "The Art Basel and UBS Global Art Market Report 2023 - Art Basel",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Art Basel",
+            "source_url": "https://www.artbasel.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3RmMlN0d2swUHhMYkMxSnJNQUowZWdEeWxfTUxqOUt2OFdXMjZXOXJWUE54bGRJQzFFN0s0algwSC1zeVpKWFRORFltLXhmU1FuZjRhVGRWWUplb2tBVTJ5TTk3RWp3cjFRZlBLdFN2dTJhRmlaWm4tNy1kNzBSdlFTV2hHdURNUGlzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-global-art-market-report-2023",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "February 2023 JOLTS Report: A Clear Cooldown in the US Labor Market - Indeed Hiring Lab",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Indeed Hiring Lab",
+            "source_url": "https://www.hiringlab.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwWW53RXNUZzdfczJ5bjlodWVKXzBMR3RBQ0lZSXJzeDlfcEpsUmV4cnhZT1V5TTRfaC1EY2JIdWFFeUdpNEtHeEEwUUJ2TXpucVNHT1ZZWTU0bC1mLUdxNFM0Ri1CaTZJOFRQQThrVTFPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hiringlab.org/2023/04/04/february-2023-jolts-report/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Walmart Sales And Profits Analysis For FY 2023 \u2014 Top 10 Insights - Forrester",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Forrester",
+            "source_url": "https://www.forrester.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUwzT1V2Wm5VYU1ENUNPVHAzcjBzS3lra0NMNWptOW5nbXpJb0pyWDM4T2lyVmI0c0RPVV9lQzFQVXJHWC00LUVKLTJrS2x3a08tYk1ySVRtaU84ZUlBWDdrbHlfdTRlTDRVc3FhNGZqMUl4SmNsekt0WU12TUJReENRd0JSLWYtb1MyNndDM2hyMzlrdlllemszWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.forrester.com/blogs/walmart-sales-and-profits-analysis-for-fy-2023-top-10-insights/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Ipsos releases Global Trends 2023: A new world disorder - Ipsos",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Ipsos",
+            "source_url": "https://www.ipsos.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcndzRmZSTEF1cDBubkZxNFowY3FXTWx3cElWUG1faVJSTThfVnVSUU9vVDlHZWRiZnpNWHQzTmt0T3hpcDVhM2hQQ3BJWXJPNWlITFhTVnFhS0l5bjZyejV3TndmNzlsR01NLTFaUkZxT2YxU25CMmdRYjBQMVhwVmRIS2FFYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ipsos.com/en-ch/ipsos-releases-global-trends-2023-new-world-disorder",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Total Property Taxes On Single-Family Homes Up 4 Percent Across U.S. In 2022, To $340 Billion - attom",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "attom",
+            "source_url": "https://www.attomdata.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHVUUkRJcEYzSGNRdFB5a3ZfdThpUFVEOGExNW9VYWR1Y1VFeEtnM0EtNTUyQVB5RGoyMHBESjVHcTZyeFFfTUJyWExCNUozbF9pZ1RwcW1hWUFtc1llWlFEMGVLQko2ckZiOGE3M0FxTWVSampFeW9RaTJscl91b19aZW9uWVJfSmg2Ui10SzB1X3U5Rlc5Qm5mQ0c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.attomdata.com/news/market-trends/home-sales-prices/attom-2022-property-tax-analysis/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "US labor market loosening as job openings approach two-year low - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekFVeFliRS1zRl9fRWI0Ul9ZNUlRNTlubExid2pXbnJqTll1ay15TFhuNmJxdGpoY0prVWwyVTNRX3N1a0RzTG5ubHVhS3VCVDJSRHFQb2lsdGtOWmtXRTM3RGNFeF9HVG9KcDZfcWMxZkhETVF3NEhqdFBYeGxtdXcxNHpuaEFteGZnVnAySzZMWEdKMko2U0NSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/us/us-job-openings-lowest-nearly-two-years-february-2023-04-04/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "ThredUp: US resale market projected to reach $70B by 2027 - Retail Dive",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Retail Dive",
+            "source_url": "https://www.retaildive.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkJBZVU5cVpHZWVZUndRaXRkaUxLZUVOR0tKdzN5SmFnYkhaRU1XOXJjbUtVc1FWLVc2VzFOalFtN1hpZWNpYkJpbXZZV0NVNm96X0NIUHVwa0J6LWJXMmZaYmhxX2k1Q01udVQ5dDFzR2xwUmpHQkFLVE1kRmh6ODRkTk5uQ1NXa05OMXhFa29uZnRkRFhUeXhydw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.retaildive.com/news/thredup-us-resale-market-projected-to-reach-70b-by-2027/646861/",
+            "query": "US market trends 2023",
+            "text": null
+          }
+        ],
+        "S&P 500 investor sentiment": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          }
+        ],
+        "US economic outlook": [
+          {
+            "title": "Workforce Imbalances Remain Important to U.S. Economic Outlook - kansascityfed.org",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "kansascityfed.org",
+            "source_url": "https://www.kansascityfed.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVZuQTNkbjBQZXNfbE1BWDNreGZsNm1NOWhHNGFhNGVrQWhhRmNSRUpWblF3UkVVTkNFWHZGSm9vb2VZRzBkNC1QVThKMTNVamZTVkJkc245V2xiRXloaE0wZmpuNWpubEYtVk1sRklSMVlIdlFiVEc1UWl1U0JSYVhPRkxwdEdGcEctenJ5UC1jSklfbTdDWldtbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.kansascityfed.org/ten/workforce-imbalances-remain-important-to-us-economic-outlook/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "China\u2019s (Rough) Economic Trajectory to 2050 - American Enterprise Institute - AEI",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "American Enterprise Institute - AEI",
+            "source_url": "https://www.aei.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5MdWtZa0gxWm8tcHo5SDBjY3d2am0yRDFXbVI1c25iNm1Kdk9NR2ZnS1VFeUVPcm9ONGpyQ3pVRXVqTVhnVnlXdkN3YjdpUnpNRjVERTMyT09pYjM1QU9iazNUZTFTTkhodnNnUlNQTDRXN1duSmcwVlNDb0tHS2tzbzFiXzJTNzgyOFBDNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.aei.org/research-products/report/chinas-rough-economic-trajectory-to-2050/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Highlights from the sidelines of the IMF and World Bank Spring Meetings - Atlantic Council",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Atlantic Council",
+            "source_url": "https://www.atlanticcouncil.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSWpuenI1ejBOb1hxeHZwaWhCeXBKZlA0cEN3ajA0alRMbjdmWnhZZkNJc0ZaUUN3cFdTczFZVjRmUkpOYkVEdER4UVVMR2V6aGtYaDFuTG5WOWltTTgxeGx2NW0wb29EZ1plMDJ2a2dzT29OX0RoaDEyWVQ0OHpndHN2QVV5ZGRHcV9RRmxoNEVnbkl2d2RjWmZwd3Ric3RqbG9wREtjWGItdTRqQlpOSVJ5Z3owbTFBU2x5ay1FSXZHT0Vo?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/highlights-from-the-sidelines-of-the-imf-and-world-bank-spring-meetings/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "3. Evaluations of the economy and the state of the nation - Pew Research Center",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "Pew Research Center",
+            "source_url": "https://www.pewresearch.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1d4S2tZVVdialdWYVpzUVI3V3AyZEF4eDdwX1BETW0zYlVQNlpwa0U0eVBJUVBQNVZoNVNIRXlyY3RHSjNMRng4bFJMUGtYbGlMZmNyTW5CaG5rZjhOSTB5NG9NVjlMaW5xY3ZqQ1JEUF9rY014R05kSGJkMlNOZUZkOFEzZGE2UUE0cUlPLUJzUTlLNnoxR3U3V3FKVTRmSkZZTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pewresearch.org/politics/2023/04/07/evaluations-of-the-economy-and-the-state-of-the-nation/",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Charging up on battery energy storage 101, US market outlook - S&P Global",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "S&P Global",
+            "source_url": "https://www.spglobal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFVpRjRLdjlFNnI3UG04NGZoUDNUd3N1eXlfVXdtXzFKOHNrVnBWVHlWd0FzMDJ0RjJXLW1nLVZjdm9teWNxM1ZPNVZteng5VlVCQlBKR050OUZMbnNuak8tZnJqTVotbWQwVjNQMGUtZVZIZ3ZfUkxncXlEMXdBbk01NmttcHYwVVIxYUdWUkplRTV0Zm9HalBzNmlITVZuR3YzVkp2OEswM2o2UDg2N3RhUDdpTjlvbGR5Zk5NRWNocnBpVTgtOE53?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/charging-up-on-battery-energy-storage-101-us-market-outlook",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Recession Risks: The Global Impact of a US Hard Landing Scenario - Euromonitor",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Euromonitor",
+            "source_url": "https://www.euromonitor.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdmWUZ5U01UTlZUMS1RelBFTmM2endVU3MxOWY2Zk5fOERSUi1SeFFCZktyRnhqSUtsVHprU09DTXoxZGY0SnFfM2JxUkt0VEVYWHo0dDBkTERDTjZBV0w3RUNKWHAwbS1zT3lnZURzVTkyWkU1RkxBaWxuY0pjSFU3MVA3YnBkYWE2OVRqdGJsQUVJdGZLeVlfT2xYa05o?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.euromonitor.com/article/recession-risks-the-global-impact-of-a-us-hard-landing-scenario",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "14 Charts on the Q1 2023 Whiplash Market Performance - Morningstar",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Morningstar",
+            "source_url": "https://www.morningstar.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDdBQ19kN1B5bmhlT1Q5U2pIaWFoQmE2MXk1WElkNkEtQ0s2RGlHMXJVeXNaemlKLXZ4bm80VnVtWmt4a2thNzdneDlfdlhyaEVDS01SZ2poM1M3bElpMWdHQ0xaWFV6NWhjMzlicEpTS2czRUtKdDF0amhrVWRuWThST3FqbHZz?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.morningstar.com/markets/14-charts-q1-2023-whiplash-market-performance",
+            "query": "US economic outlook",
+            "text": null
+          },
+          {
+            "title": "Economic Headwinds Flatten Hearing Aid Sales in 2022 - The Hearing Review",
+            "published_date": "Mon, 03 Apr 2023 14:47:04 GMT",
+            "source": "The Hearing Review",
+            "source_url": "https://hearingreview.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0V3Mm9MZGF1a0hKaEh0bnVTUmRUSF85M2w3VjQwbTJPSEpTbXQxdXE2WjdBSVhsT1F4aU4tQzJqbjZldG1MMENvTmxMbWpqYWl4Y2V6YVgwSUlxM0ZSSV9IbWNtZ09VdTV5ZGFTZk5tOGlyaS1JNm5mVmlMX2RyeW1PRnIteUVJa2FWNVE0bEllSUZRLUZaMnlaZk82d2lqVE9NeUZ3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://hearingreview.com/inside-hearing/industry-news/negative-2022-economic-outlook-hearing-aid-sales",
+            "query": "US economic outlook",
+            "text": null
+          }
+        ],
+        "Market trends 2023": [
+          {
+            "title": "The Art Basel and UBS Global Art Market Report 2023 - Art Basel",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Art Basel",
+            "source_url": "https://www.artbasel.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3RmMlN0d2swUHhMYkMxSnJNQUowZWdEeWxfTUxqOUt2OFdXMjZXOXJWUE54bGRJQzFFN0s0algwSC1zeVpKWFRORFltLXhmU1FuZjRhVGRWWUplb2tBVTJ5TTk3RWp3cjFRZlBLdFN2dTJhRmlaWm4tNy1kNzBSdlFTV2hHdURNUGlzWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-global-art-market-report-2023",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Navigating toward a new normal: 2023 Deloitte corporate travel study - Deloitte",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGJnTmJSN3hyeU11S29iYTktMDVOcEl0Y3hWc1NVMGJpZTFIY0M0dzFNRjF2YVh4NW9rUUhjVWRhazRLZzZHSkRhT2NFaWFkeXd1eDdSd3Vrd1piajQwSngxYXJOZEdUZzRpWjlPQWhCYjNMY0N6blpMaFV0SDR2Z2wySDN2X3FKZG9QVXZISXBWTzhJRThVUDgwSUt2b2xlNEEwcW9aR2xPQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/us/en/insights/industry/transportation/corporate-business-travel-survey/2023.html",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "ANALYSIS: What Happened to Private Equity in Q1 2023 - Bloomberg Law News",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Bloomberg Law News",
+            "source_url": "https://news.bloomberglaw.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDZsTF9XUGE1TFNESDE1T0F3SVdsd1F4SFBkbmpQRTFTSzRSTHN4MGctSWVncUNKR05ZbmpldDIyS1BicWhuOG0yS3FXQmZGM0VnUEhjZExEUnVFTVFIRjQ0N2tDdXRaVUFFUEUwbFItUDVDYXc3cXpGenZXdkZCRWhEUWwyeGVqZ0IwZ3dNTnhiZ3NlcUhBSlZVc29hdzZjb20tQkM0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-what-happened-to-private-equity-in-q1-2023",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Ipsos releases Global Trends 2023: A new world disorder - Ipsos",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Ipsos",
+            "source_url": "https://www.ipsos.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcndzRmZSTEF1cDBubkZxNFowY3FXTWx3cElWUG1faVJSTThfVnVSUU9vVDlHZWRiZnpNWHQzTmt0T3hpcDVhM2hQQ3BJWXJPNWlITFhTVnFhS0l5bjZyejV3TndmNzlsR01NLTFaUkZxT2YxU25CMmdRYjBQMVhwVmRIS2FFYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ipsos.com/en-ch/ipsos-releases-global-trends-2023-new-world-disorder",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Four Trends That Will Pop the $250 Billion Gross-to-Net Bubble\u2014and Transform PBMs, Market Access, and Benefit Design - Drug Channels",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Drug Channels",
+            "source_url": "https://www.drugchannels.net",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnl0R2hWRkV6ODg0LWpaN2lqWW9jQXNmZmxnbFFpRjRsSzZSX1VFbFQycnJGSzNjd1RhaHk0NnM3Y1dWallRb29ENk9HdHZ1RFhCRjNUZTJQUGs0d2VmelFLa2Z3YlgyeWdXdnZqTDlDQjg2QkQ0XzRmRDFRdW84QTRXNXl6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.drugchannels.net/2023/04/four-trends-that-will-pop-250-billion.html",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Total Property Taxes On Single-Family Homes Up 4 Percent Across U.S. In 2022, To $340 Billion - attom",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "attom",
+            "source_url": "https://www.attomdata.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHVUUkRJcEYzSGNRdFB5a3ZfdThpUFVEOGExNW9VYWR1Y1VFeEtnM0EtNTUyQVB5RGoyMHBESjVHcTZyeFFfTUJyWExCNUozbF9pZ1RwcW1hWUFtc1llWlFEMGVLQko2ckZiOGE3M0FxTWVSampFeW9RaTJscl91b19aZW9uWVJfSmg2Ui10SzB1X3U5Rlc5Qm5mQ0c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.attomdata.com/news/market-trends/home-sales-prices/attom-2022-property-tax-analysis/",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "World Health Day: 8 trends shaping global healthcare - The World Economic Forum",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "The World Economic Forum",
+            "source_url": "https://www.weforum.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQnJJb2ZObkJHa0NpdWNORmdiMHhZQThqZ2dENGJUMFBNc2xXXzE2RmJFb1dYeVhHSVo5LWtQeEgxcXowb1JoTFlRb00yRkJYZUFRWWtKSGxLX3dlMFZmajBRcGFSb285bjBIcWRkdXA1RlFiWTlha2V3ZHRqeXRZMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.weforum.org/stories/2023/04/world-health-day-healthcare-trends/",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Wohlers Report 2023 focusses on the growth of the AM industry - VoxelMatters",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "VoxelMatters",
+            "source_url": "https://www.voxelmatters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV1piaWJlcnB3XzZsaGFaTnVtV0x2dkRfRG5LdERZeFVzLWdJQjFHcm4yYjFKNWlHVnNhZ0JVb0JMQlRBamhHSVZ0UGl1OUlKSmNiRnBpenpRQV8yV0x5ZnMtUmlkT1ZwUVloc293WTZEVzFDcVl1ZWxuSFlxbHJOeXBEUFhYZzJMX092ZGpWTE16aGE4RXfSAZsBQVVfeXFMUEpIVHpraW1sTExIRF82Y05pa2lFR2x5NjAyNEJ2a1JuV1BwcGVmLWRVOW1JMTlWLUtyQnRhYVpvaGR3cXprd2RPWlppU0U4OU8tN2xnM3RRem9jcVBfbTdjbE1HSWZySHdRdUZMN0ZDNl9oWDNBclhYOEZJVUtPOFI4RE9qT1hMU19JZ045cmtqT2dvSDdrTjVNU1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.voxelmatters.com/wohlers-report-2023-focusses-on-the-growth-of-the-am-industry/",
+            "query": "Market trends 2023",
+            "text": null
+          },
+          {
+            "title": "'When will the market bottom out?' and more questions for TD Economics on the Canadian housing market - TD Stories",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "TD Stories",
+            "source_url": "https://stories.td.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc0UtS084MXh3ajJjMHc3MzJuOURlWDljeFBIbThLOXplT1RvQ3RHUl9oMDNYTk9fU0VZOXBiMFJtNk1TUzgzSURtS2loY0VXbkNRWFA1azZNSkFzcWM3U0NGTHp1S09Xc0czbm9WQWlxam8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://stories.td.com/ca/en/article/canadian-housing-market-2023",
+            "query": "Market trends 2023",
+            "text": null
+          }
+        ]
+      },
+      "2023-04-17": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US market trends 2023": [
+          {
+            "title": "The state of the global beauty industry in 2023 - NIQ",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "NIQ",
+            "source_url": "https://nielseniq.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTEFsV2FaMWs2a2QzY1hSakF2OTJrZmxQVFpEUHNZcC00cWdGX3B4Y0lDb2VQdmRPNWRVcG5ObDdOTTZZeGlnY0ZEVW8xcXpvSVhSdF9MczZpekdEcjNDSFUzSFJPeE1YdVJUUm1VSVIzTTNfT09kcEJ1ejB6RHF2QS1oSEJNeVdqUzdZM2FxLXFTY0E3b1ZHTWRVMl8zQ1VTWk9zZElGRXpLV1FCZjhUeA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://nielseniq.com/global/en/insights/report/2023/the-state-of-the-global-beauty-industry-in-2023-brandbank/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 Digital media trends: Immersed and connected - Deloitte",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWR2Q0lvZEtoVHdSRk5mWXpva3QwSm52T19Db2MxdkpyQnpoTkhxZVZkOVpENDNxV0RDSTBqU3djMUhKY2FEb0tFQWNWak9tTlpaS09ZYTh2R3dIaFF4cHM4Z0ItRHoxVFJrYVVmUXUtZlUtNHJNaWQ5OXJHamJmWnRsYzVua1BEMV84bkJ0TEsta2FxVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/us/en/insights/industry/technology/media-industry-trends-2023.html",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "2023 North America Industrial Big Box - CBRE",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUlJjRHZ5ZmZWZ1hPcGJHRVVzY2VyOENrSUlhVWRuX28zQVNnUDR5Z0x6TWZoZVRoaDY2QmZEdWVDc2pjUVF5RGxjb2VTdFY5MWFPeDNIRTlkOWxWYmFQcmRiTFlRWWhNQ3F1ZWwzek1HYjJma2JyV2RNX3ZyNW1SNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/reports/2023-north-america-industrial-big-box",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "U.S. energy consumption increases between 0% and 15% by 2050 - U.S. Energy Information Administration (EIA) (.gov)",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Energy Information Administration (EIA) (.gov)",
+            "source_url": "https://www.eia.gov",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PWnJpYmV5dTVpQzhKc0IyTkFQODVOenpQZXVMYkc4dVhSZWwtQXpfVTltcmlxZjBsOFZjbDNpamExaEdBd1hFWDRyWHFrUlpsMUNYYk0wUVFHODZpT0t2LWNmaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=56040",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Accelerating the 5G Economy in the US - Boston Consulting Group",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Boston Consulting Group",
+            "source_url": "https://www.bcg.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWThidlcxTXR6XzMySWlzSFJkUjU0QjRUMWthWUJiYVg1ZG1EZG5vSWtzc3FoSGVUOGxNSlBwOVl5THh6aXNEQldZZWl1YVdRXzJSOTgzNm1CMHctMnMzZVlhR2NLd2FQRnJzc1d2UVJqcGVULVozT0xFOF9GcWJPcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bcg.com/publications/2023/accelerating-the-5g-economy-in-the-us",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Sports Apparel Market Share & Trends | Growth Analysis, 2034 - Fortune Business Insights",
+            "published_date": "Mon, 17 Apr 2023 06:48:29 GMT",
+            "source": "Fortune Business Insights",
+            "source_url": "https://www.fortunebusinessinsights.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nNi1uSHNheGJDQ0ZQWjd3SkoyRzlSVFJ3ZmFRZFVmYk9JMDdNMC1iS3hKRVRtalFLeFlHc0tlOGNJN1JrNnFIQ3A3LUxIQ2pZYmlxT0VFaVpJZVpQMi14YVJONjJNNW5CUEp6YkZqai1QcXRyV2Jz?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.fortunebusinessinsights.com/sports-apparel-market-107401",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Walmart Sales And Profits Analysis For FY 2023 \u2014 Top 10 Insights - Forrester",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Forrester",
+            "source_url": "https://www.forrester.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVUwzT1V2Wm5VYU1ENUNPVHAzcjBzS3lra0NMNWptOW5nbXpJb0pyWDM4T2lyVmI0c0RPVV9lQzFQVXJHWC00LUVKLTJrS2x3a08tYk1ySVRtaU84ZUlBWDdrbHlfdTRlTDRVc3FhNGZqMUl4SmNsekt0WU12TUJReENRd0JSLWYtb1MyNndDM2hyMzlrdlllemszWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.forrester.com/blogs/walmart-sales-and-profits-analysis-for-fy-2023-top-10-insights/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "Industry 4.0 Market Size, Share, Trends | CAGR of 20.7% - Market.us",
+            "published_date": "Fri, 14 Apr 2023 14:38:38 GMT",
+            "source": "Market.us",
+            "source_url": "https://market.us",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BM2p2bzYtdWJualA0VlZma2J6b0tUazBvYW91NzEzT1d4NWsyWG15S2JCX1VQYUEtRTVpU243SHRiVW5LM0NXR3NxMHY3LUxORUh0ckU1QWo?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://market.us/report/industry-4-0-market/",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "U.S. Protein Ingredients Market Size | Industry Report, 2030 - Grand View Research",
+            "published_date": "Tue, 11 Apr 2023 08:13:30 GMT",
+            "source": "Grand View Research",
+            "source_url": "https://www.grandviewresearch.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0xFWkIyTnVUOW9LcURZbVdZV2JjVlA0cVA0eUpDTllUQmNSN0IwZTVBR3BfTG5DaFBJV2ZpWW1PbU9aOTJ2WUZucVJELTVPN2hkenBxQTVMNTBiSUZmUEVfZWxmUnVnN1RXZ3I2ekFyakl5US0zejFSUnFfLS1pX2E0ZlRWRDFFQlVvXzFJaXJNQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.grandviewresearch.com/industry-analysis/us-protein-ingredients-market-report",
+            "query": "US market trends 2023",
+            "text": null
+          },
+          {
+            "title": "US labor market loosening as job openings approach two-year low - Reuters",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekFVeFliRS1zRl9fRWI0Ul9ZNUlRNTlubExid2pXbnJqTll1ay15TFhuNmJxdGpoY0prVWwyVTNRX3N1a0RzTG5ubHVhS3VCVDJSRHFQb2lsdGtOWmtXRTM3RGNFeF9HVG9KcDZfcWMxZkhETVF3NEhqdFBYeGxtdXcxNHpuaEFteGZnVnAySzZMWEdKMko2U0NSUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/markets/us/us-job-openings-lowest-nearly-two-years-february-2023-04-04/",
+            "query": "US market trends 2023",
+            "text": null
+          }
+        ],
+        "S&P 500 investor sentiment": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 13:21:53 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities - Los Angeles Times",
+            "published_date": "Sat, 23 May 2026 10:00:00 GMT",
+            "source": "Los Angeles Times",
+            "source_url": "https://www.latimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0xPbG5SUlZFaEV1NzBtUTl5cVQ5SzlFME9WaS04TkwyRHRBRjNIbW50SnotUjJZelAtdVF4UDhZdjBwSERlWTJoQ3VITDlXaG9oeFppYmkzTThKQTBfMGluMmNnNGxKb19FSUpYRmh1OTRJUWU4bmxLYWF0SE1ZXzVUdmI1Vkp6bjJ0UlRDeVdUaGxwZUJQNGtVbVJ0d29HMUdYdF9YWmNUNTdrNUFTbDV2TEZDM1ZHZk9ZX21WSEJXZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 investor sentiment",
+            "text": null
+          }
+        ],
+        "US economic news today": [
+          {
+            "title": "The State of Small Business in America - U.S. Chamber of Commerce",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "U.S. Chamber of Commerce",
+            "source_url": "https://www.uschamber.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNUnhLUU9KUW1sbXp6WUFEczNCT1B5cVJXU2pnOVZjUWJiWXRlTVRnZUk4SGFXWUZSRmNkTjdPcW85X1lBNmh0ZkwyM0paMEpjT3ZXdjZhOGFuWjY2S1hsS0xURThURVM2dzVTQ0trcUJIa3dvallB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uschamber.com/small-business/state-of-small-business-now",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "3. Evaluations of the economy and the state of the nation - Pew Research Center",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "Pew Research Center",
+            "source_url": "https://www.pewresearch.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1d4S2tZVVdialdWYVpzUVI3V3AyZEF4eDdwX1BETW0zYlVQNlpwa0U0eVBJUVBQNVZoNVNIRXlyY3RHSjNMRng4bFJMUGtYbGlMZmNyTW5CaG5rZjhOSTB5NG9NVjlMaW5xY3ZqQ1JEUF9rY014R05kSGJkMlNOZUZkOFEzZGE2UUE0cUlPLUJzUTlLNnoxR3U3V3FKVTRmSkZZTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pewresearch.org/politics/2023/04/07/evaluations-of-the-economy-and-the-state-of-the-nation/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "The Decline of the Free-Market Economy in the United States - Warsaw Enterprise Institute",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Warsaw Enterprise Institute",
+            "source_url": "https://wei.org.pl",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkJmNEdKY3hGM0daWUJ1T2YyODY4QzlWYzFtWnNWeXRIUmhrb0RXcTJlbXlHX2lhY1ZNUTNWRU9KSmNmZWtYNE1kWmUtMENBSWxIUGdLWmJ0M0gtaVpEVDcwYThyR3BtNGNjRWphejBsUTVIcmlYN1NnZXNQZjI1clE2OGkwdUJhS3VrTDR6a3FOUFY0bC1fWUQ2VnBnMlJ2Y25QRUFhZmQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://wei.org.pl/en/2023/news/agnes-tycner/the-decline-of-the-free-market-economy-in-the-united-states/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Opinion | How Immigrants Are Saving the Economy (Published 2023) - The New York Times",
+            "published_date": "Thu, 13 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdfT0lzeEFmaFZRYXhwZDFWbEFrck1qcmdubHVVemdhcGVkR25iZmRKbzROdElCcEZ5eFFJSG9RSVBxWHZGZWo4Slk0MTkwcEJiWFltN2FVbEs2aFQzRGFuZWwwTXNIUGxmSkUxUi1Kb09HdnVnbVdTZ3laWjJRQ0JhazdxLVlkeE00TC1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/13/opinion/how-immigrants-are-saving-the-economy.html",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "US economy still churning out jobs at brisk clip; wage pressures subsiding - Reuters",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZm5NMVB2QXY3bFRZelNIZDMwN09jbDdkTU1kTkJVMktiSm1HdHFqU01SQWJXS1NOVWhycVZNVmo1OVRhakkxX2tRS05aa0FlNHZ6aDZBY1NiUHhrOEtHVEpxdGJSM3BQWG9pdEkyd3Zfb3NmSGRxcUs0VmtDci1MeW9hWDlMRFk5TXdIVV9GMnEzRUYyNTdlel9SQklNcWl2ZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/world/us/us-job-growth-expected-moderate-remain-brisk-pace-march-2023-04-07/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "The U.S.\u2013India Relationship Is Key to the Future of Tech - Harvard Business Review",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Harvard Business Review",
+            "source_url": "https://hbr.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamwtd3lraWtISk9sUUpvWGVyeUc4a0wwRk5iVmNCWVRWOTkwOWxTTFBVbHBJTXYxbU50R0lhUEdlYnY2YnBVSnZ0X1Q2eG5MZ2ZBUkVMRjhrOWVLazY0YVI5WWhkeFZzWTl5emhzNGRzSTVZRVJfRHB6YkIxX3lCUWQwWmYyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://hbr.org/2023/04/the-u-s-india-relationship-is-key-to-the-future-of-tech",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "A West Coast Port Strike Would Cost US Economy $500 Million a Day - Bloomberg.com",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Bloomberg.com",
+            "source_url": "https://www.bloomberg.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRndYb1FmcDlrOUdkTGpsZF90VmJFQUpYcXZTdWM3bHkxTWZWUWNzdmxaYmpvamRSSVN0UzhtYzZ0WEh0M2FDTmROUUVSa2dWeUh1Qzd5QVdHbTY2RnVndG1jUWRCQWFKbVlXR3cteXk1NXhWODZuWnhGeEs2M0dBTjRxclhCUFMxbHZFanpzMjZYQ3JxUVNOMl9yb05TWm1CaEE0a1hEamVpRENWSUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bloomberg.com/news/newsletters/2023-04-10/supply-chain-latest-economic-impact-of-a-us-port-strike",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "The myth that America prospered after WWII despite extremely high taxes on the rich - Northwood University",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Northwood University",
+            "source_url": "https://www.northwood.edu",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHJqU2pNblBTZ1Z1aDgyeXpBb2NaSGpmaEtWXzRTSExuTnlhdmlOendVLWpuZk9uUEREcjY5NnNsQnhYQWI0WkR4RGViZ3V0TW8wWHpRQzlHc2xjc0dVTlNfNS1ZUm9BM3g3UVpzSk12ZjlxYzZGWDRZWHRjRHNMU1NoUGdidVJNX3pMdTlxdE5CODRuNTlNT1NjUDhCd3JyYTg5a0FscU5mbXdsRzZxYUVMWXE5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.northwood.edu/news/the-myth-that-america-prospered-after-wwii-despite-extremely-high-taxes-on-the-rich/",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Reserve Reservations - City Journal",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "City Journal",
+            "source_url": "https://www.city-journal.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHhlbjNwSV9sZW1KOXl5X3dUX3lHYUl0X1k3UkNjMU1EeC1KVFY5WUlKSlhleEZjaU54Rl91VEVfeUVZQV9kTkZKUk43Ti1GODZSSkdWR1dpaFk5RUJCWXZLWmV6QVd1WVRpNE5BdklhR0wwaW8ySGU2UXRrZnhSdnJCNDBiYkpnZ0dDdWs4V3QtbU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.city-journal.org/article/is-having-the-reserve-currency-good-for-united-states",
+            "query": "US economic news today",
+            "text": null
+          },
+          {
+            "title": "Survey: Fed To Hike Rates Once More Before 2024 Cuts - Bankrate",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Bankrate",
+            "source_url": "https://www.bankrate.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHNBOC1vNjdWd3ZOUkR5MXJWamRGU3dYZ3BudjJDT3ZiYmdGeE9sRnAxeXdtSTNTRU1wOUtxQ3dlaElyenZpOVZmbFlSdzFoMVF3Yk1oNjhlTm5UZ0RSenhWenZTcGpzdlBYUWZhQnFvc2RGVjdCd085cmZjckI2R0RfbkptelJUR3F2QVR1aExvS2FHYkRyZUxwUE5wY1RPMlpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bankrate.com/banking/federal-reserve/economic-indicator-survey-interest-rates-april-2023/",
+            "query": "US economic news today",
+            "text": null
+          }
+        ],
+        "Market trends this week": [
+          {
+            "title": "The Best Week to List Your House for Sale Is Coming This Month - money.com",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "money.com",
+            "source_url": "https://money.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UN0N0S1pqRzBRWEZwY2JCdnRleW5uZWt2ZGY0cHBxWWdtWUlobDNmcnJfMTdmUy1ERTFTX3h5b0x4OGZMaXlsWTNuZ2llMzgtdmlWelBWV2tGRkN4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://money.com/best-week-list-house-for-sale/",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "This week in energy: Surprise OPEC+ cuts, energy project legislation, electricity demand growth - The Real Economy Blog",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "The Real Economy Blog",
+            "source_url": "https://realeconomy.rsmus.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdm5tN2NJUzlhSlo0YmVFWVdUTll1bTMwdFBleVVrRXFDc2dDdEpkc0MzRHhaMFd4NGpNaXBidGplaWZUSjlzQmhNYl9uT3RWRThSLWg2bWszR2lkZG5OME5LT01uNWJmV01GM0U0WlpjWFZaVlBTQVFmc2N6ci1Qdm5oc2F6ektxenJRN3lkampzZlltazFCS2RablppUldZZXZHVDFTd3hadEc5QUlBZlVJODhPQ0pQYlBSRFhtVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://realeconomy.rsmus.com/this-week-in-energy-surprise-opec-cuts-energy-project-legislation-electricity-demand-growth/",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Weekly Container Freight Update Week 14, 2023 | US West Coast bound shipping rates drop faster from Far East than South East Asia - Xeneta",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Xeneta",
+            "source_url": "https://www.xeneta.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3FHYlhqSm05elI5R3h1dGI0LVVMaDdUVkZYWjRfVWlTcVdkdkFpWkVJZWlRemZDcHpDWFVEcF9sYTZrSU9nZTNFYWk0YlhuanU4bHU5bnI0d2dObU1DZUROZG5tVG16QmxVaGNadDBnczBQNXBTQ0MwVGpSRVN1NGdiUUtqb2hSY1NCb2k5YTA2bm10eTNyWGdGcUdDT1FBczFpMVRsd1dQblljaVVmd3RWZGp3bXlLS2NtRElSeDdoX1Q3NlBmeXFXMTJQaHpVREk1ZTlhdW0zcWUwZTM1WXQwZEVkdmNqNEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.xeneta.com/blog/weekly-container-freight-update-week-14-2023-us-west-coast-bound-shipping-rates-drop-faster-from-far-east-than-south-east-asia",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Global: Where (in the world) are people listening to podcasts? - YouGov",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "YouGov",
+            "source_url": "https://yougov.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkk3TmZMSDJIcWdwUkFRb2RKQnZFYnNFQlVkaW82NE5EZ3pKeGV1N2xEMzViTUZROHlzNC1fVHJ3RUtJaEFXXzVIWWh5TVl2VUNPSV9OTHN3RW9GWXlXRVZ3UmxCYXplWWdkNHF1UlE0OF9nM01pZDFLQVhueWVTWkROMXY4LVkzdy1Gck56Rl9BdjI5Njlr?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://yougov.com/articles/46462-global-where-in-the-world-are-people-listening-to-podcasts",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Space launch: Are we heading for oversupply or a shortfall? - McKinsey & Company",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "McKinsey & Company",
+            "source_url": "https://www.mckinsey.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmw3Y0EtREk1aFBVelhVdGhaNXY4MllleXNxdDhxTVlCYUhpOHBZaUZXMlNzaGFuVjZ4ZTNaODdkZ1F3bnJpYWhLb3FUWEt5N2htSzJFSmtJX2laZ1FmZXBUVkgtaGkzUlhnZFhtamluUnk1YU5ISVRmcjExX2VYNXhkQjlCOXczYTREelpERlV5bU1yaUVuQ1lxcUxJSFQtOGRpenlUMmtUc2tYNzNFMmNLUFpMWDVydFU3Vm5iZkRob01zajdR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/space-launch-are-we-heading-for-oversupply-or-a-shortfall",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Bud Light Off-Premise Sales and Volume Decline in 1st Week of Boycott; Impact \u2018Rough, Not Catastrophic\u2019 - Brewbound",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Brewbound",
+            "source_url": "https://www.brewbound.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDN4TWgzcnBqd1FXOHlGV2szWW1uRHhXOFF2SDNaNzFNV09uek42Ujc3ajVqNXlDNklVaVpxWG41MEo0U0RFQ2Z1eVFaNmQ0dWZ4V1c0cGZaNVVKYXlrcXJMbjlkbGVPQ3h5NUl4UnVmdDJlVXRTZzRZNGJyZEFrRkdmVmFsUXR2QkZ3SzNPa1FvUE1TakNMWmtEaGJnU21RNmtORHVYbzJkal9uUDRUNENXTk45Rm03SVdtYlhkWUdITVNqdGZXU0pRYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.brewbound.com/news/bud-light-off-premise-sales-and-volume-decline-in-1st-week-of-boycott-impact-rough-not-catastrophic/",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Stock Market Closed on Good Friday 2023 \u2013 Will the Holiday Effect Apply? - TipRanks",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "TipRanks",
+            "source_url": "https://www.tipranks.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDJTWEF0bG9RVXpRYzFjbUEtcDc0Y2IwVTJDYkZNOGI0NURyVUtibks4ZVRHSEEyWkhJdTNmbkJhNG9aX1JackF3UzNHT1VxalhwWDl0SDdmZDFzRER5b0VGbWlXLWJFOWF0VG9hOWdpUEloNE9zTVFuQlhqeG9SbllyMGEzRUhGTWkxRnU4NHNHM0NvNkpzd1pIcXJEX3JuV1B5eVBzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.tipranks.com/news/labs/stock-market-closed-on-good-friday-2023-will-the-holiday-effect-apply",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "The Bull Market May Come Due to BTC Halving, Says KuCoin Head of MENA Business Development at Istanbul Fintech Week 2023. - Business Wire",
+            "published_date": "Thu, 13 Apr 2023 07:00:00 GMT",
+            "source": "Business Wire",
+            "source_url": "https://www.businesswire.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTlRoemR3MGJpSW1UTVN2YVBUWFd2MURDcTcyclpyQzByRmNNTmh3OUo0blBVNHpLam1rZ0pIQmw4UF92OGt1RUZiOVFlSF9xRnNFc3Y1RElHdm5yWHNSUDBDVDNyVGFQNUloMGM3RmVtWndRT1l6bFktako4amp5bU9tTGplTHdPSWJycUQzLVBwVlA0ZlZrMThMQUNHQ3NSZVA2bWozclE3U3BWeXVSWnQwaV9TX1JXVUdDN0pHcTkzVEtod1VhdFU5TjlEVm0taGJFVG4ySkpab2RvQ3dYME1LNEFmNGhabURGY2M3QVMzZWhydUZ5bEQ0TmE4ZUxsUms1T0NIUVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.businesswire.com/news/home/20230413005606/en/The-Bull-Market-May-Come-Due-to-BTC-Halving-Says-KuCoin-Head-of-MENA-Business-Development-at-Istanbul-Fintech-Week-2023.",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Crypto Market Week in Review: April 7, 2023 - StealthEX",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "StealthEX",
+            "source_url": "https://stealthex.io",
+            "google_news_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oYWdjN2ItZ2hwOGROVWs4ZUVGU3Y2LWFGZUVacVVpN0RSMzVwbzlBZW10XzRBRzlZZGtZX2Nvd2Q3MDkyYVVFVWJJamdpbFVHbC1mTGRjRUk2STlUTnNxU3pKb0JkLUEySHBfZUp3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://stealthex.io/blog/crypto-market-week-in-review-vol-5/",
+            "query": "Market trends this week",
+            "text": null
+          },
+          {
+            "title": "Technical Analysis of Swiss Market Index (SIX:SMI) - TradingView",
+            "published_date": "Fri, 14 Apr 2023 16:37:46 GMT",
+            "source": "TradingView",
+            "source_url": "https://www.tradingview.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmamI5Q0pnZEVYZVgwUXVKYUZkRHgtZmVoSlBTNUFnaTY3UDVuYkRzRHN5ckFUSUsyci04bV9NNVhoS0d3dnh6eWJsTktwNXZJdDVsWG1Qd0ZoaEpsZUZtelFycExkdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.tradingview.com/symbols/SIX-SMI/technicals/",
+            "query": "Market trends this week",
+            "text": null
+          }
+        ]
+      },
+      "2023-05-01": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Mon, 25 May 2026 16:21:29 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Mary S. Moretz Obituary May 23, 2026 - Rogers-Pickard Funeral Home",
+            "published_date": "Sat, 23 May 2026 07:00:00 GMT",
+            "source": "Rogers-Pickard Funeral Home",
+            "source_url": "https://www.rogerspickard.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ES2I0Uk9wMHlLZnEwNHFLRjFnUGhLVXpUMnFqQldaNFRNOGZBdVRNMzM4Q3FQRG45elozRzdfWllzRmcxeFJlX3luX05kX3pmUFRYQnEwSXRHWFp5WU0ycktR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rogerspickard.com/obituaries/mary-moretz",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Vogel And United Touch S Win Rolex Grand Prix Of Aachen - The Chronicle of the Horse",
+            "published_date": "Sun, 24 May 2026 21:09:01 GMT",
+            "source": "The Chronicle of the Horse",
+            "source_url": "https://chronofhorse.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYU02Z2tNNkFmOGFwZGtWQXJEaTF3NUVpM3J6STVndDF3bWlGbHNrM0U1WDY2TzQxWXd3NDhrRWZUcmZvYVdsN2hKdVBJbHRkM1UxLUZRTVN1dU8yM1pCZ080VnJhNlJGcUM0NmlIMi1UekV0QjVfdjkyTk9Bb1FuMHVIZXoyTEtaU3U3NGZZY0FjNEtrblBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://chronofhorse.com/en/article/Vogel-And-United-Touch-S-Win-Rolex-Grand-Prix-Of-Aachen/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Andry Lara In play, run(s) to Eric Wagaman - MLB.com",
+            "published_date": "Mon, 25 May 2026 21:57:07 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3Rpb0lqQ1RFMlRJZkU2MmxaYktHVUs5X19mR1ZrRjIxem14SVVPZHRsRWRkWFNqOTVKUHVPU2ZFbDhicXRjN0JsTDZ0aGhUSWZGQ1ZJTDlZVjVPcFNvYjVabnZ5VDgzN0g4blU3ZU1UVFh5V1lUZlJXcGJ0ZzJlSDhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/syracuse/video/andry-lara-in-play-run-s-to-eric-wagaman",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US economic outlook 2023": [
+          {
+            "title": "Workforce Imbalances Remain Important to U.S. Economic Outlook - kansascityfed.org",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "kansascityfed.org",
+            "source_url": "https://www.kansascityfed.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVZuQTNkbjBQZXNfbE1BWDNreGZsNm1NOWhHNGFhNGVrQWhhRmNSRUpWblF3UkVVTkNFWHZGSm9vb2VZRzBkNC1QVThKMTNVamZTVkJkc245V2xiRXloaE0wZmpuNWpubEYtVk1sRklSMVlIdlFiVEc1UWl1U0JSYVhPRkxwdEdGcEctenJ5UC1jSklfbTdDWldtbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.kansascityfed.org/ten/workforce-imbalances-remain-important-to-us-economic-outlook/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "MainStreet Macro: The path between global and local growth - ADP Research",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "ADP Research",
+            "source_url": "https://www.adpresearch.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbU1OZEl5a2ZpQUtOa1ZaNnJJdkV6elNGTW5pRVhBWGthSzh3ZWxxQ2dUa1VHWThCMVlHRHc2ckVYTjg2U1VmcmVRN0xFZENzc1pLQm5fTnRFRmRhYXBSYlZsZ2NLTmhRVHpTSXBjanl1cUF4aC1mSVF2MjJSMkw4WDNXOG9yNDM0OU9FSUFoQXdYUVR6Mk1XUDFrSFdrdnl3aERnbnNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.adpresearch.com/main-street-macro/mainstreet-macro-the-path-between-global-and-local-growth",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Weak US and Eurozone growth complicates central bank tasks, and other economy stories you need to read this week - The World Economic Forum",
+            "published_date": "Fri, 28 Apr 2023 07:00:00 GMT",
+            "source": "The World Economic Forum",
+            "source_url": "https://www.weforum.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdktqbEx2YTh1M0ZzVU9QMVhrZzlhZ0lGRmxVVnhuMVg0YTNiNHdXNUduSjBaYWY2Z3I2YmxYMWM1RExoOS1tb1djd0o0RVU1SGdNRTdzRUtUMVY5aWM3YVdDQjgxcy1IaFI1QnVqMGZERkdoNW0xYjNoOTZBX0dlMFEzOWFzc01IY0pBYk9CWUI5bWlTTWVDT2x4cWl1TXZEdDEyNHZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.weforum.org/stories/2023/04/us-growth-and-other-economy-stories-you-need-to-read-this-week/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "China\u2019s (Rough) Economic Trajectory to 2050 - American Enterprise Institute - AEI",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "American Enterprise Institute - AEI",
+            "source_url": "https://www.aei.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5MdWtZa0gxWm8tcHo5SDBjY3d2am0yRDFXbVI1c25iNm1Kdk9NR2ZnS1VFeUVPcm9ONGpyQ3pVRXVqTVhnVnlXdkN3YjdpUnpNRjVERTMyT09pYjM1QU9iazNUZTFTTkhodnNnUlNQTDRXN1duSmcwVlNDb0tHS2tzbzFiXzJTNzgyOFBDNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.aei.org/research-products/report/chinas-rough-economic-trajectory-to-2050/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "3. Evaluations of the economy and the state of the nation - Pew Research Center",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "Pew Research Center",
+            "source_url": "https://www.pewresearch.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1d4S2tZVVdialdWYVpzUVI3V3AyZEF4eDdwX1BETW0zYlVQNlpwa0U0eVBJUVBQNVZoNVNIRXlyY3RHSjNMRng4bFJMUGtYbGlMZmNyTW5CaG5rZjhOSTB5NG9NVjlMaW5xY3ZqQ1JEUF9rY014R05kSGJkMlNOZUZkOFEzZGE2UUE0cUlPLUJzUTlLNnoxR3U3V3FKVTRmSkZZTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pewresearch.org/politics/2023/04/07/evaluations-of-the-economy-and-the-state-of-the-nation/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Opinion | How Immigrants Are Saving the Economy (Published 2023) - The New York Times",
+            "published_date": "Thu, 13 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdfT0lzeEFmaFZRYXhwZDFWbEFrck1qcmdubHVVemdhcGVkR25iZmRKbzROdElCcEZ5eFFJSG9RSVBxWHZGZWo4Slk0MTkwcEJiWFltN2FVbEs2aFQzRGFuZWwwTXNIUGxmSkUxUi1Kb09HdnVnbVdTZ3laWjJRQ0JhazdxLVlkeE00TC1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/13/opinion/how-immigrants-are-saving-the-economy.html",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "The IMF\u2019s Role in Shaping India\u2019s Current Economic Outlook - Stimson Center",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "Stimson Center",
+            "source_url": "https://www.stimson.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMHB3M2kxSnB6YjJVNHBxLVNTWUlvX3NRY2g4TjdqUTlsVlRtSDJHTFdpcVUtMkU2elQzSHJpM1p1SGppdzF5a21VbThFUkNkUEV6SG5LQmIzSjZPX3RaYklyb0t0SXRfc3FLdlZzQnVnVExta0R6d3hyampSVURuZ1FYa2JvSHNaa0gxMjhGWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.stimson.org/2023/the-imfs-role-in-shaping-indias-current-economic-outlook/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "What Will the Upcoming GDP Report Show About the U.S. Economy? - Morningstar",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "Morningstar",
+            "source_url": "https://www.morningstar.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejB1YlV2MmNlRFJKS0o5WHlDcnhHa1p5UHRVQl9zaHl4UXJsSTEtS0RXY3FVMm1YX2FsZDJHbGJ3UjdFYnVqdFB0czk3U1ZnTjZoMXhjendpX205MDhlMTN5cHU4a2ZmS3NKNzJROFV3cE5yNXNBYVlVbFdQQWZ5VGxfX1Joc2k2OEdGVFFJQk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.morningstar.com/markets/what-will-upcoming-gdp-report-show-about-us-economy",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Taiwan\u2019s economic outlook: a challenging year as global semiconductor sales slump - ING THINK economic and financial analysis | ING THINK",
+            "published_date": "Tue, 25 Apr 2023 07:00:00 GMT",
+            "source": "ING THINK economic and financial analysis | ING THINK",
+            "source_url": "https://think.ing.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU5KNWNFWkxiTzJYYUNudWQyZHRvQWd5Q0FjZkRoai1USzlyN1FzYUJ0aWhhbFlkb3Q2MTVoWkV0NllhSUhXV1pTSUttT19qVHViT1ZBd2YtUlJycG1Gb0JqaDhacUwyRVJQWW5uOERsaEFnQXIyVEUzdlpjdHNOQkxzYzRPNE1nZW5EWmhoWUg0QVg2X0EwUm01cDVVSDhJdi1oZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://think.ing.com/articles/economic-outlook-for-taiwan-challenging-year-semiconductor-sales-slump/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US economic outlook 2023",
+            "text": null
+          }
+        ],
+        "Market trends April 2023": [
+          {
+            "title": "Oil Market Report - April 2023 \u2013 Analysis - IEA \u2013 International Energy Agency",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "IEA \u2013 International Energy Agency",
+            "source_url": "https://www.iea.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxb3IxemROR1hkeldicXdHX0s2T0EwZ3VNWVYwVFlQRHRQaTBXMnF4QUI1YkJ0bURBVmFJaDZrVFR4T2FxZXpLZkplVEJod21qVEZ2YktSX1dhU1lmODFORWthNDhoYjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.iea.org/reports/oil-market-report-april-2023",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Global Financial Stability Report, April 2023: Safeguarding Financial Stability amid High Inflation and Geopolitical Risks - International Monetary Fund | IMF",
+            "published_date": "Tue, 11 Apr 2023 07:00:00 GMT",
+            "source": "International Monetary Fund | IMF",
+            "source_url": "https://www.imf.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFU1T0R0V1ZaN0t2aFBXWU9KTkRKMGhqWWlCb2ZkRTRnRlZoRy0ya1FfZGN4WjJGSEtCdjZXTjVZanZhTHZpdW4xSEQwN2RjRjZDZU1Od0Fmd0hKYVM3WlJOZVFnbGRrWnBnUWp3X2FsN1BfT1U0bWJWVzRIemhMVTh3OFptbkJHNFVOaGlpaTBjdllYWDA5YjkzbGJNaEhUWVY3ckZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.imf.org/en/publications/gfsr/issues/2023/04/11/global-financial-stability-report-april-2023",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "On the Move: April 2023 Hires and Promotions - middlemarketgrowth.org",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "middlemarketgrowth.org",
+            "source_url": "https://middlemarketgrowth.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NTnNzLVJCWjF6NFk0ckZKdUxCUkZWbjZ4ZkVsZzM2UExyX25hUWZmcF9SUmxLaHZGQVJ5NHdTYkFtdTM3a0tEbFkwaFBfcjlJZUpZRkoxYWhwbmRCdU4xOC00cng?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://middlemarketgrowth.org/april-2023-on-the-move/",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "The creator economy could approach half-a-trillion dollars by 2027 - Goldman Sachs",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "Goldman Sachs",
+            "source_url": "https://www.goldmansachs.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTBNTDZSRGdfRUw4U0FTWlBCZ1Y4NUdRWGo5cGRjYnR6bG1ma1B2NlBMSnBSaldGdVA2ZzJLSFZJUzkyN1gzNFhjeGdNNk5WUzNqZEh2SHBQVTBEaDBOXzhMbGU2Rk5SQlYyVmRGZ2RiNW9yek9YcDB0VndwR0N6SnhwamJzdE9xOG5JM3c0YlBvckotREJVUERkM2xrUkk4TjIwRm1lSWNTWVFPVWdaV3JyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "2023 Digital media trends: Immersed and connected - Deloitte",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWR2Q0lvZEtoVHdSRk5mWXpva3QwSm52T19Db2MxdkpyQnpoTkhxZVZkOVpENDNxV0RDSTBqU3djMUhKY2FEb0tFQWNWak9tTlpaS09ZYTh2R3dIaFF4cHM4Z0ItRHoxVFJrYVVmUXUtZlUtNHJNaWQ5OXJHamJmWnRsYzVua1BEMV84bkJ0TEsta2FxVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/us/en/insights/industry/technology/media-industry-trends-2023.html",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Tight Labor Markets Have Been a Key Contributor to High Food Inflation - kansascityfed.org",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "kansascityfed.org",
+            "source_url": "https://www.kansascityfed.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHhNZHdNNkZNVzd5SHdpaEo1N0hqUHVETUhBai1VVVNCd00zakFkSS0td0NoSmRYblFiek9OakFMeDVSXzJCR2hpWXFUQmlsS1U5MTdIeE1ZT0xGdG1sbWJVWlFBQ1JoSHlXMmhHM09kNjJmVEU1bjRhQi13eTNOQ1VncUF2cDNsVUVqYm1HWGRIZERBd2pobTQweG9sMUtpb0tnV2hjX3JWUjB2VU50NzZ6MTZKdUxzWnAxZVJEa0tmS0JIV1Br?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.kansascityfed.org/research/economic-bulletin/tight-labor-markets-have-been-a-key-contributor-to-high-food-inflation/",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Samsung Electronics Announces First Quarter 2023 Results - samsung.com",
+            "published_date": "Thu, 27 Apr 2023 07:00:00 GMT",
+            "source": "samsung.com",
+            "source_url": "https://news.samsung.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGhZZ18tbDZLTE9LLXpNYWJ1SEttSzFpYXRXNDRONDMzVWFnQlQxaVdybmtSdlhXQk5sQnNFYV81QUdkM3U1X25rUEdHRy1RYkNQMkRRbWhYNGNaeUdORG9DaTNCNDJsbGRFU2NvRTRBMzBtUGxjWWhWY01uSjlaOTMzd2thSG11RVNGTm9kOGZuUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2023-results",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Art Industry Trends 2023 - Artsy",
+            "published_date": "Wed, 26 Apr 2023 07:00:00 GMT",
+            "source": "Artsy",
+            "source_url": "https://www.artsy.net",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RQnNXcjY3dXpmeTJkVHVlTWY2UjN2bG9zRW9Bb3RtVVlmWWRKWTZoaWN5b0s0WnZPR3Q2MmwyQ1pRd0xKT0pZUUNidWl3dDAxeUhMdk9JRGp5aW5FSHI5SkF0MDNrZkpiR2lOTlJBMlBXdjZIU0t3RjhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.artsy.net/article/artsy-editorial-art-industry-trends-2023",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Art Market Has Climbed Above Prepandemic Level, Major Study Says (Published 2023) - The New York Times",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEpjTVdCSTFjWENoVmNJTzF0Nk56Nk5yYUt2ajl1eEVuODBRbkd4MUwyR0MtMXNOMzJlY21YZzRvT21GbzZmdDBORWRzbzhXcjV2eDMwVU40TWxOY184NWZkZERQamhrNlp1aDUwbUdldUNHWkZGV2wzZERjN0FocTVIOTlkNF93MkR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/04/arts/design/ubs-art-basel-report-art-market.html",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Monday Morning Brief for April 17, 2023: Changes and 'Trends' returns - Coin World",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Coin World",
+            "source_url": "https://www.coinworld.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFVELUhQMldiWklsbWc1S1JLTjRsczY3Y3JfbDN2MEdxQUJaZUhzc3pHazAtM2RtNlZXQ2xTUVZBS2hEdWMyZlVFazExdlRRZU9wMDEyQjlTOFNRenExeEZFOUtPbGNxaldDQ0tnMEJOZEVQa0lSMGVTWVZkV0NVd1RldUVxSkZVVXZjeTVkTkRpd1ZoUG44TG1Cd0VPN0JPbGFTSmZSVmI?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.coinworld.com/news/us-coins/monday-morning-brief-for-april-17-2023-changes-and-trends-returns",
+            "query": "Market trends April 2023",
+            "text": null
+          }
+        ],
+        "Market trends for Q2 2023": [
+          {
+            "title": "LendingPulse Q2 2023 survey: Mortgage pros share their biggest concerns, market outlook - HousingWire",
+            "published_date": "Wed, 12 Apr 2023 07:00:00 GMT",
+            "source": "HousingWire",
+            "source_url": "https://www.housingwire.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeURteWpKTjhxM0k3QXVncS1YaDh1QVJhTVc3b1E2SEhhNXVLTFJHTlBrRWdRYzFXWml5bVNRVHBjV2d1T1VaNTVQeVM0TGRERWZRVk5iU043MmNxZUtXSHlJSk5ySFVGV3ZmM3lkV0pMSnA2ZC1IS1Mxb0VUbXhUamw2ZVcwOTg2ZkVmcExmNTZyelNtQUFhS2xGLUwzS3FhekFfLTM2SDhwaENfQVVsdjNTN0Rfb2hDU0xha1FMRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.housingwire.com/articles/lendingpulse-q2-2023-survey-mortgage-pros-share-their-biggest-concerns-market-outlook/",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Amazon Q1 2023 Revenue Rises to $127.4B, up 9% from Q1 2022 - The Futurum Group",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "The Futurum Group",
+            "source_url": "https://futurumgroup.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMjN1SXFjZzRFS3hkZ3hCdXBTWEY4RkxFZ29laFZza3BsSy1zUFFNMlBQM3J1RTV4VFNyU1hiUWM5MGxpS0tHS2EtcTUzWlpDek9MSzU0RzlycjRrSk00MDk5bmtna1pSTlcyZGRBWkRXaFJMR1VkZDRzT1Joendvb00tYV9Wa09BZVhJZWJpaS1qU3BIT0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://futurumgroup.com/insights/amazon-q1-2023-revenue-rises-to-127-4b-up-9-from-q1-2022/",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Puma expects Q2 sales growth below full-year target after Q1 beat - Reuters",
+            "published_date": "Wed, 26 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1RjNDZ2OXZuc3VfSVFlOWJKNzdCRkZKdHBrUWNFcnV2WjJUUGFXcTJIbWpJY0NDTzU1czdDbjZZWno2X1JuNDV1U20zdDFTaTdfOXBKVW92bXB2c1F4VjZYNnFRTllrRldQUFpTYWpnSThyQ21ENk56OEZXb3FKMjNNYjgzc3ZLZkQ5R0RmdDFNOEJtclJVclJGUTM1UlBZT29GOUJqVER1UVd2TVdWeFpn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/business/retail-consumer/puma-expects-q2-sales-growth-below-full-year-target-2023-04-26/",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Artificial Intelligence: U.S. Talent Spotlight - CBRE",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "CBRE",
+            "source_url": "https://www.cbre.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOenNTN3JEODBNOFNiLXdqMzhidG1HZWFSZzBsUFFTUUtKOFZ6RExmUXVTRG5rTDJUV3VROGJ5VHlRdmtLeS1fNmhMaGlmLUUyYi1DenBjTDA2eEJjenYyazJ3cG12VmdJMnZDMVp5b3FSckgtWE5jaGRMR3N3Vl90NHhkTG81d0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbre.com/insights/briefs/artificial-intelligence-us-talent-spotlight",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Top Food Stocks for Q2 2023 - Investopedia",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Investopedia",
+            "source_url": "https://www.investopedia.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jNGxsRUUzeHZTdzBQSFUybTFuZVhkemZiS1V4NjY3SFV4eTQwNDdUbFhZV1ExMlhwdUZWODB2MmF3UkVQRk4tV2NvbUotWnFYZV81QV8xZmZSTlhZa294MmVRM2R0cXJvZmotNDMyc2M0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.investopedia.com/top-food-stocks-for-q2-2023-7480205",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Stock of the week - Netflix (21.04.2023) - XTB.com",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "XTB.com",
+            "source_url": "https://www.xtb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnFnQW9ZLUp1dHFBU3VsZEFPNkRUXzZEMTg2c2ZZNnROb3czZVpGYkZTRlpFaTB2VXcxYmdhZjR3WWZ0MnhjaWtvVGdlVU0xYXJPZC1VRXljc1NIQkRLTEFfSEstb1o1Z0pCdVk2OU5sRlpNUkdYZzRWSG5BN1JpWmFRWmItWmVMaTVTWmgyM1JmTFVuZ3hyU1NB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.xtb.com/int/market-analysis/news-and-research/stock-of-the-week-netflix-21-04-2023",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Used Tesla vehicles crush industry average depreciation despite price cuts - Teslarati",
+            "published_date": "Wed, 26 Apr 2023 07:00:00 GMT",
+            "source": "Teslarati",
+            "source_url": "https://www.teslarati.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9welBMTGhQVVIySTJEckxJSzlfc1d0MnEzRXRQc1VjSXItNUlaWllrcHpKS1E5UVIyY0JVVG56R1pzTmpWa1k4MGpEaGZ4Y19YZVdFaGlqcmJIci1PQ2d2Z2N0bFBISmx6S2dleFFJdDMtQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.teslarati.com/used-tesla-crush-depreciation-q2-2023/",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Amazon Q1 2023: Top 25 Beauty and Personal Care Products - BeautyMatter",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "BeautyMatter",
+            "source_url": "https://beautymatter.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMXQzMEZNZHFNaEZNc01vMV9xLVVhVlhBLTdkc29MdUNrR1NPTFZIX2hxRmEtN0lDeGFVYlNKS1VndlYzQ0ljZW9pYzRqV3FUbVFhWXgzNm1zZGZwYlhkVUNRVWNnMTJoWVJNblZCSnZxTFNidUl3N1hOcUZIZnFwcnpGX0JNcDd0UUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://beautymatter.com/articles/amazon-q1-2023-top-beauty-personal-care-products",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "Southeast Asia Outlook 2026 | Market & Investment Trends | PH - Cushman & Wakefield",
+            "published_date": "Tue, 11 Apr 2023 05:46:30 GMT",
+            "source": "Cushman & Wakefield",
+            "source_url": "https://www.cushmanwakefield.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVFE3R25vTW8welNuUS0tbzhqSl9nUW0yS3hHWnNmekJfS3ROeWJyN0tCQ1Bxd3ZNNDJhOG95VTVlblNXVzBYQVBNdGJCUExyclN2LWVkR2ZIbkV0TXJEVzhBRWlqeEFvY0NaeklGWGVWWFJmdnVJbWh3aW4zTkdpQnowaENidw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cushmanwakefield.com/en/philippines/insights/southeast-asia-outlook",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          },
+          {
+            "title": "What\u2019s really going on with Twitter? - DataReportal \u2013 Global Digital Insights",
+            "published_date": "Thu, 27 Apr 2023 07:00:00 GMT",
+            "source": "DataReportal \u2013 Global Digital Insights",
+            "source_url": "https://datareportal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFJVQnJMb2tlYnpxUnJEUS1TQTJENXRBbWxsemhrblBOdDZTVWlxRnF6Vm9lVGxRRHR2UFl5WmM4TGREUm9GVUdocGhwbnB3T216Q0hZUUlPc0NiTjFtV2l4dlZ6emJFQk9wUTZYSFp1Sjd1VmFDTmVuVFMxZ2xrRHNoZ3d3VGZETUhDV2NCSUlIajVl?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://datareportal.com/reports/digital-2023-deep-dive-the-state-of-twitter-in-april-2023",
+            "query": "Market trends for Q2 2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  }
+]

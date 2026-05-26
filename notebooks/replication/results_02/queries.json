@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Will S&P 500 increase in April 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-02",
+    "date_resolve_at": "2023-05-02",
+    "retrieval_dates": [
+      "2023-04-04",
+      "2023-04-06",
+      "2023-04-10",
+      "2023-04-17",
+      "2023-05-01"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-04": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider several factors, including current market trends, economic indicators, and any significant events that may impact the market. Some sub-questions to consider are: What are the current market trends and forecasts for April 2023? Are there any major economic events or announcements scheduled for April that could impact the S&P 500? What is the current sentiment among investors and analysts regarding the S&P 500's performance in April?\n\nSearch Queries:\nS&P 500 April forecast; US market trends 2023; S&P 500 investor sentiment",
+          "queries": [
+            "S&P 500 April forecast",
+            "US market trends 2023",
+            "S&P 500 investor sentiment"
+          ]
+        },
+        "prompt_1": {
+          "llm_response": "Thoughts:\nTo forecast whether the S&P 500 will increase in April 2023, we need to consider recent market trends, economic indicators, and any significant events that could impact the market. Given the recent closing values, it seems the market has been somewhat volatile. Looking at the opening value on 2023-04-03 and trying to predict the close on 2023-04-28, we should gather information on current economic conditions, market forecasts, and any news that could affect the S&P 500 in the short term.\n\nSearch Queries:\nS&P 500 April forecast; US economic news today; Market trends for April 2023",
+          "queries": [
+            "US economic news today",
+            "Market trends for April 2023"
+          ]
+        }
+      },
+      "2023-04-06": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider the current market trends and any potential factors that could influence the index's performance. Some sub-questions to consider are: What are the current market conditions and trends? Are there any significant economic events or announcements scheduled for April 2023 that could impact the S&P 500? What are the predictions and forecasts from financial experts and analysts for the S&P 500 in April 2023?\n\nSearch Queries:\nS&P 500 April forecast; US market trends 2023; S&P 500 analyst predictions",
+          "queries": [
+            "S&P 500 April forecast",
+            "US market trends 2023",
+            "S&P 500 analyst predictions"
+          ]
+        },
+        "prompt_1": {
+          "llm_response": "Thoughts:\nTo forecast whether the S&P 500 will increase in April 2023, we need to consider recent market trends, economic indicators, and any significant events that could impact the market. Given the recent closing values, it seems the market has been somewhat volatile. Looking at the opening value on 2023-04-03 and trying to predict the close on 2023-04-28, we should gather information on current economic conditions, potential market influencers, and any upcoming events that could affect the S&P 500.\n\nSearch Queries:\nS&P 500 April forecast; US economic outlook; Market trends 2023",
+          "queries": [
+            "US economic outlook",
+            "Market trends 2023"
+          ]
+        }
+      },
+      "2023-04-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider several factors, including current market trends, economic indicators, and any significant events that may impact the market. Some sub-questions to consider are: What are the current market trends and forecasts for April 2023? Are there any major economic events or announcements scheduled for April that could impact the S&P 500? What is the current sentiment among investors and analysts regarding the S&P 500's performance in April?\n\nSearch Queries:\nS&P 500 April forecast; US market trends 2023; S&P 500 investor sentiment",
+          "queries": [
+            "S&P 500 April forecast",
+            "US market trends 2023",
+            "S&P 500 investor sentiment"
+          ]
+        },
+        "prompt_1": {
+          "llm_response": "Thoughts:\nTo forecast whether the S&P 500 will increase in April 2023, we need to consider recent market trends, economic indicators, and any significant events that could impact the market. Given the recent closing values, it seems the market has been somewhat volatile. Looking at the opening value on 2023-04-03 and trying to predict the movement up to 2023-04-28, we should gather information on current economic conditions, market forecasts, and any news that could affect the S&P 500.\n\nSearch Queries:\nS&P 500 April forecast; US economic outlook; Market trends 2023",
+          "queries": [
+            "US economic outlook",
+            "Market trends 2023"
+          ]
+        }
+      },
+      "2023-04-17": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider several factors, including current market trends, economic indicators, and any significant events that may impact the market. Some sub-questions to consider are: What are the current market trends and forecasts for April 2023? Are there any major economic events or announcements scheduled for April that could impact the S&P 500? What is the current sentiment among investors and analysts regarding the S&P 500's performance in April?\n\nSearch Queries:\nS&P 500 April forecast; US market trends 2023; S&P 500 investor sentiment",
+          "queries": [
+            "S&P 500 April forecast",
+            "US market trends 2023",
+            "S&P 500 investor sentiment"
+          ]
+        },
+        "prompt_1": {
+          "llm_response": "Thoughts:\nTo forecast whether the S&P 500 will increase in April 2023, we need to consider recent market trends, economic indicators, and any significant events that could impact the market. Given the recent closing values, it seems the market has been somewhat volatile. Looking at the opening value on 2023-04-03 and considering the question's close date of 2023-04-17, we should focus on short-term market influencers and trends.\n\nSearch Queries:\nS&P 500 April forecast; US economic news today; Market trends this week",
+          "queries": [
+            "US economic news today",
+            "Market trends this week"
+          ]
+        }
+      },
+      "2023-05-01": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider various factors that could influence the market. Some sub-questions to consider are: What are the current market trends and forecasts? Are there any significant economic events or announcements scheduled for April 2023 that could impact the S&P 500? What is the overall sentiment of investors and analysts regarding the market's potential performance in April?\n\nConsidering these sub-questions, we can generate search queries that focus on market forecasts, economic events, and investor sentiment.\n\nSearch Queries:\nS&P 500 April forecast; US economic outlook 2023; Market trends April 2023",
+          "queries": [
+            "S&P 500 April forecast",
+            "US economic outlook 2023",
+            "Market trends April 2023"
+          ]
+        },
+        "prompt_1": {
+          "llm_response": "Thoughts:\nTo forecast whether the S&P 500 will increase in April 2023, we need to consider recent market trends, economic indicators, and any significant events that could impact the market. Given the recent closing values, it seems the market has been somewhat volatile. Looking at the opening value for April, it's slightly lower than the March close, which might indicate a potential dip or a period of stabilization before any growth. We should look for information on current economic conditions, market forecasts, and any news that could affect investor confidence.\n\nSearch Queries:\nS&P 500 April forecast; US economic outlook 2023; Market trends for Q2 2023",
+          "queries": [
+            "Market trends for Q2 2023"
+          ]
+        }
+      }
+    }
+  }
+]
