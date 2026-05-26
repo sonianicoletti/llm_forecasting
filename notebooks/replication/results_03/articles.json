@@ -1,0 +1,770 @@
+[
+  {
+    "question": "Will S&P 500 increase in April 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-02",
+    "date_resolve_at": "2023-05-02",
+    "retrieval_dates": [
+      "2023-04-25"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-25": {
+        "S&P 500 April forecast": [
+          {
+            "title": "In Homeless Crisis, California \u2018Is Waging a War on R.V.s\u2019 - The New York Times",
+            "published_date": "Sun, 24 May 2026 09:00:42 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLMHVFM29IWjZXSzlXMHR6cS1pZmlSQ2RRQ2tnXzB3YlgySjBCQnNEVU9LbC1BZldvcHJuZ2pCeDVxQXNZU3kwRFZqbmI4SWhmSlFVaFZxX1M4Q0l2bktaZVEtb3doZHh1d3cxMDFkUHpBclNSdmZfTmgwSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Rare glimpses inside Washington\u2019s historic ambassador residences - The Washington Post",
+            "published_date": "Mon, 25 May 2026 17:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDlhbjZleXYxQXhmQURYTWpscjFEUWpHTmtvRm5OMlBOWE93N3h6TFl2NXQtSUgya2tPeVNrd2dETDFvQzB2a1hCbGg2cFpRVnI2aEJOM1JsYnJGaklXV3Y1M3VaeGh2WHUwWHAxWVpkOXV2cUdJbW1UM240eTZuNXZFeXpfdUItdUZoWEZva2tfY29ibE1QODdkYnBLemNrZmtWZDhVMHpVVGd0OEJoVFlTY081VUR6bFcteHRSV3VCMlBj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/05/25/look-inside-some-dc-most-exclusive-homes-ambassador-residences/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Opinion | L.A.\u2019s Bonfire of Liberal Vanities - WSJ",
+            "published_date": "Sun, 24 May 2026 16:59:00 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lSl9PVkN6ektubElZaDMzdFRhamRYVmVVekc0YkluOW1PS2FRM1RwM1dpMlVaVzVMbVN4SGdqOEJrcU5wWjRLT3YzajNsYnRFS3FvN19zUXB6TXowdGVfYlFSRXhZbnN2Nk1MVHVBeXJfY3hJeHY0YlF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/opinion/l-a-s-bonfire-of-liberal-vanities-c63f9be3",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "President Trump won't attend son Donald Trump Jr.'s wedding, citing responsibilities in Washington - CBS News",
+            "published_date": "Fri, 22 May 2026 17:46:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbzYzWDA0cnRZLWdaNmpLa2lYWUV5eS1sREdjRUQwR3prVGZqYXFYZHVMang1blBzXzNEQ1hDR2t3N1Q1RjRoaDBVbjVfWGZ5clZ1V2J2NXRWWW5ubHJRUzIySDJYWW5kNk5kY3JxS0trMmFfNU9KWVJWb2JyMnJWWExvbEpicFlyVGQ1bmFNTTBOVTRpcnNCMmNhdWx4QdIBowFBVV95cUxQXzNpeGROUm5raEUxczBUUy1KbzZVdGtYRm9MSTVRLWwybVNTa0haYVlCVWxwNzVqNFBtaGhfeThpekltX0ItLXB2WURzYnhOcFJGMFVxdmgwLXBhekpGalBmaUd2am5ucHFlZWhndXRadURodDVDM2E0U19EYzRPaHNMeU9zQXFxR0VENEFSaDBTeEl1WXAxZklzV3Q2blRWWGpR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/trump-wont-attend-son-wedding-citing-responsibilities-in-washington/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "That's My S#!t: Tom K - Thrasher Magazine",
+            "published_date": "Mon, 25 May 2026 16:33:23 GMT",
+            "source": "Thrasher Magazine",
+            "source_url": "https://www.thrashermagazine.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQlhhZnkwSGVUUWZvMXhaOXZTYlQySFpPcnlOX2t0c05nNmtiQVM5TDJpaGZFMjdSOEF4NjFIWkNSbFctZkE1UmtqdEx1UVZGXzRUb3UyZ0tiRGVHTHBoNDVrZFdGdkNhMlp5UGxBLUVQdTJmb3QxbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.thrashermagazine.com/articles/videos/that-s-my-s-t-tom-k/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Man shot to death on Columbus Ave S in Minneapolis - 5 EYEWITNESS NEWS",
+            "published_date": "Mon, 25 May 2026 13:14:31 GMT",
+            "source": "5 EYEWITNESS NEWS",
+            "source_url": "https://kstp.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlRWZVNsWS1JaExYMHBtTV9YSHpYTnpicDRUQ1hLTXJFUFhKOHpHUTcyWjNFS2I5YkJLSkZ2WTBtSmY0ZEZjZlZJZWdhRDdnYXdISWdOa3ZGR090S0RfeFd2ZlVGQ3RVa1R0VkQ4ZGE4N3lLdE1KdjM0VEJMNk0wQ3oxYjdqbXhtQ3RwUC1rS0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://kstp.com/kstp-news/top-news/man-shot-to-death-on-columbus-ave-s-in-minneapolis/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "WATCH: Trump speaks at N.Y.'s Rockland Community College, campaigning for Rep. Lawler - PBS",
+            "published_date": "Fri, 22 May 2026 20:50:29 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU1sLVowR3UxN1ZqR1I5M1NSRElGVnFYeEp6ckVaZ2JoOHJoZVdKVUVNa0ZCMGd0NWFfUWFSVmp6MjlfOHpSV3lSbnExNmVlcjFiWjV2TGhTSkE1ZTlaMV9TOXRXN19jSTNCMXlLMHNXY0E5TEwtQmliSjQ5T3phUnpxYlFoOFBfSnNhTERKSmlEODVnZmJSeG56eFdaM0ZNa3ZBRUl3dEtKMWU2V2N4VW82WE96OGI2Qlpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/politics/watch-trump-speaks-at-n-y-s-rockland-community-college-campaigning-for-rep-lawler",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Vogel And United Touch S Win Rolex Grand Prix Of Aachen - The Chronicle of the Horse",
+            "published_date": "Sun, 24 May 2026 21:09:01 GMT",
+            "source": "The Chronicle of the Horse",
+            "source_url": "https://chronofhorse.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYU02Z2tNNkFmOGFwZGtWQXJEaTF3NUVpM3J6STVndDF3bWlGbHNrM0U1WDY2TzQxWXd3NDhrRWZUcmZvYVdsN2hKdVBJbHRkM1UxLUZRTVN1dU8yM1pCZ080VnJhNlJGcUM0NmlIMi1UekV0QjVfdjkyTk9Bb1FuMHVIZXoyTEtaU3U3NGZZY0FjNEtrblBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://chronofhorse.com/en/article/Vogel-And-United-Touch-S-Win-Rolex-Grand-Prix-Of-Aachen/",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Noah Davis In play, run(s) to Ben Cowles - MLB.com",
+            "published_date": "Tue, 26 May 2026 00:56:15 GMT",
+            "source": "MLB.com",
+            "source_url": "https://www.milb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGZNT0poeGRlWTlFZlFyaklSS0E0QW9oS25ZQjV1TTNUVHZrZUZsbV8zZy1ELWk2WGExeE8xTExmcU1ESmpfbF9yeG5Db3hFSUZPLV9hZmsyZ3NqX3lMZlg1cFNQNXhQeHVQby10cjBFemRYczVuVjF6Q2VyMWFvM2lKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.milb.com/rocket-city/video/noah-davis-in-play-run-s-to-ben-cowles",
+            "query": "S&P 500 April forecast",
+            "text": null
+          },
+          {
+            "title": "Judy S. Monnin Obituary May 22, 2026 - Hogenkamp Funeral Homes",
+            "published_date": "Fri, 22 May 2026 22:21:52 GMT",
+            "source": "Hogenkamp Funeral Homes",
+            "source_url": "https://www.hogenkampfh.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKZjJ4eGg4T0MyUjRTXzYtTHZ6T0dfSE5sN2pfQ0pGVkxrT3hEeFVKM1dFcmZ2TVJ4U3k2bkpWbzFwM0dxOEN1SEwtby1BV2tTQzlseUJlUjlQS0Z2Sjd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hogenkampfh.com/obituaries/judy-monnin",
+            "query": "S&P 500 April forecast",
+            "text": null
+          }
+        ],
+        "US economic outlook 2023": [
+          {
+            "title": "Workforce Imbalances Remain Important to U.S. Economic Outlook - kansascityfed.org",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "kansascityfed.org",
+            "source_url": "https://www.kansascityfed.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVZuQTNkbjBQZXNfbE1BWDNreGZsNm1NOWhHNGFhNGVrQWhhRmNSRUpWblF3UkVVTkNFWHZGSm9vb2VZRzBkNC1QVThKMTNVamZTVkJkc245V2xiRXloaE0wZmpuNWpubEYtVk1sRklSMVlIdlFiVEc1UWl1U0JSYVhPRkxwdEdGcEctenJ5UC1jSklfbTdDWldtbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.kansascityfed.org/ten/workforce-imbalances-remain-important-to-us-economic-outlook/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "IMF warns of weak economic outlook: Top economy news - The World Economic Forum",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "The World Economic Forum",
+            "source_url": "https://www.weforum.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVlRb2lFZXBvaXRmSFB3YkxGbW5KUDFmQzRieWNzZFk0aGxXNU9uVlItRUxiNUxKOURCSkFjci1BTm5vVmdvcy1iUDE1VHNwbkdyN0V4aXZUNmhUOGU3R3JSVzlWX1FpOHdRTEFxN2dpZEo3b29IZWdKM1l0NjdwZ3lFcVViZExLa1NfOHN4QkxyamY5RFJUcmQ1VHhFbXhtSDIwVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.weforum.org/stories/2023/04/imf-global-growth-weakest-in-30-years-top-economics-news-2023/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "China\u2019s (Rough) Economic Trajectory to 2050 - American Enterprise Institute - AEI",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "American Enterprise Institute - AEI",
+            "source_url": "https://www.aei.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOam5MdWtZa0gxWm8tcHo5SDBjY3d2am0yRDFXbVI1c25iNm1Kdk9NR2ZnS1VFeUVPcm9ONGpyQ3pVRXVqTVhnVnlXdkN3YjdpUnpNRjVERTMyT09pYjM1QU9iazNUZTFTTkhodnNnUlNQTDRXN1duSmcwVlNDb0tHS2tzbzFiXzJTNzgyOFBDNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.aei.org/research-products/report/chinas-rough-economic-trajectory-to-2050/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "3. Evaluations of the economy and the state of the nation - Pew Research Center",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "Pew Research Center",
+            "source_url": "https://www.pewresearch.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd1d4S2tZVVdialdWYVpzUVI3V3AyZEF4eDdwX1BETW0zYlVQNlpwa0U0eVBJUVBQNVZoNVNIRXlyY3RHSjNMRng4bFJMUGtYbGlMZmNyTW5CaG5rZjhOSTB5NG9NVjlMaW5xY3ZqQ1JEUF9rY014R05kSGJkMlNOZUZkOFEzZGE2UUE0cUlPLUJzUTlLNnoxR3U3V3FKVTRmSkZZTkt3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pewresearch.org/politics/2023/04/07/evaluations-of-the-economy-and-the-state-of-the-nation/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Opinion | How Immigrants Are Saving the Economy (Published 2023) - The New York Times",
+            "published_date": "Thu, 13 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdfT0lzeEFmaFZRYXhwZDFWbEFrck1qcmdubHVVemdhcGVkR25iZmRKbzROdElCcEZ5eFFJSG9RSVBxWHZGZWo4Slk0MTkwcEJiWFltN2FVbEs2aFQzRGFuZWwwTXNIUGxmSkUxUi1Kb09HdnVnbVdTZ3laWjJRQ0JhazdxLVlkeE00TC1R?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/13/opinion/how-immigrants-are-saving-the-economy.html",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "What Will the Upcoming GDP Report Show About the U.S. Economy? - Morningstar",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "Morningstar",
+            "source_url": "https://www.morningstar.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejB1YlV2MmNlRFJKS0o5WHlDcnhHa1p5UHRVQl9zaHl4UXJsSTEtS0RXY3FVMm1YX2FsZDJHbGJ3UjdFYnVqdFB0czk3U1ZnTjZoMXhjendpX205MDhlMTN5cHU4a2ZmS3NKNzJROFV3cE5yNXNBYVlVbFdQQWZ5VGxfX1Joc2k2OEdGVFFJQk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.morningstar.com/markets/what-will-upcoming-gdp-report-show-about-us-economy",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Taiwan\u2019s economic outlook: a challenging year as global semiconductor sales slump - ING THINK economic and financial analysis | ING THINK",
+            "published_date": "Tue, 25 Apr 2023 07:00:00 GMT",
+            "source": "ING THINK economic and financial analysis | ING THINK",
+            "source_url": "https://think.ing.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU5KNWNFWkxiTzJYYUNudWQyZHRvQWd5Q0FjZkRoai1USzlyN1FzYUJ0aWhhbFlkb3Q2MTVoWkV0NllhSUhXV1pTSUttT19qVHViT1ZBd2YtUlJycG1Gb0JqaDhacUwyRVJQWW5uOERsaEFnQXIyVEUzdlpjdHNOQkxzYzRPNE1nZW5EWmhoWUg0QVg2X0EwUm01cDVVSDhJdi1oZg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://think.ing.com/articles/economic-outlook-for-taiwan-challenging-year-semiconductor-sales-slump/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "2023 retail industry outlook - Deloitte",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkZ2eFRqNURFRFFVTG1mRlVHMHEwOVBHd3pzZ0kyMHY4TVFLbFFxbmd6c05WQ0JXa0FBdEtISzdvNFN0ekxvMl9EWG1lMGFDb0hmai1vbHNYTzZDMnk4VmpfVHd2QXpEaW9fVDV4cVREMGhDNzd1MEhEU2pSemFDZklMajdncEU3Vm1pVUc5b1c2ak1XMGFjbEdwVUxiUWdpVWxQWkQzVG4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/ch/en/Industries/consumer/perspectives/retail-distribution-industry-outlook.html",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Union Pacific considering hiring slowdown as economic outlook darkens - Reuters",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2J1cWRVNG90cFlUa0NtTFItZ2gxd2pVUXg2SktCWmNNM3hfckU5c3ZSdXpaUHNtWHd6Tm1BZUxybTlEOWhWUFB3ai1xOFNBX1ZnV3NELUE4blhqTFVSUUQxLVo5Qmx4ZmEtV1B4am9Vb2FqazFDY1FTYk1lQjJxekZqWm1ZQ0ZVQVdOM2p1MHd6SUNuaEVQM2wwSVZ5aDdidXlHRGN2Mi1sUWlVZTR2RDAxWkJlTWZvVTN4TGxfWmU5bzF6SXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/business/autos-transportation/union-pacific-tops-quarterly-earnings-estimate-strong-pricing-2023-04-20/",
+            "query": "US economic outlook 2023",
+            "text": null
+          },
+          {
+            "title": "Recession Risks: The Global Impact of a US Hard Landing Scenario - Euromonitor",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "Euromonitor",
+            "source_url": "https://www.euromonitor.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEdmWUZ5U01UTlZUMS1RelBFTmM2endVU3MxOWY2Zk5fOERSUi1SeFFCZktyRnhqSUtsVHprU09DTXoxZGY0SnFfM2JxUkt0VEVYWHo0dDBkTERDTjZBV0w3RUNKWHAwbS1zT3lnZURzVTkyWkU1RkxBaWxuY0pjSFU3MVA3YnBkYWE2OVRqdGJsQUVJdGZLeVlfT2xYa05o?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.euromonitor.com/article/recession-risks-the-global-impact-of-a-us-hard-landing-scenario",
+            "query": "US economic outlook 2023",
+            "text": null
+          }
+        ],
+        "Market trends April 2023": [
+          {
+            "title": "Oil Market Report - April 2023 \u2013 Analysis - IEA \u2013 International Energy Agency",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "IEA \u2013 International Energy Agency",
+            "source_url": "https://www.iea.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxb3IxemROR1hkeldicXdHX0s2T0EwZ3VNWVYwVFlQRHRQaTBXMnF4QUI1YkJ0bURBVmFJaDZrVFR4T2FxZXpLZkplVEJod21qVEZ2YktSX1dhU1lmODFORWthNDhoYjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.iea.org/reports/oil-market-report-april-2023",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Global Financial Stability Report, April 2023: Safeguarding Financial Stability amid High Inflation and Geopolitical Risks - International Monetary Fund | IMF",
+            "published_date": "Tue, 11 Apr 2023 07:00:00 GMT",
+            "source": "International Monetary Fund | IMF",
+            "source_url": "https://www.imf.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObFU1T0R0V1ZaN0t2aFBXWU9KTkRKMGhqWWlCb2ZkRTRnRlZoRy0ya1FfZGN4WjJGSEtCdjZXTjVZanZhTHZpdW4xSEQwN2RjRjZDZU1Od0Fmd0hKYVM3WlJOZVFnbGRrWnBnUWp3X2FsN1BfT1U0bWJWVzRIemhMVTh3OFptbkJHNFVOaGlpaTBjdllYWDA5YjkzbGJNaEhUWVY3ckZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.imf.org/en/publications/gfsr/issues/2023/04/11/global-financial-stability-report-april-2023",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "The housing market is hot again (sort of) - Sacramento Appraisal Blog",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Sacramento Appraisal Blog",
+            "source_url": "https://sacramentoappraisalblog.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3FYX003U3h0cVRjR0pRdmJHYWk1YW9GZVF6NFpGYWhQRzQtaHN0cUU5dXpUNm90T1RoTEtYOXd2R05tVlZYZnVfWV9zakFadEVNQ1VURkxoRFZGUjhCVFlkNU1CdV9DTm1PWjJFdkM5MXFpNTd2bm8xdDM3VXhVbnhZY1ktREtpU0M5MjV2V1c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://sacramentoappraisalblog.com/2023/04/05/the-housing-market-is-hot-again-sort-of/",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "The creator economy could approach half-a-trillion dollars by 2027 - Goldman Sachs",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "Goldman Sachs",
+            "source_url": "https://www.goldmansachs.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTBNTDZSRGdfRUw4U0FTWlBCZ1Y4NUdRWGo5cGRjYnR6bG1ma1B2NlBMSnBSaldGdVA2ZzJLSFZJUzkyN1gzNFhjeGdNNk5WUzNqZEh2SHBQVTBEaDBOXzhMbGU2Rk5SQlYyVmRGZ2RiNW9yek9YcDB0VndwR0N6SnhwamJzdE9xOG5JM3c0YlBvckotREJVUERkM2xrUkk4TjIwRm1lSWNTWVFPVWdaV3JyMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "2023 Digital media trends: Immersed and connected - Deloitte",
+            "published_date": "Fri, 14 Apr 2023 07:00:00 GMT",
+            "source": "Deloitte",
+            "source_url": "https://www.deloitte.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWR2Q0lvZEtoVHdSRk5mWXpva3QwSm52T19Db2MxdkpyQnpoTkhxZVZkOVpENDNxV0RDSTBqU3djMUhKY2FEb0tFQWNWak9tTlpaS09ZYTh2R3dIaFF4cHM4Z0ItRHoxVFJrYVVmUXUtZlUtNHJNaWQ5OXJHamJmWnRsYzVua1BEMV84bkJ0TEsta2FxVHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.deloitte.com/us/en/insights/industry/technology/media-industry-trends-2023.html",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Tight Labor Markets Have Been a Key Contributor to High Food Inflation - kansascityfed.org",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "kansascityfed.org",
+            "source_url": "https://www.kansascityfed.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHhNZHdNNkZNVzd5SHdpaEo1N0hqUHVETUhBai1VVVNCd00zakFkSS0td0NoSmRYblFiek9OakFMeDVSXzJCR2hpWXFUQmlsS1U5MTdIeE1ZT0xGdG1sbWJVWlFBQ1JoSHlXMmhHM09kNjJmVEU1bjRhQi13eTNOQ1VncUF2cDNsVUVqYm1HWGRIZERBd2pobTQweG9sMUtpb0tnV2hjX3JWUjB2VU50NzZ6MTZKdUxzWnAxZVJEa0tmS0JIV1Br?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.kansascityfed.org/research/economic-bulletin/tight-labor-markets-have-been-a-key-contributor-to-high-food-inflation/",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Four Trends That Will Pop the $250 Billion Gross-to-Net Bubble\u2014and Transform PBMs, Market Access, and Benefit Design - Drug Channels",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "Drug Channels",
+            "source_url": "https://www.drugchannels.net",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnl0R2hWRkV6ODg0LWpaN2lqWW9jQXNmZmxnbFFpRjRsSzZSX1VFbFQycnJGSzNjd1RhaHk0NnM3Y1dWallRb29ENk9HdHZ1RFhCRjNUZTJQUGs0d2VmelFLa2Z3YlgyeWdXdnZqTDlDQjg2QkQ0XzRmRDFRdW84QTRXNXl6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.drugchannels.net/2023/04/four-trends-that-will-pop-250-billion.html",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "US Business-to-Business Labor Market Update \u2013 2023 Q1 - Indeed Hiring Lab",
+            "published_date": "Tue, 25 Apr 2023 07:00:00 GMT",
+            "source": "Indeed Hiring Lab",
+            "source_url": "https://www.hiringlab.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUIwSWh2NHhHMmJhc3lmVHRsQmdFcEZadnlnZVEtQ0JJblc3bGZ1eVBwSkdGcHVHTHJkS0tVQmtlanFGNkNSa0tJLXhxTEsxM0NKSXlZUnBvLWk0VXRtYWF0WUxFU0JZNnpTSHp0cHNxNUdMcGlONkk0S2N2S3p1YWVURDdEbVZOTXhCZTRQbXcyNzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.hiringlab.org/2023/04/25/us-business-to-business-labor-market-update-2023-q1/",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Art Market Has Climbed Above Prepandemic Level, Major Study Says (Published 2023) - The New York Times",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEpjTVdCSTFjWENoVmNJTzF0Nk56Nk5yYUt2ajl1eEVuODBRbkd4MUwyR0MtMXNOMzJlY21YZzRvT21GbzZmdDBORWRzbzhXcjV2eDMwVU40TWxOY184NWZkZERQamhrNlp1aDUwbUdldUNHWkZGV2wzZERjN0FocTVIOTlkNF93MkR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/04/04/arts/design/ubs-art-basel-report-art-market.html",
+            "query": "Market trends April 2023",
+            "text": null
+          },
+          {
+            "title": "Performing Credit Quarterly 1Q2023: Flight Risk - Oaktree Capital Management",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "Oaktree Capital Management",
+            "source_url": "https://www.oaktreecapital.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnFLNjlFM0xoWjBDOEVHWWFnNFc5YmZLYllFelRhT3lGYzJJMkFFci1OQzJrczFnSGxKV2p1c29ITnBjQWV6YVpwRUY0OUQ3eGRzY3pIcHE0ZEM0Rm9jeHBDQmpRamh2UzE5UERZNTJsOEw0X1lsYWhJV1BBRDZjR0Z5amRKc2dETFJ5NTdIbGRjclU0dWpmMVNQakhiNkZLTDdIWk1nRU9tc191b0ZmMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.oaktreecapital.com/insights/insight-commentary/market-commentary/performing-credit-quarterly-1q2023",
+            "query": "Market trends April 2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will Mathieu van der Poel win Paris-Roubaix 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-03"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-03": {
+        "Van der Poel Paris-Roubaix results": [],
+        "Mathieu van der Poel form 2023": [
+          {
+            "title": "Mathieu van der Poel: Tadej Poga\u010dar will win all five monuments and all three grand tours - Outside Magazine",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Outside Magazine",
+            "source_url": "https://velo.outsideonline.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY3FfRU83NkppcHRHUkppMkhjSjlEZk9yUVFiUWpsV2VVWWtvX3ZfNE1NUHlLWFFsQi0tSjhlZ25vQW1vZVIxejFRSkNUMTNuUkJybGZhMlpfakVNTzdFRVlsRkpwZXNSTENUdFl5cGt4Wmp0QUpOU0h6QjBLNXdwMjB6ZFBSVk9fSWNfWEszeGhfMm5QaW1fZXhKelZZRlVIZm9IUENQblg0SUJYS19hNlNsVVpBMHRNdzBFXzJoaG9nUWJyRFNPcy1xb0t2aFcxN0Fv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://velo.outsideonline.com/road/road-racing/mathieu-van-der-poel-tadej-pogacar-will-win-all-five-monuments-and-all-three-grand-tours/",
+            "query": "Mathieu van der Poel form 2023",
+            "text": null
+          },
+          {
+            "title": "Poga\u010dar Wins Tour of Flanders with Majestic Ride - \u0160koda We Love Cycling",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "\u0160koda We Love Cycling",
+            "source_url": "https://www.welovecycling.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0NqQ3NFSG53RG91VlB1XzA1MXBrSG02YnAxemN4TjhncHZ5MC1Ga1p2aHRYRlFVRVBCb25qYjQtUzIyRi1vai1lVHU4OUdLdGtoNlNVdXM5emozSEQzMFNlU2o0RENuZ29aOHhFMWF5MWVZT291VjVKY05pbWlIdHROSE52Snc5bkpSNnR2MUdwcExTRVZNSUFaZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.welovecycling.com/wide/2023/04/03/pogacar-wins-tour-of-flanders-with-majestic-ride/",
+            "query": "Mathieu van der Poel form 2023",
+            "text": null
+          }
+        ],
+        "Mathieu van der Poel injury update": []
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the men's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-10": {
+        "Kenyan runners dominate Boston": [
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Kenyan runners dominate Boston",
+            "text": null
+          }
+        ],
+        "Boston Marathon men's favorites": [
+          {
+            "title": "Map: The best places to watch the Boston Marathon - Boston.com",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Boston.com",
+            "source_url": "https://www.boston.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXduUjI4cFJuSEh0TTN1MVNTNGQ4YlpLNmFmQjVMREpsVS1qQ1RzMVhnVlV0eE9IVzZQYzk4X3UyUUx1bjI4S1Z1QTdqd2tGWU03ZGtjWldfa1k0dl82SmlEbEJjZGlJaU9mTE9nOE5kQzdwSDZmYzQ0SG8tMjRST3dIM1dtQWYxNTZ5ZFR5bzd0Z3BoZlppRXRwWUdPcTRzbVdzYW93?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.boston.com/culture/boston-marathon/2022/04/15/map-best-places-to-watch-the-boston-marathon/",
+            "query": "Boston Marathon men's favorites",
+            "text": null
+          },
+          {
+            "title": "RECORD WATCH FOR BOSTON | - | ~ Wandering in a Running World ~",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "| ~ Wandering in a Running World ~",
+            "source_url": "https://tonireavis.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZmdpMG1oMWJQRmFnV2tNTVNmOU1QQzd3eGQ0QlpwcE9tZDNFM0tPOUIwTXF1dVlKWUkyZHNYWHRLVTdGLUhicGtybk5FWlUwenRCSGRQT3d4V1lHYVdLQ0xETEt3Uk10T1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://tonireavis.com/2023/04/09/record-watch-for-boston/",
+            "query": "Boston Marathon men's favorites",
+            "text": null
+          },
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Boston Marathon men's favorites",
+            "text": null
+          },
+          {
+            "title": "Why a world record set in the Boston Marathon wouldn\u2019t officially count - Boston.com",
+            "published_date": "Wed, 05 Apr 2023 07:00:00 GMT",
+            "source": "Boston.com",
+            "source_url": "https://www.boston.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzdVVzFkcVdpSTBCd2JtbXdaQkRLV0lkS2RhLXRqM1Bkd2E2ZUZhQmdYR1lMLTRpZUxQeTJVbVRCQm93bk1TZEpEenhLWjl6TVR5Q3JhLWlsZEpGQm40cTJ4UTFFWXE1LXVfUzBRZnJnZ1htS09qUU9OVGhJRkVPTk5yVEJLOHFRVXRMM3VGRGc4bU9HSnRiSktsck1hb2EtdHlKMS13RVdfemxKOGJiNUl1N05hbzN5c0k4Y0M4UHNUUzk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.boston.com/sports/boston-marathon/2021/09/28/why-world-record-set-in-the-boston-marathon-wouldnt-officially-count/",
+            "query": "Boston Marathon men's favorites",
+            "text": null
+          }
+        ],
+        "Ethiopian runners Boston Marathon": [
+          {
+            "title": "RECORD WATCH FOR BOSTON | - | ~ Wandering in a Running World ~",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "| ~ Wandering in a Running World ~",
+            "source_url": "https://tonireavis.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZmdpMG1oMWJQRmFnV2tNTVNmOU1QQzd3eGQ0QlpwcE9tZDNFM0tPOUIwTXF1dVlKWUkyZHNYWHRLVTdGLUhicGtybk5FWlUwenRCSGRQT3d4V1lHYVdLQ0xETEt3Uk10T1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://tonireavis.com/2023/04/09/record-watch-for-boston/",
+            "query": "Ethiopian runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Hellen Obiri Sets Her Sights on Boston - womensrunning.com",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "womensrunning.com",
+            "source_url": "https://www.womensrunning.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlBrSlQ0YXlqclBOUTUxZjZlX1M3dEg0dGVwNHYySlZsSjl2ZFppUm12NDUtX0dZUW1aeGhSekhtQi1VY3p0eUdqRXl1Y2ZGakp1TlhxRW4tMk5JV2c1MEl1YWpCb3Z4VTJFcDhIMUZDUnREY3k4U2hnMXg0Tm1MaWp5c2Z4NDlWX1gyckM1c1dmT0lSVmt6N3ZibmlZUjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.womensrunning.com/events/world-marathon-majors/hellen-obiri-sets-her-sights-on-boston/",
+            "query": "Ethiopian runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Ethiopian runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Hillary Bor Sets New American Record at the Cherry Blossom 10 Mile - Runner's World",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Runner's World",
+            "source_url": "https://www.runnersworld.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYk5NWWxBUWlLNnZvRkx0MndqVEw4a3FWWmRNZmZSajYweG9iYzU3b0J2Ulpwcm9hN2ZNNUxCZlA3NUlHR25PTjNtdldrZE4tSWpFcWttTF9MbE1OQUtta1JJdTBCeGpEUW5DbUxoRTNxTnV4TGU4akxYQVhkNkQ4T2E5NnFyWlBacjAzTVR0RDl5S0hZcXVOaEhzWHNyU0t2c25ZOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.runnersworld.com/races-places/a43498828/hillary-bor-sara-hall-cherry-blossom-10-mile-2023/",
+            "query": "Ethiopian runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Why were two female running champions killed in Kenya\u2019s track capital? - The New Yorker",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The New Yorker",
+            "source_url": "https://www.newyorker.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXd3RUVHM29nS0Q4YlFGVG5GWER2aWxsdWpTU2YzeWZLNTJnTWk5aXBPcHlYbkZJNzdFY09oRm15QXBySy1RaTVjemRKNGR6ZGdNc3JZcW1VQXdnUlZnaEJ0WHp6b2l2cDhSQ0VBVGZYcE16VEtUYWZZRDJIT18yTnNPZjctMTNReXRSa0RNYWdxZmZBTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.newyorker.com/magazine/2023/04/17/why-were-two-female-olympians-killed-in-kenya",
+            "query": "Ethiopian runners Boston Marathon",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the women's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-10": {
+        "Boston Marathon women's contenders 2023": [
+          {
+            "title": "Hellen Obiri Sets Her Sights on Boston - womensrunning.com",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "womensrunning.com",
+            "source_url": "https://www.womensrunning.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlBrSlQ0YXlqclBOUTUxZjZlX1M3dEg0dGVwNHYySlZsSjl2ZFppUm12NDUtX0dZUW1aeGhSekhtQi1VY3p0eUdqRXl1Y2ZGakp1TlhxRW4tMk5JV2c1MEl1YWpCb3Z4VTJFcDhIMUZDUnREY3k4U2hnMXg0Tm1MaWp5c2Z4NDlWX1gyckM1c1dmT0lSVmt6N3ZibmlZUjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.womensrunning.com/events/world-marathon-majors/hellen-obiri-sets-her-sights-on-boston/",
+            "query": "Boston Marathon women's contenders 2023",
+            "text": null
+          }
+        ],
+        "Kenyan women Boston Marathon favorites": [
+          {
+            "title": "RECORD WATCH FOR BOSTON | - | ~ Wandering in a Running World ~",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "| ~ Wandering in a Running World ~",
+            "source_url": "https://tonireavis.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZmdpMG1oMWJQRmFnV2tNTVNmOU1QQzd3eGQ0QlpwcE9tZDNFM0tPOUIwTXF1dVlKWUkyZHNYWHRLVTdGLUhicGtybk5FWlUwenRCSGRQT3d4V1lHYVdLQ0xETEt3Uk10T1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://tonireavis.com/2023/04/09/record-watch-for-boston/",
+            "query": "Kenyan women Boston Marathon favorites",
+            "text": null
+          },
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Kenyan women Boston Marathon favorites",
+            "text": null
+          }
+        ],
+        "Ethiopian runners Boston Marathon 2023": [
+          {
+            "title": "RECORD WATCH FOR BOSTON | - | ~ Wandering in a Running World ~",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "| ~ Wandering in a Running World ~",
+            "source_url": "https://tonireavis.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZmdpMG1oMWJQRmFnV2tNTVNmOU1QQzd3eGQ0QlpwcE9tZDNFM0tPOUIwTXF1dVlKWUkyZHNYWHRLVTdGLUhicGtybk5FWlUwenRCSGRQT3d4V1lHYVdLQ0xETEt3Uk10T1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://tonireavis.com/2023/04/09/record-watch-for-boston/",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "Boston Marathon 2023: Five of the best races in the history of the Marathon Major - olympics.com",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "olympics.com",
+            "source_url": "https://www.olympics.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNllmOVNrbWdta2NwT2JzOEtrMFhtSEJkN1dKUzRaemY3TWNkcS1yNmtKMGtBejlua1RWY3BZWnhjcDczdG90VG55Rkk5SFZpZXllRjRjcEUyMXVYSVYtNUlvNGM3Q0kyWHZLYl83WnUxOHRRc3ZSR2VtWEpibVhjMXNoT01vanJQQUxXeDZuVVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.olympics.com/en/news/boston-marathon-2023-five-of-the-best-races-in-history",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "How will Eliud Kipchoge run Boston Marathon without the help of pace makers? - RunBlogRun",
+            "published_date": "Fri, 07 Apr 2023 07:00:00 GMT",
+            "source": "RunBlogRun",
+            "source_url": "https://www.runblogrun.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjRCQmV0WllramFpb3c3UFc2bk5zNnVDcHY1dVg3dnAxaVVoRG1BR1ZUZXlGaDZ4NUUzdUZzYWMxUC1XZmFxZnIxN0JKTURyMjJPWHl6UEs4bHJwUlVlMXJCOGQyOHVPZHVIQ215eW5CTTZRNTFteE84cmFhbWpvTjVYU3k5dVdtQWtwLXlwaE5XNDVMc3pWSXkwSDRRVVNIVTRQeEpXeEY1VEZfVWFoQUtsY0VvUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.runblogrun.com/2023/04/how-will-eliud-kipchoge-run-boston-marathon-without-the-help-of-pace-makers.html",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "Hillary Bor Sets New American Record at the Cherry Blossom 10 Mile - Runner's World",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Runner's World",
+            "source_url": "https://www.runnersworld.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYk5NWWxBUWlLNnZvRkx0MndqVEw4a3FWWmRNZmZSajYweG9iYzU3b0J2Ulpwcm9hN2ZNNUxCZlA3NUlHR25PTjNtdldrZE4tSWpFcWttTF9MbE1OQUtta1JJdTBCeGpEUW5DbUxoRTNxTnV4TGU4akxYQVhkNkQ4T2E5NnFyWlBacjAzTVR0RDl5S0hZcXVOaEhzWHNyU0t2c25ZOQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.runnersworld.com/races-places/a43498828/hillary-bor-sara-hall-cherry-blossom-10-mile-2023/",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "Why were two female running champions killed in Kenya\u2019s track capital? - The New Yorker",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The New Yorker",
+            "source_url": "https://www.newyorker.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeXd3RUVHM29nS0Q4YlFGVG5GWER2aWxsdWpTU2YzeWZLNTJnTWk5aXBPcHlYbkZJNzdFY09oRm15QXBySy1RaTVjemRKNGR6ZGdNc3JZcW1VQXdnUlZnaEJ0WHp6b2l2cDhSQ0VBVGZYcE16VEtUYWZZRDJIT18yTnNPZjctMTNReXRSa0RNYWdxZmZBTEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.newyorker.com/magazine/2023/04/17/why-were-two-female-olympians-killed-in-kenya",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          },
+          {
+            "title": "A Runner\u2019s Murder in Kenya Opens a Window Into Violence Against Women - Bloomberg.com",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Bloomberg.com",
+            "source_url": "https://www.bloomberg.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEZRa1poQlJGT21WNjNlSEs1U1Uxak16X0k0R3dEeG0xWjVqNGpWeUhQTThjR2Jfa2ljLVhvZl9qWVcyQmNpeDJIdGVtQjVHX09kMUVqOXdnTmt2azQ0STBFWm5hd2RvWE5iekZLOWZXMFlORFk3UnhCR3o0S09wbFRzZXR3bHA5bEx6WGZMd3ZRak1RUzFUTGg2NUR2LTA1eVNDbVVRbERleGV2VFBXMW5SVWZfZVdXYVFpRA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bloomberg.com/news/features/2023-04-11/a-runner-s-murder-in-kenya-opens-a-window-into-violence-against-women",
+            "query": "Ethiopian runners Boston Marathon 2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will a US runner place in the top 5 in the women's division?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-10": {
+        "Top female runners Boston Marathon": [
+          {
+            "title": "Boston Marathon 2023: Five of the best races in the history of the Marathon Major - olympics.com",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "olympics.com",
+            "source_url": "https://www.olympics.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNllmOVNrbWdta2NwT2JzOEtrMFhtSEJkN1dKUzRaemY3TWNkcS1yNmtKMGtBejlua1RWY3BZWnhjcDczdG90VG55Rkk5SFZpZXllRjRjcEUyMXVYSVYtNUlvNGM3Q0kyWHZLYl83WnUxOHRRc3ZSR2VtWEpibVhjMXNoT01vanJQQUxXeDZuVVI?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.olympics.com/en/news/boston-marathon-2023-five-of-the-best-races-in-history",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Hellen Obiri Sets Her Sights on Boston - womensrunning.com",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "womensrunning.com",
+            "source_url": "https://www.womensrunning.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlBrSlQ0YXlqclBOUTUxZjZlX1M3dEg0dGVwNHYySlZsSjl2ZFppUm12NDUtX0dZUW1aeGhSekhtQi1VY3p0eUdqRXl1Y2ZGakp1TlhxRW4tMk5JV2c1MEl1YWpCb3Z4VTJFcDhIMUZDUnREY3k4U2hnMXg0Tm1MaWp5c2Z4NDlWX1gyckM1c1dmT0lSVmt6N3ZibmlZUjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.womensrunning.com/events/world-marathon-majors/hellen-obiri-sets-her-sights-on-boston/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "What happens to Boston Marathon champs after they cross the finish line? - WCVB",
+            "published_date": "Mon, 03 Apr 2023 20:08:52 GMT",
+            "source": "WCVB",
+            "source_url": "https://www.wcvb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3hNSDF4VkNyNXZtX0ZwR0tfb0Z3YXV2ZGlfYjFKWXNINENBbGFERUdkTTlyUTZRTGZQejVzcGJXMEp1T2FkNU5mbHlZU0dQcFhMaS1WOE4zeEgyQnFSYzhxUUpUbHBXUmtRNlEtajhicGlnUnZULTJBMmhrZUNydHBvSXUyTzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wcvb.com/article/boston-marathon-champions-post-race-agenda/43408614",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "\u2018Marathon Monday is the day that brings out the absolute best in humanity\u2019 - Boston.com",
+            "published_date": "Sat, 08 Apr 2023 07:00:00 GMT",
+            "source": "Boston.com",
+            "source_url": "https://www.boston.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVlFanplcHE5dnFZcllHSFJUckFaSm4wcko4S1ExSzFKWUN5amw5YWYwMGNiTDZCOUhTM2J6SzN4UnBwVzZhM1ZJYkNYTjlKbjJMYzdNRGVzTHp3Vkk1aEF1b3R5czF4Qk5qSV9Ra205cFZUVF9RRmNMY2dFVHBGMW9UVE9uMWJMVFpyTjJqT3Voc2dBejlvZ1dqcC12RFFQZjdIYzNNZWhRTkRIUE93M3pxRk9EeC1PVVdaVlpTcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.boston.com/community/boston-marathon/marathon-monday-is-the-day-that-brings-out-the-absolute-best-in-humanity/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Boston is a bucket-list marathon. Now nonbinary runners can compete, too. - The Washington Post",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdmZzdXBGVDhsWk9Od3RiVFlSTmJDMF9ZRExNOXIzVHRpcUc0T2laaVhhb2ZGNE9fZEk0ZEhjdXhzSXExc09EWXVEbnZlejFDWjJfZmQwdGpoNVZaWnFXRnhTTjFJbVVVQjVlSm9aNHFMRnBYY0NqMTdEZmlGUjkxc0hyUkFieGZsSER2YkpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/wellness/2023/04/10/boston-marathon-nonbinary-runners/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Olympian Des Linden Reveals Difficult Thyroid Condition Nearly Kept Her from 2018 Boston Marathon Win - People.com",
+            "published_date": "Thu, 06 Apr 2023 07:00:00 GMT",
+            "source": "People.com",
+            "source_url": "https://people.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaDhlZnpzdVJPSkdyVzNhXzlSSV9rZWQxMGx2LVM1bTN4YkhRUXJjMEt3M29UZXlhVGNtRzdQbnItdEZYeWJNWm51MmNzWXFla0xPbkdwZnFoa0ZUS2pVUk90clhGbUFfbU5SZkFkLXFwd3JBQk4xdTZCTVVKeTJLX0Q2LTJGZ1FQaWNXcmc0cUEtYVhUVnlLQi12YVIyRGpp?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://people.com/sports/olympian-des-linden-difficult-thyroid-condition-2018-boston-marathon-win/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Now healthy, Emily Venters leads the NCAA - Fast Women | Alison Wade",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Fast Women | Alison Wade",
+            "source_url": "https://fastwomen.substack.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vV0JFelpScjFhdDRFcWEzXzhqdGthbDlFaUo0QWFUY3UzRWhidVZmcFZzOW9vcDBTUEdlZnV5REh1eXUyTHNqX3E2dGJockdGLXAyaElxVURGTW1RUDBhdnF1ZXBuRXRvN1MxV2VFZjhGLXlTZDQ0cQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://fastwomen.substack.com/p/fast-women-now-healthy-emily-venters",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Des Linden Talks About Her Biggest Choices - womensrunning.com",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "womensrunning.com",
+            "source_url": "https://www.womensrunning.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0daSVRxamtpa2MxcmNEb3VfLWkwM3hxUFU2OWpPQnZQa2RfLU1LSHN6Qy1JWUJKOWUxTC02b3lfYl9SdUh3ZHo4QzRTVHZUaEhOSVhfLWpwdXFvMUZOeGtkUzU3R09CZnBpLXQzcHJoQzlwbUp2UlZhX0RYajB6b242dl9fN2VqLXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.womensrunning.com/culture/people/des-linden-interview-choosing-to-run/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Nike Runner Kara Goucher Says Nike Didn't Pay Her When She Was Pregnant - Business Insider",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "Business Insider",
+            "source_url": "https://www.businessinsider.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUF9rWmlfd1RROEl6RmRyUmZvRVpfMXJYTDMzWjhRSmwwc0tydDVDZWZwWUZJVlRGcmFXMkpIN3JZaWtjdmxWN0VSQzFsSmxUVGV3REotak84QzZrWnF3Sk1NcXhHZTFkS2dXOHhvcHdIODlybHM4djM0dlRWWVZ0UTZHQnFBOVo3dno1WWJQUkNjZ2JBU0x6TjlQQ1lKdkx5S1Fv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.businessinsider.com/nike-runner-kara-goucher-book-nike-stopped-paying-her-pregnant-2023-4",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          },
+          {
+            "title": "Racing and Chasing Namibia\u2019s Greatest Marathoner: Luketz Swartbooi - The Namibian -",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "The Namibian -",
+            "source_url": "https://www.namibian.com.na",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2dtN1RxOXdBc1lTODJMTFZvekJEMzRNNWdxQlJFSGYzZzNQN3NBb2VKaDZSOGRXOXYweTNQNmVXZF9XT0dERVQ3U1RZSmFkLVJfN1pBR2J6TXJPZjk1TGhYemVkajV4UmVQd3NiZnRSS3VUdjc4RmFNb09XUWRuelFFdE92dGIteXFtcFFBRXVyZXUzOGpweA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.namibian.com.na/racing-and-chasing-namibias-greatest-marathoner-luketz-swartbooi/",
+            "query": "Top female runners Boston Marathon",
+            "text": null
+          }
+        ],
+        "US women's marathon rankings": [
+          {
+            "title": "Roberta Groner takes nothing for granted - Fast Women | Alison Wade",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "Fast Women | Alison Wade",
+            "source_url": "https://fastwomen.substack.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qVEE5ZG5tY2x6MGhZakVHcDNBdEE1S0Z2SzBSU2ZoMnB5cmF1X0RsMG9QaVZmUTRfd2psbTV3OV9NVFRzVWNIMWxNQTVzQnhMbXJ0ejdzU0ZCckppSmNPMjJwQUh6UUhqLXFQOHlqY0t0Z3J6dXpYWHUyUWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://fastwomen.substack.com/p/fast-women-roberta-groner-takes-nothing",
+            "query": "US women's marathon rankings",
+            "text": null
+          },
+          {
+            "title": "An inspiring Family completes the All American Races as the final finishers in 2023 - army.mil",
+            "published_date": "Mon, 03 Apr 2023 07:00:00 GMT",
+            "source": "army.mil",
+            "source_url": "https://www.army.mil",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlJGcVdTMEJlZ1NiR1JCRktGeXVxYTJwY1VOeVhXV3VObnVVMzhqOGJ2RmE1MllPVVJvUEdCMUNWUDBNbjFJdUZMVGRza3ZBUjFSQmxYYzl2VF9aQjl1cWVZc2wxVVZhREhpNkdzMV9rdnFpYXI0c2Y4aVRUaXljdnBjeHF2QVI2YWxvSzZTNjlGazlsTU84aUxkZlVFcE5sUjRyLXZGN1hiUU9lZ0hiakZvcjlLTlA4UlZB0gHAAUFVX3lxTE5iZzVwYjFzSVh5cUd4bXNPRFdZdkJwZjJJTFJWejFRNS1mc2RDV3lndmpkQUhkeEs2bThUOU9JUGpGS0haNGF4YThEbXlQWjk1QmpMTUQ2U1BSNmRaQlBuVEZZV2hUa0xWZ1lNTWVaWlV0V19Nc1NHYV90Q004T0lhUkRXMHFnUDZPdmhsb2VMYTB0RV9rQTVUOElmc1dVQlQ5MHpBMXI3YW11MFdjRW5qdlcyTGRMa1AtMnczWE1EVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.army.mil/article/265435/an_inspiring_family_completes_the_all_american_races_as_the_final_finishers_in_2023",
+            "query": "US women's marathon rankings",
+            "text": null
+          },
+          {
+            "title": "Ryan Crouser to attack Shot Put world record at Drake Relays? - world-track.org",
+            "published_date": "Tue, 04 Apr 2023 07:00:00 GMT",
+            "source": "world-track.org",
+            "source_url": "https://world-track.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazFlOVZEX2FvbGJpemx4QWdzamRLQks4RUNTdTBrRG0zdGkyOWFiV0w4YnFNMTFuTlZJX3NlMThLRnE0NV9sZnd1dmFJSU1SRklIYmxLamVDVTBxRTB5M3o1d3BxZDFKQnZZWVlnSzBJeFdleF9lU3JERU1uREd0SXR0VXYzc24xTGtQLVdGMW5aeGRLVDR3Nw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://world-track.org/2023/04/ryan-crouser-to-attack-shot-put-world-record-at-drake-relays/",
+            "query": "US women's marathon rankings",
+            "text": null
+          }
+        ],
+        "Boston Marathon women's favorites": [
+          {
+            "title": "RECORD WATCH FOR BOSTON | - | ~ Wandering in a Running World ~",
+            "published_date": "Sun, 09 Apr 2023 07:00:00 GMT",
+            "source": "| ~ Wandering in a Running World ~",
+            "source_url": "https://tonireavis.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YZmdpMG1oMWJQRmFnV2tNTVNmOU1QQzd3eGQ0QlpwcE9tZDNFM0tPOUIwTXF1dVlKWUkyZHNYWHRLVTdGLUhicGtybk5FWlUwenRCSGRQT3d4V1lHYVdLQ0xETEt3Uk10T1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://tonireavis.com/2023/04/09/record-watch-for-boston/",
+            "query": "Boston Marathon women's favorites",
+            "text": null
+          },
+          {
+            "title": "Your guide to the 2023 Boston Marathon - The Boston Globe",
+            "published_date": "Mon, 10 Apr 2023 07:00:00 GMT",
+            "source": "The Boston Globe",
+            "source_url": "https://www.bostonglobe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0U1SXRqNHp3d0VYdkQ2azR3Y0NJQlBVYmtXUmxuTHhESHFZQzJSRE1qZUJLejZZRG4xUHNab3RsZHp4MmVjZTFOdWdfb2R0WExhaUtqcUcwa3cyajZkVzhDT19RdmhWaUszZy0wSDdGSENtRkZHTFlYNzZnbllUaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bostonglobe.com/2023/04/10/sports/boston-marathon-2023-preview/",
+            "query": "Boston Marathon women's favorites",
+            "text": null
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Will S&P 500 increase in April 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-02",
+    "date_resolve_at": "2023-05-02",
+    "retrieval_dates": [
+      "2023-04-25"
+    ],
+    "retrieval_date_predictions": {
+      "2023-04-25": {
+        "source_predictions": {
+          "Euromonitor": {
+            "llm_response": "To address the question of whether the S&P 500 will increase from its opening value on 2023-04-03 to its closing value on 2023-04-28, let's analyze the information provided and follow the instructions.\n\n### 1. Reasons why the answer might be no:\n\n1. **Economic Uncertainty**: The article discusses potential risks and uncertainties facing the US economy, including the possibility of a hard landing and recession. This uncertainty could lead to volatility and decreased investor confidence, potentially negatively impacting the S&P 500.\n2. **Monetary Policy**: The persistent inflation and low unemployment might prompt the US Federal Reserve to implement a more restrictive monetary policy, which could increase interest rates and reduce borrowing, potentially slowing down economic growth and affecting the S&P 500 negatively.\n3. **Banking Sector Turmoil**: The recent turmoil in the banking sector, triggered by the Fed's interest rate-hiking cycle, has already led to the failure of several banks. This could lead to a reduction in lending by banks to preserve liquidity, dampening economic activity and potentially impacting the S&P 500.\n\n### 2. Reasons why the answer might be yes:\n\n1. **Resilience of the Market**: Despite economic challenges and uncertainties, the S&P 500 has shown resilience in the past, often rebounding from downturns. The opening value in April is close to the closing value in March, suggesting that the market may stabilize or grow.\n2. **Historical Performance**: The S&P 500 has historically performed well over the long term, with periodic fluctuations. If the economic fundamentals remain strong, the index could continue to grow, even in the face of short-term challenges.\n3. **Economic Adaptation**: Businesses and consumers may adapt to the new economic reality, finding ways to thrive despite higher interest rates and inflation. This adaptation could lead to continued growth in certain sectors, supporting the S&P 500.\n\n### 3. Rating the strength of each reason:\n\n**Reasons why the answer might be no:**\n1. Economic Uncertainty: 7/10 (The impact of uncertainty can be significant but is somewhat mitigated by the market's ability to price in known risks.)\n2. Monetary Policy: 8/10 (The Fed's actions have a direct and significant impact on the economy and markets.)\n3. Banking Sector Turmoil: 9/10 (The immediate impact of banking failures can be very disruptive to financial markets.)\n\n**Reasons why the answer might be yes:**\n1. Resilience of the Market: 6/10 (While the market is resilient, its performance can be heavily influenced by current conditions.)\n2. Historical Performance: 5/10 (Past performance is not always indicative of future results, especially in changing economic conditions.)\n3. Economic Adaptation: 7/10 (The ability of businesses and consumers to adapt is crucial, but the timeframe for such adaptation can be long.)\n\n### 4. Aggregate considerations:\n\nConsidering the reasons provided and their strengths, the outlook for the S&P 500 in April 2023 seems challenging due to economic uncertainty, potential impacts from monetary policy, and turmoil in the banking sector. However, the market's historical resilience and the potential for economic adaptation offer counterbalancing factors.\n\n### 5. Output answer:\n\n*0.4*",
+            "prediction": 0.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Mathieu van der Poel win Paris-Roubaix 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_date_predictions": {
+      "2023-04-03": {
+        "source_predictions": {}
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the men's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_date_predictions": {
+      "2023-04-10": {
+        "source_predictions": {
+          "| ~ Wandering in a Running World ~": {
+            "llm_response": "To address the question of whether the men's podium at the Boston Marathon will consist entirely of Kenyan or Ethiopian runners, let's analyze the given information and potential outcomes.\n\n### 1. Reasons why the answer might be no:\n\n1. **Presence of other strong runners**: The field in the Boston Marathon often includes talented runners from other countries, such as the United States, Japan, and European nations, who could potentially place in the top three.\n2. **Variable performance**: Even with a strong tradition of Kenyan and Ethiopian dominance in long-distance running, individual performances can be unpredictable due to factors like training, weather, and race-day strategy.\n3. **Course challenges**: The Boston Marathon course, with its famous Heartbreak Hill and varied terrain, poses unique challenges that might favor runners from other backgrounds who are specifically trained for such conditions.\n\n### 2. Reasons why the answer might be yes:\n\n1. **Historical dominance**: Kenyan and Ethiopian runners have historically dominated major marathons, including Boston, due to their rigorous training regimens and cultural emphasis on long-distance running.\n2. **Depth of talent**: Both Kenya and Ethiopia have a deep pool of talented long-distance runners, increasing the likelihood that multiple athletes from these countries could occupy the podium.\n3. **Recent performances**: The mention of Eliud Kipchoge, a world-class Kenyan runner, competing in the 2023 Boston Marathon, alongside other potentially strong Kenyan and Ethiopian entrants, suggests a high likelihood of these nations being well-represented at the top of the results.\n\n### 3. Rating the strength of each reason:\n\n- **Reasons why the answer might be no**:\n  1. Presence of other strong runners: 6/10\n  2. Variable performance: 7/10\n  3. Course challenges: 5/10\n\n- **Reasons why the answer might be yes**:\n  1. Historical dominance: 8/10\n  2. Depth of talent: 9/10\n  3. Recent performances: 8/10\n\nThe ratings consider the general competitiveness of the Boston Marathon, the unpredictability of individual athletic performances, and the well-documented prowess of Kenyan and Ethiopian distance runners.\n\n### 4. Aggregate considerations:\n\nGiven the strong historical performance of Kenyan and Ethiopian runners, their depth of talent, and the recent participation of elite athletes like Eliud Kipchoge, it seems plausible that these countries could dominate the podium. However, the presence of other strong runners and the unpredictable nature of athletic competitions introduce uncertainty.\n\n### 5. Output answer:\n\nConsidering the factors mentioned, the likelihood that the men's podium will consist entirely of Kenyan or Ethiopian runners seems significant but not guaranteed. Thus, a reasonable estimate, taking into account both the historical data and the potential for upset, would be:\n\n*0.7*",
+            "prediction": 0.7
+          }
+        }
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the women's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_date_predictions": {
+      "2023-04-10": {
+        "source_predictions": {
+          "womensrunning.com": {
+            "llm_response": "1. Provide at least 3 reasons why the answer might be no:\n\n* The article only mentions two runners, Hellen Obiri and Senbere Teferi, and does not provide a comprehensive list of top contenders, suggesting that there may be other strong runners from outside Kenya and Ethiopia who could potentially finish on the podium.\n* The Boston Marathon is a highly competitive event that attracts top runners from around the world, increasing the likelihood that runners from other countries could finish in the top three.\n* There may be other factors at play, such as injuries or unexpected performances, that could impact the outcome of the race and prevent a Kenyan or Ethiopian sweep of the podium.\n\n2. Provide at least 3 reasons why the answer might be yes:\n\n* Hellen Obiri's recent win at the NYC Half Marathon and her preparation for the Boston Marathon suggest that she is a strong contender, and her Kenyan heritage could contribute to a potential Kenyan or Ethiopian sweep of the podium.\n* Senbere Teferi's performance in the NYC Half Marathon, where she was outrun by Obiri, still demonstrates that she is a competitive runner who could potentially finish on the podium, and her Ethiopian heritage adds to the possibility of a Kenyan or Ethiopian sweep.\n* The historical performance of Kenyan and Ethiopian runners in distance running events, including the Boston Marathon, suggests that these countries have a strong tradition of producing talented runners who could potentially dominate the podium.\n\n3. Rate the strength of each of the reasons given in the last two responses:\n\n* Reason 1.1 (limited information about contenders): 6/10 (it's a reasonable point, but it's not a strong argument without more context)\n* Reason 1.2 (competitive nature of the event): 8/10 (this is a solid point, as the Boston Marathon is a highly competitive event)\n* Reason 1.3 (unpredictable factors): 7/10 (this is a reasonable point, but it's somewhat speculative)\n* Reason 2.1 (Hellen Obiri's performance): 8/10 (Obiri's recent win is a strong indicator of her potential)\n* Reason 2.2 (Senbere Teferi's performance): 7/10 (Teferi's performance is still a good indicator, but she was outrun by Obiri)\n* Reason 2.3 (historical performance of Kenyan and Ethiopian runners): 9/10 (this is a strong point, given the historical dominance of these countries in distance running)\n\n4. Aggregate your considerations:\n\nBased on the reasons provided, it seems that there are some strong arguments on both sides. However, the historical performance of Kenyan and Ethiopian runners, combined with the recent performances of Obiri and Teferi, suggest that there is a good chance that the women's podium could consist entirely of Kenyan or Ethiopian runners.\n\n5. Output your answer (a number between 0 and 1) with an asterisk at the beginning and end of the decimal:\n*0.7*",
+            "prediction": 0.7
+          },
+          "The Boston Globe": {
+            "llm_response": "To determine the likelihood of the women's podium at the Boston Marathon consisting entirely of Kenyan or Ethiopian runners, let's analyze the given information and apply the instructions step by step.\n\n### 1. Reasons why the answer might be no:\n\n1. **Presence of Non-Kenyan/Ethiopian Contenders**: The article mentions Des Linden, an American runner, and other former champions who could potentially challenge the dominance of Kenyan and Ethiopian runners.\n2. **Limited Information on Kenyan Runners**: The article does not specifically mention any Kenyan runners as contenders, which might imply that the Kenyan presence in the top spots is not as strong as Ethiopia's, potentially leaving room for runners from other countries.\n3. **Variability in Marathon Performance**: Marathon running is highly unpredictable, with factors like weather, course conditions, and runners' health on the day of the race significantly influencing outcomes. This unpredictability could lead to unexpected podium finishers from countries other than Kenya or Ethiopia.\n\n### 2. Reasons why the answer might be yes:\n\n1. **Dominance of Ethiopian Runners**: The article highlights Ethiopia's Amane Beriso and other Ethiopian runners with personal bests under 2:18, indicating a strong presence at the top of the field.\n2. **Strength of the Elite Field**: The mention of eight women with personal bests better than 2:19:31 suggests a highly competitive field, but the focus on Ethiopian and potentially Kenyan runners implies that these countries have a strong grip on the top positions.\n3. **Recent Trends in Marathon Running**: Historically, Kenyan and Ethiopian runners have dominated long-distance running events, including the Boston Marathon. This trend could continue, given the depth of talent and competitive culture in these countries.\n\n### 3. Rating the strength of each reason:\n\n- **Reasons for \"no\"**:\n  1. Presence of Non-Kenyan/Ethiopian Contenders: **6/10** (while they could challenge, the article suggests the Kenyan/Ethiopian dominance is significant).\n  2. Limited Information on Kenyan Runners: **4/10** (lack of mention doesn't necessarily imply lack of competitiveness).\n  3. Variability in Marathon Performance: **8/10** (a significant factor in any marathon, capable of upsetting predictions).\n\n- **Reasons for \"yes\"**:\n  1. Dominance of Ethiopian Runners: **8/10** (strong performances by Ethiopian runners are a good indicator of potential success).\n  2. Strength of the Elite Field: **7/10** ( competitive field, but the focus on Ethiopian/Kenyan runners suggests they are favorites).\n  3. Recent Trends in Marathon Running: **9/10** (historical dominance is a strong predictor of future success in these events).\n\n### 4. Aggregate considerations:\n\nGiven the ratings, the reasons suggesting a \"yes\" answer (especially the historical dominance and the current strength of Ethiopian runners) seem to be stronger than those suggesting a \"no\". However, the unpredictability of marathon performance and the presence of other contenders cannot be entirely dismissed.\n\n### 5. Output answer:\n\nBased on the analysis, there's a significant chance that the women's podium will consist entirely of Kenyan or Ethiopian runners, given their historical dominance and the current competitive landscape. However, acknowledging the unpredictability of sports and the presence of other strong runners, the probability is not certainty.\n\n*0.7*",
+            "prediction": 0.7
+          }
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Will S&P 500 increase in April 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-02",
+    "date_resolve_at": "2023-05-02",
+    "retrieval_dates": [
+      "2023-04-25"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-25": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether the S&P 500 will increase in April 2023, we need to consider several factors, including current market trends, economic indicators, and any significant events that may impact the market. Sub-questions that can help guide our search include: What are the current market trends and forecasts for April 2023? Are there any significant economic events or announcements scheduled for April that could impact the S&P 500? What is the overall health of the economy and how might it influence the S&P 500 in the short term?\n\nSearch Queries:\nS&P 500 April forecast; US economic outlook 2023; Market trends April 2023",
+          "queries": [
+            "S&P 500 April forecast",
+            "US economic outlook 2023",
+            "Market trends April 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Mathieu van der Poel win Paris-Roubaix 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-03"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-03": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Mathieu van der Poel will win Paris-Roubaix 2023, we need to consider his current form, past performance in the race, and any recent developments that might affect his chances. Sub-questions include: What is Mathieu van der Poel's current form and recent results? How has he performed in past editions of Paris-Roubaix? Are there any injuries or issues that could impact his participation or performance in the 2023 edition?\n\nSearch Queries:\nMathieu van der Poel form 2023; Van der Poel Paris-Roubaix results; Mathieu van der Poel injury update",
+          "queries": [
+            "Mathieu van der Poel form 2023",
+            "Van der Poel Paris-Roubaix results",
+            "Mathieu van der Poel injury update"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the men's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the recent performance of Kenyan and Ethiopian runners in the Boston Marathon, as well as their current form and any potential injuries or withdrawals. We should also look for news about the top contenders for the men's podium and their countries of origin. Additionally, we can search for previews or predictions of the Boston Marathon men's race to see if any experts are forecasting an all-Kenyan or all-Ethiopian podium.\n\nSearch Queries:\nBoston Marathon men's favorites; Ethiopian runners Boston Marathon; Kenyan runners dominate Boston",
+          "queries": [
+            "Boston Marathon men's favorites",
+            "Ethiopian runners Boston Marathon",
+            "Kenyan runners dominate Boston"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will the women's podium consist entirely of Kenyan or Ethiopian runners?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the recent performance of Kenyan and Ethiopian female runners in the Boston Marathon. We should look for information on the current top contenders from these countries, as well as any recent injuries or withdrawals that might affect the podium lineup. Additionally, we should check for any news on the favorite runners to win the Boston Marathon women's category.\n\nSearch Queries:\nKenyan women Boston Marathon favorites; Ethiopian runners Boston Marathon 2023; Boston Marathon women's contenders 2023",
+          "queries": [
+            "Kenyan women Boston Marathon favorites",
+            "Ethiopian runners Boston Marathon 2023",
+            "Boston Marathon women's contenders 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will a US runner place in the top 5 in the women's division?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether a US runner will place in the top 5 in the women's division of the Boston Marathon, we need to consider the current performance and rankings of US female runners, as well as the competition they will face from international athletes. We should look for recent news articles about the Boston Marathon, US women's running, and top contenders for the event. Sub-questions to guide our search include: Who are the top US female marathon runners currently? Which international female runners are favored to win the Boston Marathon? What are the predictions for the women's division in the upcoming Boston Marathon?\n\nSearch Queries:\nUS women's marathon rankings; Boston Marathon women's favorites; Top female runners Boston Marathon",
+          "queries": [
+            "US women's marathon rankings",
+            "Boston Marathon women's favorites",
+            "Top female runners Boston Marathon"
+          ]
+        }
+      }
+    }
+  }
+]
