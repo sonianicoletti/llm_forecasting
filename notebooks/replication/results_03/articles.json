@@ -5928,5 +5928,2080 @@
         "Nuggets vs Timberwolves Game 2": []
       }
     }
+  },
+  {
+    "question": "Will the #1 Milwaukee Bucks win Game 2 of their First Round Series against the #8 Heat in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "playoff series updates 2023": [
+          {
+            "title": "Series previews: What to expect in 1st round of 2023 NBA Playoffs - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41ZmxIMXFDY183eEV0NHpvTDIydF9qUWZfWmJDYnp3T1ZLcUR2N0wxVGJlMDhtY1BWMnRkbExIb3ZkZGRCMUQxc0dYbm84RW93TThOTUREX25GM2h1cUF6dzBMRTU4TS1yY2p2OWdGT29aQUt1SEhj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/news/series-previews-1st-round-2023-nba-playoffs",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "2023 NBA playoff predictions: First round picks - FOX Sports",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "FOX Sports",
+            "source_url": "https://www.foxsports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGE5dHBiX0h0a2NuY3pON01CV1BfdEJ5UWMtaVRGMjBRakR2ZzJTNVFJalJXUjNpakZTLUdiN1dVUXNsdjg1bHhDZmEySzFHZjJjUDl0MGZWMkp6Ym13OS1OdUxueUM2UUpfS3hITV9xN1ZMSnNYSmNhUkFsTmxTeklhanFNdTdwNURFMWJZb0TSAZABQVVfeXFMTjFCVWtOWHE2ampNU3NaalNWNjhBRTBYdHBIVXhwZnFXVm5vR1g4NHVSUzB5d1RuYkxCcHpYQi1oc3h4WHhQVjI4c0pSRmtEVERUMnZKb0dobVd0dEJSR0hGSWtiTC15UHkzb25IOFBKQ1AyNG4xUUVXRmlYdkhfSlhNSkp3cFBNMzhnWU1sMC1F?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.foxsports.com/stories/nba/2023-nba-playoffs-play-in-first-round-predictions",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "NBA playoffs 2023: Ranking the best players in this year's playoffs - ESPN",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFkyMFJFSEVuRWFMb0tSTFJ3cVdJckpKT2ZfODRxaDJVUWJ2ZkdYMy01Y3hNVktlVHpKSlBXaFNEVjBPVHlFdFR4NmtFUTV0dnZYS0FZSmtCbVJrS3BHT1lWQWM5QVppQks5TXJIVXlCU0Y4RzFWYjJoNkxUWWI0NUdDOHJoX3h0ZjF2OG1GR2NOWS1hV2NQQTNGZW55dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/nba/story/_/id/36159843/nba-playoffs-2023-ranking-best-players-year-playoffs",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "NBA Playoffs 2023: Schedule, Matchups, Game Times and Predictions - Sports Illustrated",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Sports Illustrated",
+            "source_url": "https://www.si.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUC1DYnlsTTZDcEc1LVBXLWVqU09XS2xnV0hTd2F3QnhSRHFZT29RREFUSldOZWE3UFVVNmM3b1BENGMzUlpRTjlvN0lyZkVOWmQtT2o1RTJtdVdaVC1Rdy01UVBRaFE1LUo4X3NGaGxiZGtQQVd0T0gtVTVSNTB0SWhnMS1QLUM5R19ocE9ueE9GeEdKX1ZaWTNFaEZ1b28?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.si.com/nba/2023/04/15/nba-playoffs-2023-schedule-matchups-times-tv-channel-predictions",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "Schedule set for Denver Nuggets playoff games, opponent will be Minnesota Timberwolves - CBS News",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmF4emNmVkhJM3VqSzZzUi16b0pkVXhUdjJfTTl1UTNFVUxaNldnVjRFQl93Nks1NGFtLWM5X2tsMy1fMk9IMVRORms1LTVyNnktTFJSbmM2OHR5WlZpX2xzUk43X1FuVmxUM29Wd1Zmd1JRdFNUYXR0X1ZlLW81RXNVZmF0WUh6di1uc2dRcFFoaDFncW54NGkybGZpWmVDc3k2QzZNNWs4RWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/colorado/news/denver-nuggets-playoffs-schedule-opponent-minnesota-timberwolves-nba/",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "NBA playoffs live updates: Warriors blow double-digit lead, drop Game 1 to Kings - The Mercury News",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "The Mercury News",
+            "source_url": "https://www.mercurynews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1RWZ0JxcnVDQk9ZTzEweFoxbm56LThDNS14R2hoNEE3VEk0Q3A1YjBWS0s1Rl9QY3JPX1VINzRVakUxRl94TkNIWXgxbDZOejNoRTlIRnZSSXFlOS11U1g2YktVeTlCQWlBd0tWNHZVNTRfTWhENXlhc0IzdGZfR1VvV3Y4S1lvY183d1hnVExQV3ZYdDgtb09QSHBnWTd5ZGlqQXhkVdIBrAFBVV95cUxQVVlWZzJLZjNxTC1QczJlaW9JdC02eVhMLXVQU1g4UC1aaGx5ZDZMVGJnVDdhS3RNalM1WUJFRXNXcmVucEMyUWZrV3g5ME1TZGFBeEIyVm83ank2ZkV1ajI5UjRVN3pZYWYtSnBCTi03VmZoZVd2MlRWVE5nYjZpNGp2LWF5ODBKakZKRWliZVhmYlFXM2RtOUxLVGJmZXVwRVRZeHhQNTdTeFk3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mercurynews.com/2023/04/15/nba-playoffs-live-updates-warriors-head-to-sacramento-for-game-1/",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "Bucks vs. Heat odds, predictions for NBA playoff series: spread, money line, point total - Milwaukee Journal Sentinel",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Milwaukee Journal Sentinel",
+            "source_url": "https://www.jsonline.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT2pzU3FzWUs4VGQ2TDFaUUdaWFdnX2M2amNlS2R1QlNtQlhjVmlfQ1hvYkh0VFBhdXNlZFM1YUJnZkF6UVNNR1NVWGNvY256T1p1LXoxQmM1SHExZ2NLVUpwVXdoZlI3WXVQd0JweHc4T3ZfUTBYeS1QT3VzWHUxMUMtQ0xsMzVTMVlYcndLSGp4R0NDYUp4Mzc4aGhPNVZ3TUlnbEtYSGQtWk51bHkwRlRibjhDWHZ0ZDR3Q2hERVNXUVZnMWxMRFFRTEhvTlJlRWNPREM0T1JKaHdwUW1pdld1dkJQY3hrZGFfb2tEaGF5OXpZUHNHak9ILW1sRXVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.jsonline.com/story/sports/nba/bucks/2023/04/15/milwaukee-bucks-vs-miami-heat-odds-2023-nba-playoff-series-spread-money-line-point-total-over-under/70113673007/",
+            "query": "playoff series updates 2023",
+            "text": null
+          },
+          {
+            "title": "NBA playoffs 2023: Experts' picks for the play-in and every first-round series - ESPN",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkFyeEVoVmZtREVfQ2w0aEpsSjNiOWlqOVF3eHJDajFod2w4WncyX2tWT3BaYnUxZktQS00tclFpMGxVQ1QycmctQU5CV1VhQUdrb1YtS1JQOXk5UGZVVmVrRHJFOUducFllbXp2Z203dHlSUW1weC1wajZBOFQ3YUVfb2RxUGZ5STkzblpyNVhOVl9CZTdHNVRtZzl1ZFVDOUtoTVI0azBTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/nba/story/_/id/36149468/nba-playoffs-2023-experts-picks-play-every-first-round-series",
+            "query": "playoff series updates 2023",
+            "text": null
+          }
+        ],
+        "Milwaukee Bucks vs Miami Heat Game 2 analysis": [],
+        "Miami Heat current form": [],
+        "Milwaukee Bucks recent performance": [],
+        "key players in Bucks vs Heat": [
+          {
+            "title": "Bucks vs. Heat odds, predictions for NBA playoff series: spread, money line, point total - Milwaukee Journal Sentinel",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Milwaukee Journal Sentinel",
+            "source_url": "https://www.jsonline.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT2pzU3FzWUs4VGQ2TDFaUUdaWFdnX2M2amNlS2R1QlNtQlhjVmlfQ1hvYkh0VFBhdXNlZFM1YUJnZkF6UVNNR1NVWGNvY256T1p1LXoxQmM1SHExZ2NLVUpwVXdoZlI3WXVQd0JweHc4T3ZfUTBYeS1QT3VzWHUxMUMtQ0xsMzVTMVlYcndLSGp4R0NDYUp4Mzc4aGhPNVZ3TUlnbEtYSGQtWk51bHkwRlRibjhDWHZ0ZDR3Q2hERVNXUVZnMWxMRFFRTEhvTlJlRWNPREM0T1JKaHdwUW1pdld1dkJQY3hrZGFfb2tEaGF5OXpZUHNHak9ILW1sRXVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.jsonline.com/story/sports/nba/bucks/2023/04/15/milwaukee-bucks-vs-miami-heat-odds-2023-nba-playoff-series-spread-money-line-point-total-over-under/70113673007/",
+            "query": "key players in Bucks vs Heat",
+            "text": null
+          },
+          {
+            "title": "Bucks vs. Heat preview, odds, prediction, key storyline, schedule for 2023 NBA Playoffs series - sportingnews.com",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "sportingnews.com",
+            "source_url": "https://www.sportingnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXVpaWw2RmdXVklVeHA0NnhJdnUzbk5KRTVYNFUwbktQbTVuUnhLUVpFSXBGaXc4MVdXWnBKSlRiaDF4MDNWWDNKLVZybFVpbTVqT0VmR05LSTNWcU5YR0JoSU9GY0U2RFlSM3RCWk53NjVLcWtzdkxLUld4bmNHM1I3M3gxT2ZIdVJFMVVEMlh5aGZ0RDFRcXB1ckkzY05NUzc5VTYzMWxfRm5ILVpUN2tMWEJKT2g0ODlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sportingnews.com/uk/nba/news/bucks-heat-schedule-prediction-odds-nba-playoffs-2023/ehp8p1zwspyvsd1yleketunw",
+            "query": "key players in Bucks vs Heat",
+            "text": null
+          }
+        ],
+        "NBA playoffs 2023 trends": []
+      }
+    }
+  },
+  {
+    "question": "Will the #6 Golden State Warriors win Game 2 of their First Round Series against the #3 Kings in the 2023 NBA Playoffs?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "NBA playoffs game 2 analysis": [
+          {
+            "title": "New York Knicks vs Cleveland Cavaliers Apr 15, 2023 Game Summary - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb282OFR1YXVrcXR5LURaLXNHZnZ4VkllRWhwaFhjdTNJWDQwSmRYcXlWN282MEkwWk5PRHZzV3VkaElLRURBOUVnWG52all4MTFZeEhTbC1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/nyk-vs-cle-0042200131",
+            "query": "NBA playoffs game 2 analysis",
+            "text": null
+          }
+        ],
+        "Golden State Warriors recent performance": [],
+        "Sacramento Kings playoff form": [
+          {
+            "title": "NBA Playoffs 2022-23: Bracket, Teams, Predictions, Format & More - FanSided",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "FanSided",
+            "source_url": "https://fansided.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDV1eENjZEJSTGZ3S1RBZTVyT2Z3RGNsZTd4cTNzdkxDakx3UURKNkJEN0tXOTVteFJabG5JSFBpTUM4OHJDNzU0OWlhaklNNFBmc24xWDY3d1V3ZnZ6R3ZtZ3d0X1pBNDVvRVdMZ3Z5a0JNY0c1akttZVJsaGpOb0J0NkM?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://fansided.com/2023/04/15/nba-playoffs-bracket-teams-predictions-format/",
+            "query": "Sacramento Kings playoff form",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will the #4 Phoenix Suns win Game 2 of their First Round Series against the #5 Clippers in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "Phoenix Suns recent performance 2023 playoffs": [
+          {
+            "title": "Suns Seek to Break Clear as L.A. and New York Crowd Playoff Picture - Sportico.com",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Sportico.com",
+            "source_url": "https://www.sportico.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDM1Y3dfU1htSkZXYm10c2dLTnF0eVV0di1NUldOVkJMUEZMYnhCV2xyajZnUnhxQWRNUzdUX1Q1ckE5WkFoMlJGY3BET3lCTVZ3WmozX1YtVVlOWUVuUlFqOHNHQ2pFVy1KamhBaEFWUkZreXJzbDF3a1ZUajM4SnVJZ3h1d2F1ZnIxblExQXQ2eW5ERktTbnlqem9sV2dXY3FrNFNOVk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sportico.com/leagues/basketball/2023/nba-playoff-2023-suns-lakers-knicks-warriors-1234719640/",
+            "query": "Phoenix Suns recent performance 2023 playoffs",
+            "text": null
+          },
+          {
+            "title": "NBA Playoffs 2023: Schedule, Matchups, Game Times and Predictions - Sports Illustrated",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Sports Illustrated",
+            "source_url": "https://www.si.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUC1DYnlsTTZDcEc1LVBXLWVqU09XS2xnV0hTd2F3QnhSRHFZT29RREFUSldOZWE3UFVVNmM3b1BENGMzUlpRTjlvN0lyZkVOWmQtT2o1RTJtdVdaVC1Rdy01UVBRaFE1LUo4X3NGaGxiZGtQQVd0T0gtVTVSNTB0SWhnMS1QLUM5R19ocE9ueE9GeEdKX1ZaWTNFaEZ1b28?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.si.com/nba/2023/04/15/nba-playoffs-2023-schedule-matchups-times-tv-channel-predictions",
+            "query": "Phoenix Suns recent performance 2023 playoffs",
+            "text": null
+          },
+          {
+            "title": "2023 NBA Playoff Preview and Full Bracket Predictions - Bleacher Report",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Bleacher Report",
+            "source_url": "https://bleacherreport.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHo1UGRuV3pJQ2dXU29RNnNYei1Lbkw5elNnV3ZjY1VmdGtXMlJOOGVDZlhGNnZNVndZMjdsVS11RTIzdTY4OTFWYnRrUl9TajVTVW1pQWhnR3BkQkRHMGtxV0JpQWNfQlBqV196Y2VJckFkMGpqeTRFZlFZc19ubml2T1J4NVBRNTlwUUlDemt5YkR6c1BscU5kRy05QUU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bleacherreport.com/articles/10071988-2023-nba-playoff-preview-and-full-bracket-predictions",
+            "query": "Phoenix Suns recent performance 2023 playoffs",
+            "text": null
+          }
+        ],
+        "NBA Phoenix Suns vs Clippers analysis": [],
+        "Clippers form before playoffs 2023": [
+          {
+            "title": "Clippers see \u2018Playoff Kawhi\u2019 Leonard coming against Suns - Orange County Register",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Orange County Register",
+            "source_url": "https://www.ocregister.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmMzMlltV3BFOE9pOGgtU1g2QWJTeWRwTkFyTGJlWlBST1B4d0hoaDFaVDBxVG9lSXZMX0p2ZXlHcV93cWJmT20tMWx5dDB4R1dlQkJvc0dnMERBU05KRXIza3lWdzdaU3ZSUnlzWFVFUDhFM2oxRkxIZ1ZHOVZTenRCWFJrdV95VGlBNGpoeURlbDBaNGVZeUpVNFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.ocregister.com/2023/04/15/clippers-see-playoff-kawhi-leonard-coming-against-phoenix/",
+            "query": "Clippers form before playoffs 2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will the #2 Boston Celtics win Game 2 of their First Round Series against the #7 Hawks in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "expert predictions Game 2": [],
+        "Celtics vs Hawks odds today": [
+          {
+            "title": "Celtics vs. Hawks prediction, odds, time: 2023 NBA playoff picks, Game 1 best bets from model on 71-36 run - CBS Sports",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUzJOUG1jdmNaT2FNVmgzV2xtcUNHTVBiOEVuWDhFdXpmcEpwZE5Ka25Za2tEWVF4X2xPaGFQelowVkRSM3h0RDVzT3lSTUhNaXRIeHhoVmpKN1hsV2ZIMERZOVdCMlJfdzVPMEFENFFtdGN6LTJ1LUlyVUtKV2pfdkJYeVdIRHZmbEtNM3kyeGJhcG5mQWVCbVNEQWJuT1ZWeHNGbXM1cDZkanlLQmZzNVgtUHpjQnRQLWV4M2Nxb2dpQnRzc3VxOXowUEVxU241MzNR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/nba/news/celtics-vs-hawks-prediction-odds-time-2023-nba-playoff-picks-game-1-best-bets-from-model-on-71-36-run/",
+            "query": "Celtics vs Hawks odds today",
+            "text": null
+          }
+        ],
+        "Hawks playoff form 2023": [
+          {
+            "title": "Celtics hold off late Hawks rally to win Game 1 at TD Garden - WCVB",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "WCVB",
+            "source_url": "https://www.wcvb.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWlRR2JzUEEtZHljSmo5c01tYUVfMFhVVzl2VzBHc3lXbk11M2dGRHVqQzBhaXRCMktRbG1ERGhkMlpfMkZYdFA1ZkFyLXBncDl5VmUwV1V2ci12MElvcGk2MFJ3YVlEYW1VSUVYa1gwRTVtel9ONGRGc1hfYy1GNXc5MDBkLXZCbVV3Z1AtS0lUMmVNNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wcvb.com/article/celtics-hawks-nba-playoffs-game-1-recap-april-15-2023/43608681",
+            "query": "Hawks playoff form 2023",
+            "text": null
+          },
+          {
+            "title": "NBA Playoffs 2022-23: Bracket, Teams, Predictions, Format & More - FanSided",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "FanSided",
+            "source_url": "https://fansided.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDV1eENjZEJSTGZ3S1RBZTVyT2Z3RGNsZTd4cTNzdkxDakx3UURKNkJEN0tXOTVteFJabG5JSFBpTUM4OHJDNzU0OWlhaklNNFBmc24xWDY3d1V3ZnZ6R3ZtZ3d0X1pBNDVvRVdMZ3Z5a0JNY0c1akttZVJsaGpOb0J0NkM?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://fansided.com/2023/04/15/nba-playoffs-bracket-teams-predictions-format/",
+            "query": "Hawks playoff form 2023",
+            "text": null
+          }
+        ],
+        "2023 NBA Playoffs Game 2 analysis": [
+          {
+            "title": "New York Knicks vs Cleveland Cavaliers Apr 15, 2023 Game Summary - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb282OFR1YXVrcXR5LURaLXNHZnZ4VkllRWhwaFhjdTNJWDQwSmRYcXlWN282MEkwWk5PRHZzV3VkaElLRURBOUVnWG52all4MTFZeEhTbC1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/nyk-vs-cle-0042200131",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "NBA playoffs 2023: Experts' picks for the play-in and every first-round series - ESPN",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkFyeEVoVmZtREVfQ2w0aEpsSjNiOWlqOVF3eHJDajFod2w4WncyX2tWT3BaYnUxZktQS00tclFpMGxVQ1QycmctQU5CV1VhQUdrb1YtS1JQOXk5UGZVVmVrRHJFOUducFllbXp2Z203dHlSUW1weC1wajZBOFQ3YUVfb2RxUGZ5STkzblpyNVhOVl9CZTdHNVRtZzl1ZFVDOUtoTVI0azBTZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/nba/story/_/id/36149468/nba-playoffs-2023-experts-picks-play-every-first-round-series",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "Schedule set for Denver Nuggets playoff games, opponent will be Minnesota Timberwolves - CBS News",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmF4emNmVkhJM3VqSzZzUi16b0pkVXhUdjJfTTl1UTNFVUxaNldnVjRFQl93Nks1NGFtLWM5X2tsMy1fMk9IMVRORms1LTVyNnktTFJSbmM2OHR5WlZpX2xzUk43X1FuVmxUM29Wd1Zmd1JRdFNUYXR0X1ZlLW81RXNVZmF0WUh6di1uc2dRcFFoaDFncW54NGkybGZpWmVDc3k2QzZNNWs4RWs?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/colorado/news/denver-nuggets-playoffs-schedule-opponent-minnesota-timberwolves-nba/",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "Cleveland Cavaliers vs. New York Knicks: How to watch Game 1 for free | NBA Playoffs 2023 - Cleveland.com",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "Cleveland.com",
+            "source_url": "https://www.cleveland.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXNzVjhpUklRbFI0N2lQVnU0blhkOVNnamx6YnJ1aE9xMzFVV0t6ZUcyaFY5LXhqcTdiRlR6eDdnVEgzYzN1SDRKZ0FJS0tJR2d2aktGVXdqN2hUcmdFcHBYY0oyTUJhTUt4WXJBVWh5d1FGbUNWOXdrVHljSTlOS0liNXFNUmhMMy1JTWZGNnJvLVloR19tMGNUZXUtdThlVmliM1E3bGJ3QmdtR2V1NXdYcDM2dng2RTBuOXdlUzY4RFNaQk13cTJUVURqMHN6NHpNLXVKVVd6QzTSAe8BQVVfeXFMTXNIRUlWR29hcXlrTWM0RmtZcUtSUTFDVFlYc2Q3eElpdmNmNzlkdzdfS0ZKNGtUNl9oVzZNbXBISklPNkRNc0lEaHNFREt0WFZLOHhMMWVUUVNMSnpqVWpGN0JYbFdhajZ6Ynp3TEstVGsybDUwOGlKVDB3aWlxQndhQXRZWEM5YmRqdzhZcWc4elhPQURlZGxqMVd5c2s3cmpPckJOM0hoN1V3WlMzcWFuWThIbjFqNmhEdmZ0V3ZhQUFOclB5VmVvUzZtSGNET1ctbWRjUmNnS2gyN1NfSXdTc2VyU1VRSWVXcTkxZms?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cleveland.com/entertainment/2023/04/cleveland-cavaliers-vs-new-york-knicks-in-2023-nba-playoffs-how-to-watch-game-1-free-trial.html",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "Brooklyn Nets vs Philadelphia 76ers Apr 15, 2023 Game Summary - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HQVozR251R01UQllrLWN2aDV4R2pQOWN6a2xKUE5zQ1lrcWpwSUZMcGVNX2JITUlrWjdnOGZhdXNfN3VBQTBWQVJzQVBTNTNta3NnUXdGdGlvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/bkn-vs-phi-0042200121",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "Andrew Wiggins returns from 2-month absence, just in time for playoffs - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Oa2FsaUZYYXFtNTRWNHpNM2tpc01MM3dHeU1tc2xsSkhJTk5CeERXWHFXVlFtaDRRS0twdkF2M0NxVEViTUU1Nks2NjhnUEQ3WUdaVXh5aGhFNloxV3RNeDZ1S3gyWWM?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/news/warriors-andrew-wiggins-returns",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          },
+          {
+            "title": "Julius Randle returns, scores 19 points and grabs game-sealing rebound - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nNzB4ZUE4dDBnSzRnd2VwdVFGN3dKZzJubFFpOFVBMmdOYW94M0xLUnktdFpxOUV2QVQ1U203TmI1WW9seFhiU0NoQ0FlaWJ4TDRSVkU0NnZ1V3JsbEI1ZVYwSUtNdU1nT1U4V1VqbUlHS1Fh?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/news/knicks-julius-returns-game-1-vs-cavaliers",
+            "query": "2023 NBA Playoffs Game 2 analysis",
+            "text": null
+          }
+        ],
+        "recent Celtics performance stats": []
+      }
+    }
+  },
+  {
+    "question": "Will the #4 Cleveland Cavaliers win Game 2 of their First Round Series against the #5 Knicks in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "recent form Cavaliers vs Knicks": [
+          {
+            "title": "New York Knicks vs Cleveland Cavaliers Apr 15, 2023 Game Summary - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb282OFR1YXVrcXR5LURaLXNHZnZ4VkllRWhwaFhjdTNJWDQwSmRYcXlWN282MEkwWk5PRHZzV3VkaElLRURBOUVnWG52all4MTFZeEhTbC1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/nyk-vs-cle-0042200131",
+            "query": "recent form Cavaliers vs Knicks",
+            "text": null
+          },
+          {
+            "title": "Knicks 101-97 Cavaliers (Apr 15, 2023) Final Score - ESPN",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4QmtlZ3lGcm4yZW9jbE1EVEV6THR6ZzNLSEFyeGNMaEZ3TE1qSmhVZlB4V1hJTXZJYlJTYmEwVVJ1QXJBaTJsQVpLNnotWldyaFZEbFVENE1XdXhKSFA0X2xvb3VhNGUtbk5uZkluczdTcEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/nba/game/_/gameId/401540752/knicks-cavaliers",
+            "query": "recent form Cavaliers vs Knicks",
+            "text": null
+          }
+        ],
+        "expert predictions for Cavaliers vs Knicks": [],
+        "key players impact playoffs 2023": [
+          {
+            "title": "Stanley Cup playoffs: Guide to top storylines, players to watch - ESPN",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkJqRnkzSnJLMFdMQS1vOXNERmlxWE9kMFBjNTA3RnNjUjRkR19lWkZ6Mmszb2J3RWpmcFNickFOVmZsc2I2a3RMWlJBcFZhVmdQTjI5ald3M2gyaXN4ZTZobUkyc0R0YlNZUUhWZEFWOUVwa3Noemh0dXhsNU1mSE13dVNVa3JiWV9ESWVNZWhZRE9DZ3lPYjNRU01GOGxv?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/nhl/story/_/id/36189528/nhl-playoffs-guide-stanley-cup-favorites-bracket-stats",
+            "query": "key players impact playoffs 2023",
+            "text": null
+          }
+        ],
+        "Cleveland Cavaliers vs Knicks game 2 analysis": [
+          {
+            "title": "New York Knicks vs Cleveland Cavaliers Apr 15, 2023 Game Summary - NBA",
+            "published_date": "Sat, 15 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb282OFR1YXVrcXR5LURaLXNHZnZ4VkllRWhwaFhjdTNJWDQwSmRYcXlWN282MEkwWk5PRHZzV3VkaElLRURBOUVnWG52all4MTFZeEhTbC1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/nyk-vs-cle-0042200131",
+            "query": "Cleveland Cavaliers vs Knicks game 2 analysis",
+            "text": null
+          }
+        ],
+        "NBA playoffs 2023 trends": []
+      }
+    }
+  },
+  {
+    "question": "Will the #2 Memphis Grizzlies win Game 2 of their First Round Series against the #7 Lakers in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "Grizzlies form before playoffs 2023": [],
+        "NBA playoff trends 2023": [],
+        "Memphis Grizzlies vs Lakers recent performance": []
+      }
+    }
+  },
+  {
+    "question": "Will the #3 Philadelphia 76ers win Game 2 of their First Round Series against the #6 Nets in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-15": {
+        "Brooklyn Nets team performance analysis": [],
+        "Philadelphia 76ers vs Nets recent form": [],
+        "Philadelphia 76ers key players stats": [],
+        "NBA playoff expert predictions": []
+      }
+    }
+  },
+  {
+    "question": "Will Brad Tavares beat Bruno Silva?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "fight results brad tavares vs bruno silva": [],
+        "upcoming fights brad tavares": [],
+        "recent performance brad tavares": []
+      }
+    }
+  },
+  {
+    "question": "Will Song Yadong beat Ricky Sim\u00f3n?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-30",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-23": {
+        "Ricky Sim\u00f3n latest updates": [
+          {
+            "title": "UFC Vegas 72 poster released with new Song Yadong vs. Ricky Simon headliner - MMA Fighting",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "MMA Fighting",
+            "source_url": "https://www.mmafighting.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHhHeFZNS2NXdXZwOEU0ajJaYkJFUkpVczhWVkptdGtBRmhSaXZjTGRNbVFXaEMxQzQ0ZTVsaEdkMmVlSnlvOWt0Mi1IMnlVTkVpRXZqVHB0bGV2VVgyYUQ4THVwRGFhdkhtTWozTklpdjJyMHpGLXFxMFViYXo1cDlyUWFhMDhEN0NXT0FnWU5wcGVXeVFvZXRmZlVIT1BEazZxb1g3djRQUDJ4c3laVzZSay1HQk9pQUdqaWJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmafighting.com/2023/4/20/23691133/ufc-vegas-72-poster-released-with-new-song-yadong-vs-ricky-simon-headliner",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "Song Yadong-Ricky Simon now headlines April 29 UFC card - ESPN",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2oyZWstUU92R2Z1WXhHc2l4NDdxelB6VThOZnVFVkFaaWRiSF9zU2xYbUJjWE5laF93ZzZhZjBGdzlpaG5zVXpMY0VMTVhLaVZadlBKRmMycDNOek1rd2ljOWg4bk9Mblk3eTFHTDUxZkVhZFIxMHBlV29wNjNfZ05PX3dCQ1RQc2lIT0hldXYtX3ZYdl81ZW94MGEtZTZjVlVqUGE2bGZ6cnp3S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.co.uk/mma/story/_/id/36224076/song-yadong-ricky-simon-now-headlines-april-29-ufc-fight-night",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "Ricky Simon vs. Song Yadong moved from UFC Fight Night 222, now headlines UFC Fight Night 223 - MMA Junkie",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "MMA Junkie",
+            "source_url": "https://mmajunkie.usatoday.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE53R3VuTXJzM3h3SG1wME1PTy1pZjJTUXVEaXdzaGpMYTZEN0N1Q2VaMmFPaFBiZUgtVEdKNUVNR21Ldm1FZ0J1UndGazRtd2VFbkU5aXBKd05WV295Qkw1Mlo3ZnhManZFMXpfUGhHS0U2ZmVmWWpKTWgzNEYyTEpta0RrZ1F6dEZsc3VaUmlOVFhxYWdhTnBzWEdTRnprdlVNN2U2WlhiYVhLcmd3cDBLaVhtV0NzYXdYeEtFN0xJSmtKdkR0YkRGTF9xOW1KcEt5NndTOEZPMWpMYi1jcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2023/04/17/ufc-fight-night-223-news-ricky-simon-vs-song-yadong-moved-to-new-main-event/80859718007/",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "One fight cancelled after UFC Vegas 71 weigh-ins - Bloody Elbow",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "Bloody Elbow",
+            "source_url": "https://bloodyelbow.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LOXVlRjJqS3A4Q2ZjMnE3S01fendMYTl3cmNJTHZldUEyNGxCUkpDc0ppWFhwNXVucnRWRzF5ak83RHJxXzlVeDlhTzNWX2FkWk1oSm1OLUNOQm96VHpSOUlBNXFrcHRCYUpmVHNSQjZXOUt1NGtMU1dfX2ZDTDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bloodyelbow.com/2023/04/21/ufc-vegas-71-weigh-ins-fight-cancelled/",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "Song Yadong vs. Ricky Simon set as new main event for UFC Vegas 72 - MMA Fighting",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "MMA Fighting",
+            "source_url": "https://www.mmafighting.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3hWNUFFZ1pKRVh5aWlqQVR6TGxMdy1CSm04aUIwbzcyTmpjVW9GT2VPQXN2blhuTkhKOGN2d3B3R2k3QzFRdzg0QkhWalhUUVU3bjgweDQ5LU4yME1HTjE2WkROMGw3eVhXSlFHSUZnY3l2RGJicE4yRGVTUVNYZ3dYemkycUZRQS1XN3Q4eTExXzFrWEcwWjc5R1R6b0Yzd1ZSYnJoSVR6RndEaEpEa2dn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmafighting.com/2023/4/17/23687572/song-yadong-vs-ricky-simon-set-as-new-main-event-for-ufc-vegas-72",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "Divers find wreckage of experimental submarine built in 1907 in Connecticut - The Guardian",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "The Guardian",
+            "source_url": "https://www.theguardian.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE9TR3I2LThRclM2eDFYcWxwRlZzT1VTVVdCOE1SVkExMEszOXVaZEVMQlJMcGIwcUdtN3dSU3gtd0VTS1NMN2RDbVg5Vkl2V0FGOE4zZmE1R1pOYy1QR3Q0bEJCdjhSYVBlektFWHBOQkJpUGF5bC11N1VaRDdwbGprcUVXa3ZGZDV3Q19ubm9UTzZ4MldDT004cW5SRmhrNHEtVF9pUFFnMjlWZVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.theguardian.com/us-news/2023/apr/19/submarine-defender-wreckage-found-connecticut-1907-simon-lake",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          },
+          {
+            "title": "UFC Vegas 71 loses co-main event as Song Yadong vs. Ricky Simon gets delayed by one week - Bloody Elbow",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "Bloody Elbow",
+            "source_url": "https://bloodyelbow.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3SzIyM21JRWR4X1ZVNmFpM2tFRVZuclFiV29yWXJsX3FQd01xRlVjZkQ5Ukk3SU1LQ0FyeGg1TGxUb0NFT0lwX1otdm96blA5cW52UHVtWG81S1p5c1V4MzluNWI1akxnajhjN1FsWU8xSU1peU94LUJRQkg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bloodyelbow.com/2023/04/18/song-yadong-ricky-simon-ufc-vegas-71/",
+            "query": "Ricky Sim\u00f3n latest updates",
+            "text": null
+          }
+        ],
+        "UFC Song Yadong recent form": [
+          {
+            "title": "Song Yadong-Ricky Simon now headlines April 29 UFC card - ESPN",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2oyZWstUU92R2Z1WXhHc2l4NDdxelB6VThOZnVFVkFaaWRiSF9zU2xYbUJjWE5laF93ZzZhZjBGdzlpaG5zVXpMY0VMTVhLaVZadlBKRmMycDNOek1rd2ljOWg4bk9Mblk3eTFHTDUxZkVhZFIxMHBlV29wNjNfZ05PX3dCQ1RQc2lIT0hldXYtX3ZYdl81ZW94MGEtZTZjVlVqUGE2bGZ6cnp3S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.co.uk/mma/story/_/id/36224076/song-yadong-ricky-simon-now-headlines-april-29-ufc-fight-night",
+            "query": "UFC Song Yadong recent form",
+            "text": null
+          },
+          {
+            "title": "UFC Vegas 72 poster released with new Song Yadong vs. Ricky Simon headliner - MMA Fighting",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "MMA Fighting",
+            "source_url": "https://www.mmafighting.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHhHeFZNS2NXdXZwOEU0ajJaYkJFUkpVczhWVkptdGtBRmhSaXZjTGRNbVFXaEMxQzQ0ZTVsaEdkMmVlSnlvOWt0Mi1IMnlVTkVpRXZqVHB0bGV2VVgyYUQ4THVwRGFhdkhtTWozTklpdjJyMHpGLXFxMFViYXo1cDlyUWFhMDhEN0NXT0FnWU5wcGVXeVFvZXRmZlVIT1BEazZxb1g3djRQUDJ4c3laVzZSay1HQk9pQUdqaWJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmafighting.com/2023/4/20/23691133/ufc-vegas-72-poster-released-with-new-song-yadong-vs-ricky-simon-headliner",
+            "query": "UFC Song Yadong recent form",
+            "text": null
+          },
+          {
+            "title": "Ricky Simon vs. Song Yadong moved from UFC Fight Night 222, now headlines UFC Fight Night 223 - MMA Junkie",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "MMA Junkie",
+            "source_url": "https://mmajunkie.usatoday.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbE53R3VuTXJzM3h3SG1wME1PTy1pZjJTUXVEaXdzaGpMYTZEN0N1Q2VaMmFPaFBiZUgtVEdKNUVNR21Ldm1FZ0J1UndGazRtd2VFbkU5aXBKd05WV295Qkw1Mlo3ZnhManZFMXpfUGhHS0U2ZmVmWWpKTWgzNEYyTEpta0RrZ1F6dEZsc3VaUmlOVFhxYWdhTnBzWEdTRnprdlVNN2U2WlhiYVhLcmd3cDBLaVhtV0NzYXdYeEtFN0xJSmtKdkR0YkRGTF9xOW1KcEt5NndTOEZPMWpMYi1jcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2023/04/17/ufc-fight-night-223-news-ricky-simon-vs-song-yadong-moved-to-new-main-event/80859718007/",
+            "query": "UFC Song Yadong recent form",
+            "text": null
+          },
+          {
+            "title": "Song Yadong vs. Ricky Simon set as new main event for UFC Vegas 72 - MMA Fighting",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "MMA Fighting",
+            "source_url": "https://www.mmafighting.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3hWNUFFZ1pKRVh5aWlqQVR6TGxMdy1CSm04aUIwbzcyTmpjVW9GT2VPQXN2blhuTkhKOGN2d3B3R2k3QzFRdzg0QkhWalhUUVU3bjgweDQ5LU4yME1HTjE2WkROMGw3eVhXSlFHSUZnY3l2RGJicE4yRGVTUVNYZ3dYemkycUZRQS1XN3Q4eTExXzFrWEcwWjc5R1R6b0Yzd1ZSYnJoSVR6RndEaEpEa2dn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmafighting.com/2023/4/17/23687572/song-yadong-vs-ricky-simon-set-as-new-main-event-for-ufc-vegas-72",
+            "query": "UFC Song Yadong recent form",
+            "text": null
+          },
+          {
+            "title": "UFC Vegas 71 loses co-main event as Song Yadong vs. Ricky Simon gets delayed by one week - Bloody Elbow",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "Bloody Elbow",
+            "source_url": "https://bloodyelbow.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3SzIyM21JRWR4X1ZVNmFpM2tFRVZuclFiV29yWXJsX3FQd01xRlVjZkQ5Ukk3SU1LQ0FyeGg1TGxUb0NFT0lwX1otdm96blA5cW52UHVtWG81S1p5c1V4MzluNWI1akxnajhjN1FsWU8xSU1peU94LUJRQkg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bloodyelbow.com/2023/04/18/song-yadong-ricky-simon-ufc-vegas-71/",
+            "query": "UFC Song Yadong recent form",
+            "text": null
+          }
+        ],
+        "UFC Fight Night 223 odds": [],
+        "recent injuries UFC fighters": [
+          {
+            "title": "Power Slap \u2013 the brain injury clinician\u2019s worst nightmare? - NR Times",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "NR Times",
+            "source_url": "https://nrtimes.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkFheV9oWTNqWmZkSW5WM2tzQ3RxUEFQRmFvdnlSR3JxRVQtVG1IUk4wMUhWUEUzekxsdnpCeThkYmgtdjg3S1UwTGVrNC1HSFUxYnZPYmVsSXNxQWhDbG5fZkRoQmNrZ1Rmc3RWRm5qM094YTZEbENMSXh0NGJDV1h4bzRZY1ZZdy1sb2E1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://nrtimes.co.uk/power-slap-the-brain-injury-clinicians-worst-nightmare-vbistory/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Brady Hopes For UFC 290 Return After Battling Multiple Injuries - MMA Mania",
+            "published_date": "Sat, 22 Apr 2023 07:00:00 GMT",
+            "source": "MMA Mania",
+            "source_url": "https://www.mmamania.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWmw3NTNSeVB5b1h2T3FxaHpMdFZXZnRFWEowNmNhYUZYMEp2ZGl1azMzT3QyU0dFZFpzaS1oN0JCMEhvZE5xZm9rR1hwQnFuSkFlalZraHJROTViZFB1VGkxMFh6QUEwSmllRkhPZHM4N3FTUUtXOU9hakF0c1dtMDZPMkFnQUNadkFWRjdwMGRvZjFzUlZ0V1JjNlhNTWpXN0U4d3dDcWxfbFVfYW1qb1E2a193NUFzRDh6ZzdCLVBkczg3cVZGb0pxbTBTbEprQ0s1T0E3Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmamania.com/2023/4/22/23693004/sean-brady-targeting-ufc-290-return-after-battling-multiple-injuries-its-been-a-weird-rough-road",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Charles Oliveira explains decision to withdraw from UFC 288 fight with Beneil Dariush - MMA Fighting",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "MMA Fighting",
+            "source_url": "https://www.mmafighting.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUpYWVhYUk1wRDBoM3R4WEVwbm43X0VsODVQdlNOWGNXbmhaRVhOenZNcFBrOWJQOUdScnN5Zi1aYkhwTTdaZTdBNl90ZGphRVRNV25CQkR1VFdNaHp2VXNodUhyRVB4YnVjQTNHZkpVNk9zLUdxQk9HaFlrV0VSQnA4ckczQkcyMnNHUzZnZk5USVRsc1ZlRS11NkEtYmtKVk5uc1BCVHB3VzktLUJ0ZHpTeEpPenAyaEU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mmafighting.com/2023/4/17/23687020/charles-oliveira-explains-decision-withdraw-ufc-288-fight-beneil-dariush",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Milwaukee UFC and Bellator MMA fighters - WISN",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "WISN",
+            "source_url": "https://www.wisn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOE5fNjBCSS1mME9jdVphaEt0cW5ob2U5SnY5TnhkempWcXZaRkowTHhtNVNHaWdPZDN3Y0VleXBraG05X0Vqc1JiaUZzUVhsU0FOV0R4UHJGMHdRWUoxVThsbjRNN05nVHVDOXdPRzBCOXdrelBDR3JqNU90Z0RveS1iV1FqNWNIa1pjVHQza1dkSl9h?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wisn.com/article/milwaukee-ufc-bellator-mma-fighters-milwaukee-boxing/43658333",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Paddy Pimblett\u2019s manager on potential Jared Gordon rematch: \u2018He wants to close that chapter\u2019 - Fighters Only",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "Fighters Only",
+            "source_url": "https://www.fightersonlymag.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUJhS1BmSDNmV0lLVmdZSVdEMDhKQXJncl9tYVpHUzljWjEwMkxocHJ5czZzOVRYMTFWTFFaZ2tmcFZqMjlDRmRCeENXNUR5ZjY3Z0JuNkhZeDN5Q1pQSW5nSzhnSWN1WFIzYTFNck84bFR2bVU4QjhCcjhFSWY0aS1ST2dKQl9JVFB0ZTZhTVliR0YtSmNYV1FEbnBNRVlTelJmYkJQRkNsRG9UZGl2VEZtbFVxUEZaVnl1dEtaTjV3MjJ0ZXhDLVVpY3o1dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.fightersonlymag.com/latest-news/paddy-pimbletts-manager-on-potential-jared-gordon-rematch-he-wants-to-close-that-chapter/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Ex-Champ Charles Oliveira Breaks Silence on UFC 288 Fight Postponement - heavy.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "heavy.com",
+            "source_url": "https://heavy.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQanlkbnFpeHZTMGU5Q0VSX1FDMnptY1hZWm1DamZxUjhiTFpQOThOem5rXzlkZWtES1prc182OTc1QktId0JVRXZTTzBIc1J2MHBIbjJxSHFyanVOeTZPN0EtZHNablYwN21rZjhmeUdRYU1KaUg1Wm9ETW9iazl1WFQ4bDhsRGpLbHozMFhlS0Z5MzlvdlJWWWFENnN5c1Nlb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://heavy.com/sports/ufc/charles-oliveira-breaks-silence-288-postponement-injury-beneil-dariush/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "I KO'd Derrick Lewis and Tai Tuivasa to become UFC star \u2013 now I want Jon Jones title fight - talkSPORT",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "talkSPORT",
+            "source_url": "https://talksport.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkFvNXAtUXI1Tm11c0JDQXd6RGd5Q2RHRWtPUFB1ZGdHemxiTmx0UWtmQ0RuS2dFYlF6TG5qN3E0SDhiSk1Eank5SXJxOG9RdHM5dVFWbTZSWWROQTJxTVlfU2Y4MGt5YVFkMF93U2Y1SnMtczRsNExFWFBDQ284SDJUMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://talksport.com/mma/1400488/sergei-pavlovich-ko-ufc-vegas-71-jon-jones/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "Paddy Pimblett says 'I'll be lucky to fight this year' as he reveals extent of ankle injury - Sky Sports",
+            "published_date": "Fri, 21 Apr 2023 07:00:00 GMT",
+            "source": "Sky Sports",
+            "source_url": "https://www.skysports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblVMSk1fTFZ4MHlpdlFIbUx5SWx1WUx1SWdfbkZzZ0Nad015ZjBqdm9UMi1QdW1rcEhzb3ByUnY3V3RCQWFOZWFSN2Jnc1AtTXpMb3JTWS14eVlYNnFwTVByaURNOXhkcFQybkZwYnh5NnZnSjYxVzRucW9aRlI1aFNHaHc1OUMteHNhVFg4X0JCV1JhYUVFNnFvTGNCMTNtNEROQW0tYXJRTXRkeTJSQjBKRVM0QlotaUdmQUlBOUNQa08zeWZsZW9vMHR1YUk0X1JlMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.skysports.com/mma/news/36350/12861900/paddy-pimblett-says-ill-be-lucky-to-fight-this-year-as-he-reveals-extent-of-ankle-injury",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "UFC Weight Classes Explained: From Strawweight to Heavyweight - The Body Lock",
+            "published_date": "Sun, 23 Apr 2023 07:00:00 GMT",
+            "source": "The Body Lock",
+            "source_url": "https://thebodylockmma.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fMVZ6QXQtalowVFlSZDZud1JKZGt4YnpYTkxfbG5LbXFvNm4wWHdvdnlNZkNORlRuOFp3dUJNNDF5bjRvUWtMLVduTVU2T2R3T2p6NUZFWkN1TGx1Tl92OGU3eHZJMWwwTVZ2Sw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://thebodylockmma.com/mma/mma-guide/ufc-weight-classes/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          },
+          {
+            "title": "UFC Fight Night results, highlights: Max Holloway turns away latest challenger Arnold Allen by decision - CBS Sports",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVV9mWTVOc0s4N2dHUElfd2sxOHpGLUhHY09GUEF0bVAzX29PbDRYWlhTeXltSGNaWTMzbldxZGlzY1hYa1hRYkIxVWVjSWE3ZVp6MFZodkVYZXpfT1JlRzY0MlJQVFpFRjZub0U0WE52dllrR1lQeUZxMXFZOGNmU2F5NC0taURhVjRRX2ZPVHlldVZwa0l4WGFJdzM3cUQxQk5pazFUUFM1T0Z1M2I3M28yRXJRNUIzTnBmYmtIaVlVNEZBd2lERzVrSEN1QThBZlJR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/mma/news/ufc-fight-night-results-highlights-max-holloway-turns-away-latest-challenger-arnold-allen-by-decision/",
+            "query": "recent injuries UFC fighters",
+            "text": null
+          }
+        ],
+        "Song Yadong vs Ricky Sim\u00f3n betting analysis": [],
+        "potential fight cancellations UFC": []
+      }
+    }
+  },
+  {
+    "question": "Will there be over 2 goals scored in the Premier League game of Newcastle United vs Tottenham on the April 23, 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "Tottenham Hotspur recent form": [],
+        "Premier League goal line bets": [],
+        "recent Newcastle United goal scoring trend": [],
+        "historical Newcastle Tottenham head-to-head goals": [],
+        "expert predictions Newcastle vs Tottenham": []
+      }
+    }
+  },
+  {
+    "question": "Will Sergei Pavlovich beat Curtis Blaydes?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "fight results sergi pavlovich recent": [],
+        "ufc fight night 222 latest news": [],
+        "curtis blaydes performance update": []
+      }
+    }
+  },
+  {
+    "question": "Will Russia control western Bakhmut by June 30?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-21",
+    "date_resolve_at": "2023-05-21",
+    "retrieval_dates": [
+      "2023-05-14"
+    ],
+    "retrieval_date_articles": {
+      "2023-05-14": {
+        "ISW Bakhmut Children's Hospital shaded red": [],
+        "Russian advance Bakhmut news": [
+          {
+            "title": "Russian Offensive Campaign Assessment, April 29, 2023 - Critical Threats",
+            "published_date": "Sat, 29 Apr 2023 07:00:00 GMT",
+            "source": "Critical Threats",
+            "source_url": "https://www.criticalthreats.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW9pZG1lN0JGQ2JYOHVQRGw4TkdOdFVxbXFXQm5aUmlMaHZDemxMaXVkc05oMW5SWklRWlctbFp3a1hnYlhYU1dzUDZKOEUxY0dvZThZZEJVVFZRd2t5ZTZhamZwb3RGRVg3b3d1S0FMRGxrTEZqekJENXVzUUplbFdZVC1FeVhxYXJIMUhfWlhveWU1STdj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-april-29-2023",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Ukraine claims gains in Bakhmut after Russia denials - BBC",
+            "published_date": "Fri, 12 May 2023 07:00:00 GMT",
+            "source": "BBC",
+            "source_url": "https://www.bbc.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85aExOVGwwUjNpMFNOWTNtd01HOTNNWW5SVkdFQ18xWlZYMzFYQzBUM2VmZVZJMHlMNC04UngyTVpENmtYbkEzRHB6ZEk0NXB1VzAtQkVITnlXdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bbc.com/news/world-europe-65567143",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Russia on edge as Ukrainian gains spread fears over imminent counteroffensive - EL PA\u00cdS English",
+            "published_date": "Sat, 13 May 2023 07:00:00 GMT",
+            "source": "EL PA\u00cdS English",
+            "source_url": "https://english.elpais.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSDUtY2VKeWRRNHl6bENNZmlyR1VNYXYxaU5uQWhpUFoxcHNLTm9VcDd4QW1ObEF0MDBnMVhQY2FkVXhYNUE0X2Vzb2lmbGNBa0NHNGwycWVTZ3ZrZm1GR3VoNTBITG5GRThFd0FfdWtNQ09xX2l4M195UnN0RjhJcDZwdEVpQlpZeWVsa0lPNmNmWXZyVU5oVXFMSnFKdlBGVE1EUzYzcnQtZUxWbXFyVVhZTlR0WjhtcjZsbkJJbjBIUFZYWmxGa2s4UXpOZGfSAeMBQVVfeXFMUGc3Rlh4RWtaVm1UMzZqMVhzSXdEd3kxR1V1M2ZFMEdxdDNkMi1qUy1QVGlwYmhhaWN3QUNHOGdjRGxuX2FjaV84T1hWTDZZaGFqYmhUWUYwalZSZlhLLTBDZTlTX2c0ZGQtdXR5ajJvMmVYWmZHaWxPcFNZVHVaZUMweDlnWXF1NTk2enZEdTFTRE5ROTJTVDQwWFkydjJmVHdhZWtJUWhtd2VhbXpkbjFJRXFmVzlqVXBUWEJ3bzh1ZW5GZmFJaFdkc0lRRXNQRG5LRWJRaXZxQVhTQTNHQTQ3UFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://english.elpais.com/international/2023-05-13/russia-on-edge-as-ukrainian-gains-spread-fears-over-imminent-counteroffensive.html",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Russia Acknowledges Retreat North Of Bakhmut After Major Advance By Ukrainian Troops - Radio Free Europe/Radio Liberty",
+            "published_date": "Fri, 12 May 2023 07:00:00 GMT",
+            "source": "Radio Free Europe/Radio Liberty",
+            "source_url": "https://www.rferl.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHJlZ3FfRmRIUXFTcHBPSmxKZEI1OExQbFM1bTZQOENQNzlOSFNwQkNaWENxQ19fa1dEcnNaQ0Z0TC10T1VLMkJiWjdjRmFnenpTTkhCRnVwN3F2WWFBdC1ralVtRi04Z1Z0M0dFZHFOYjNhZkJRTHJ6aTRoMzdtNmhUeHFub2JIUUtnSdIBjwFBVV95cUxNSDgwMTJMd1poa2Jial9XdjgxemEzdHBYUHdQaWhIT2w3NDBZeHBMSmpQQk5OZ1VIeHh3VDJzMXkxWkJEOFF4R29qd0F2WXEtcFVUeHlmQXlDV0ZUYXhOTkNydk5uNFgwYlZRZTZ6T2szMXhPUnkxLVBicGdibTQwQ0FtNFpqUVZyMDRoNTJZNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.rferl.org/a/bakhmut-battle-moscow-ukraine-counteroffensive/32408348.html",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Ukraine\u2019s advances near Bakhmut expose rifts in Russian forces - The Japan Times",
+            "published_date": "Sat, 13 May 2023 07:00:00 GMT",
+            "source": "The Japan Times",
+            "source_url": "https://www.japantimes.co.jp",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3FBd1JYV2VwZ1lZZ0hXTjF2Q2JQZDNiYVpaLUNXc2RjSkFvUmpLSGJUOXE0djl4YmN1Y1htaE5oc2MtSXQ4WDhjNDRRRWVsVHQ1V1BXQ19rREtxLWpvSkU5cHNEYXFqUkVucUFHZHRMTGxfblVqQWhfVFVPdEtoU1UwQ29SWVFaWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.japantimes.co.jp/news/2023/05/13/world/russia-ukraine-bakhmut-advance/",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Moscow\u2019s division deepen as Wagner chief claims Russian troops fled Bakhmut posts amid Ukrainian advances - Fox News",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "Fox News",
+            "source_url": "https://www.foxnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUtMLUV5Qks1WTJYREw0OXY0THU5T0JwbFJJSlpKYjBNSGpvYzR3ekRMMWpudHB6eEd5aHFhQmVIS3VCX0V0SEwwVGVnZm4yWC16czdrLVFtZVEzRDhDVW1YVXdWT3RhR3A2TklQdncyeHFoS2oyd3BQSFJ6UVMtM0luNHo3WlY4M0JJMjNYeTBVSWN1TG12N0QwZHN6Vkgwb0ptZzNMdVZtZmfSAbABQVVfeXFMUG4ycUJVNTdtMTl5UzFOQUFTMHNyTkRlVHdLdjlDMEJmS3dYUDRXYldfaGNULVFTc0tiOUdOMmdrOTBNNGNBcXVjTWNLZ1VGWDVSY0ozWVVtbDRJMENRaWZaa0dBTWM1SjFtLWhnMTNOWkMzN1k0R1dLY3NRd2s4eGE4ZzVNM3M0bHAyQmN2V2JPbGxPUUFoeXM3ZGJuR1pjY3V5Vjg3WE5jeElta0NEYnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.foxnews.com/world/moscows-division-deepen-wagner-chief-claims-russian-troops-fled-bakhmut-posts",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Russia claims progress in battle for Bakhmut - Reuters",
+            "published_date": "Sun, 23 Apr 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUlVIUTJQM0o5d01sUTVQUThfQS1IajlXZGNLWmxsMkdzLUw5NDRkLUhVQWdaVnlfeW1RNkNrdzA0aHE3cHlFOTRrUnpPSTZFUDNPSks3a3V5b2dZVmQ1Zm1yMXhtaGZIZ3NQUGxkeVRqbU9XakcxcXprQ2FucEhEbjE0NHpqSlVOTGNNc3VKcnloSHlLamdQbzI2VG5xTElZTU5j?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/world/europe/russia-says-it-has-gained-more-ground-battle-bakhmut-2023-04-23/",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Ukraine Battles to Hold Off Russia in Bakhmut - WSJ",
+            "published_date": "Wed, 26 Apr 2023 07:00:00 GMT",
+            "source": "WSJ",
+            "source_url": "https://www.wsj.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNci1jSElzNVVWZFY1NHhvOTNta2JmRWxBNm0xOW9IVU1IWWQ4V01kZXFYRGdGUkpQTEd1THNSLWlseGhwbEhEdkZHS0hPb2JITWt2bk4yQVZPM2tkdWNMMngwRzAyQW9PSXFOVXVGRG4wbG15aC1YTUhzcmctLWgyV3d6LTB3VGZVX0U3c0hmVXNoRkxROTljaThZV1F4MmN1dF9fMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.wsj.com/articles/ukraine-battles-to-hold-off-russia-in-bakhmuts-western-districts-2c54b03f",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Ukraine achieving some success in besieged Bakhmut, Russia says - The Washington Post",
+            "published_date": "Thu, 11 May 2023 07:00:00 GMT",
+            "source": "The Washington Post",
+            "source_url": "https://www.washingtonpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSUc4LThlTEtET0J1MUJIQWxCbjdWdDFHdW5jbzRFT2F5dzNxa2hlYWRreG1ISVFGSFg5cGxMa3A0NW9GY0R0LTZSeHFqbDBOTkgyT080eDVLVFlRSWh6MHBLQlJZclRrYmZTUTBUc29aeXJFa2lPM0dDcGYtTGg5bE1GbzA3UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.washingtonpost.com/world/2023/05/11/bakhmut-battle-zelensky-wagner/",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          },
+          {
+            "title": "Russian Offensive Campaign Assessment, April 22, 2023 - Critical Threats",
+            "published_date": "Sat, 22 Apr 2023 07:00:00 GMT",
+            "source": "Critical Threats",
+            "source_url": "https://www.criticalthreats.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUQ5T2ZtamJFM21BM1BZS040SU5kVVNmSjdERzVnc3dUREZVUnhnSDZtVlFrendjVmt6UkZqdFNWWEV0UnRld3ZmcHhzbVowOG1fNWJvcWh4emlZQ0V2TzZPNlQ4emFQY0RFckJWREpMb3pxM0dBTllOQWJJajZqUW5iREV0S0txZFZqTjBIQTZZc09JSzQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-april-22-2023",
+            "query": "Russian advance Bakhmut news",
+            "text": null
+          }
+        ],
+        "Alternative sources Bakhmut conflict updates": [
+          {
+            "title": "Russian Offensive Campaign Assessment, May 11, 2023 - Critical Threats",
+            "published_date": "Thu, 11 May 2023 07:00:00 GMT",
+            "source": "Critical Threats",
+            "source_url": "https://www.criticalthreats.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGV0SnBJcEE0TTUtZ0dzZHlDT0xUUENYTDFEMGlLeXh0ZHdGT2Z2bXp0b0pqUFBxTkI5b1hUV0t1NUROVGlzaGVEM1Vkd3hQZnJUcGlLWnFTdEp3QU5ZRndOZEZsZE5YUV9SazFNZU9oSEJsWnhtYlVyWVFiVFdlSjB1TXpkTUVzcUJSbi1UeVpqQWVH?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-may-11-2023",
+            "query": "Alternative sources Bakhmut conflict updates",
+            "text": null
+          },
+          {
+            "title": "Russian Offensive Campaign Assessment, April 22, 2023 - Critical Threats",
+            "published_date": "Sat, 22 Apr 2023 07:00:00 GMT",
+            "source": "Critical Threats",
+            "source_url": "https://www.criticalthreats.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUQ5T2ZtamJFM21BM1BZS040SU5kVVNmSjdERzVnc3dUREZVUnhnSDZtVlFrendjVmt6UkZqdFNWWEV0UnRld3ZmcHhzbVowOG1fNWJvcWh4emlZQ0V2TzZPNlQ4emFQY0RFckJWREpMb3pxM0dBTllOQWJJajZqUW5iREV0S0txZFZqTjBIQTZZc09JSzQ4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-april-22-2023",
+            "query": "Alternative sources Bakhmut conflict updates",
+            "text": null
+          }
+        ],
+        "ISW Bakhmut Children's Hospital map update": [
+          {
+            "title": "Russian Offensive Campaign Assessment, May 12, 2023 - Critical Threats",
+            "published_date": "Fri, 12 May 2023 07:00:00 GMT",
+            "source": "Critical Threats",
+            "source_url": "https://www.criticalthreats.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEN4RUFpVERMcmhHV05NdWVpTUNIYVpIZTI1QVg3QTRPTENLMWhJeXVVbWd6SXVCZGhwR3Vja3V2dU5HbFNJSjBURVl5U1BXQ193bW00MGgwV3ZNNmJwYW5PQ2x3NmoyY2FLNW1KNGZ1VFRNTXN0Rm1sdExZN1V0SWpSeEtmaFRxcHBWUm83ZHg5ZVM1?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment-may-12-2023",
+            "query": "ISW Bakhmut Children's Hospital map update",
+            "text": null
+          },
+          {
+            "title": "Ukraine war: Russia accused of using phosphorus bombs in Bakhmut - BBC",
+            "published_date": "Sat, 06 May 2023 07:00:00 GMT",
+            "source": "BBC",
+            "source_url": "https://www.bbc.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42RXgwY2VCakd6S0xINzhudkZ3S2h4czA2YkVqc3lfTFVmS2lVN1o1Szh6dFZkcjFMTEpqYXRrOTdZcWJGSWJGQlNwMGhaaXFwN2RYVW9TWWFWdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bbc.com/news/world-europe-65506993",
+            "query": "ISW Bakhmut Children's Hospital map update",
+            "text": null
+          }
+        ],
+        "Bakhmut Children's Hospital control June 2023": []
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship 2023: Will white (Ian Nepomniachtchi) win game 7?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "Nepomniachtchi vs Ding Liren recent form": [
+          {
+            "title": "World Chess Championship: Of a thrilling showdown and the meaning of happiness - The Indian Express",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "The Indian Express",
+            "source_url": "https://indianexpress.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHVaWklNUUV0UFZwRml3SF9kYUxvd2hHejJEQ0tUbElqYU1mMGp5YS1hYkNuTGV5RUpNTDM4QmZFQkRKQWZOSGNtaHFILTNpV0FSWFk1TEJZUUFzLVlmdG5mZnhBajZJVzVNU2pIWndtMnVzNUpBRmNVbndHa2M3amhob18xWkNYcEgtVVRUd0RqZXN5dmhtZUl1bGk1aU9HSC0xUlo0R3VLbGY5VXdwYWUwQkFhelNJYS1UMWlHYnVpa2p5QzZadUpGVng2d9IB1AFBVV95cUxOSzlNQjNGU0V5Z1VfeWNrSW95aHRRZ0JIY2pJUjVJdUZoSEgzSS1ra3d0WktsTm5aUkp2SWJTMlRTdjlQMWFyRmJFMERYVjN1TTFnRXZEZG1MVTJiWl9GdnFMRE5aY1BheE1WNkVCTkdOcmpKMF92NnU3bGpjQlZkWjlCdDlGQVhNZHR5N0FSa1RMS1kwQWllaXNSTjFZWWw5NEFCNzFhZDZVZFpyWWZXcE1YeEQ3Z09SSndqZXMycnNzS0h5d0pCVkQ3c3hzQTNmVnloYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://indianexpress.com/article/sports/chess/world-chess-championship-of-a-thrilling-showdown-and-the-meaning-of-happiness-8559941/",
+            "query": "Nepomniachtchi vs Ding Liren recent form",
+            "text": null
+          }
+        ],
+        "chess match analysis game 6 outcomes": [],
+        "key factors in game 7 outcome": [],
+        "Nepomniachtchi winning chances game 7": [],
+        "Ding Liren performance analysis game 7": [],
+        "chess experts' predictions game 7": [],
+        "recent chess tournament results 2023": []
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship: Will game 7 be a draw?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "player strategies world chess championship game 7": [
+          {
+            "title": "World Championship Game 6: Ding plays the London, bounces right back - Chess News | ChessBase",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Chess News | ChessBase",
+            "source_url": "https://en.chessbase.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3OUlCVC04VTJna29UR1F6T2FhcTRYeU5PVDZfWUhWeDkzMlBaLUxCM2wybFQwb3ZuRkp5WXR2U3lTbXFkX2FRdC11YW9fckJaVVIzZ3NJTWpTMUM4ZkVUUEo0OUNzUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://en.chessbase.com/post/world-championship-2023-g6",
+            "query": "player strategies world chess championship game 7",
+            "text": null
+          },
+          {
+            "title": "Chess was once banned in China. Today, the country wants to win the World Chess Championship - EL PA\u00cdS English",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "EL PA\u00cdS English",
+            "source_url": "https://english.elpais.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOHZzU3FGVnVlWEVVejRyUUhCeVoxTW53WFN2TnF6Y2NnY0FwX1hLSnh5YVZOYzMtUGVkRVg5VXVHR0tWMVUzQ3NKSl9uYlNfMjgxMVV3X3RtdXp4OHNaeXlPdDRWVnFabV9BNnhyc1I1MkFUVXlwcUhCRWs4aDJSVFZWVWRWVW4tNnVtbHp5S2tWbDlvVFJxZTJ4bEFmSFlSa2NHRVhFSzBtMFdzSjNfNVlKRVBiMEM4ZERRU25fcm50UmVCU0N6S1p3UXpYWW1BdnJZSUxfbEp2OTFpNEdNTNIB9AFBVV95cUxNX3ExcldOSlRaRS12SmQ1cXlDM2g4VWJXdkFaa0tNYjFhMzN4c2ZYdUt6QU13Ukl2WnlrYlpBcWJfdGpUVWhxbEdOYnhUMmk2dDhyWGZQX2xZOFoteEd4WmxuM1JsZERqZGY5V3VHbVNkZndKZzRlNklneEdZNXNxc0pFWGNoN3A2M2FiZklGak1hQ0pxbHVlYURma1BLLVlRZ242alJnNTAtdUFCMU9QZXFuaWtjdzA1UV9vZVBKMnpMRUtaQ3lZZk1wSWNWQ0sxOTNFT3FpbWQ0enUzRC1hbkRLU2tLYkVvOHVXX0JlZ0pwV0pW?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://english.elpais.com/international/2023-04-15/chess-was-once-banned-in-china-today-the-country-wants-to-win-the-world-chess-championship.html",
+            "query": "player strategies world chess championship game 7",
+            "text": null
+          }
+        ],
+        "world chess championship game 7 trends": [
+          {
+            "title": "World Championship Game 6: Ding plays the London, bounces right back - Chess News | ChessBase",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Chess News | ChessBase",
+            "source_url": "https://en.chessbase.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3OUlCVC04VTJna29UR1F6T2FhcTRYeU5PVDZfWUhWeDkzMlBaLUxCM2wybFQwb3ZuRkp5WXR2U3lTbXFkX2FRdC11YW9fckJaVVIzZ3NJTWpTMUM4ZkVUUEo0OUNzUlU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://en.chessbase.com/post/world-championship-2023-g6",
+            "query": "world chess championship game 7 trends",
+            "text": null
+          }
+        ],
+        "recent game outcomes world chess championship": []
+      }
+    }
+  },
+  {
+    "question": "Will any 1st round NBA series end in a sweep?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "recent NBA playoff game outcomes 2023": [],
+        "current NBA playoff standings 2023": [],
+        "team performance analysis NBA playoffs 2023": [],
+        "NBA 2023 first round series results": []
+      }
+    }
+  },
+  {
+    "question": "Will Starship's orbital flight test be aborted via the Flight Termination System?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "SpaceX Starship orbital test abort reports": [],
+        "SpaceX Starship Superheavy flight termination system": [],
+        "official SpaceX Starship test update 2023": [
+          {
+            "title": "Elon Musk sets low expectations before first SpaceX launch of Starship, most powerful rocket ever built - CNN",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "CNN",
+            "source_url": "https://www.cnn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubENISUhzZWVLaXhvcG5mRXpBNVRrMkd6Z1V1V1Jpd2F1UElYcWg4VC1CLXRyYzJ5MFpGX3dRaUpxYmdERHh0Z0d1cU11cENYOW9DUGdpZXZrSWhnUGU2MDkyVzlUWFNURnJVanlCTlE0YUZRd2Rmc3BqMXZCcEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cnn.com/2023/04/16/world/starship-spacex-launch-test-orbit-scn",
+            "query": "official SpaceX Starship test update 2023",
+            "text": null
+          },
+          {
+            "title": "Bellyflops, Booms and Big Rockets: A Recap of SpaceX\u2019s Starship Tests (Published 2023) - The New York Times",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUVGMHVnRmRFcUQyREVrNXBRUkphLU9JSU1Cdkt0TXFQaHVadjRkc1Y3all0dzJremdXUjQyajdIRWw1Q2E1MDctYU4tYlBINGluRTY5MXJweDA5aUpTdzR5cWJocTNYbkxmMjFOdG80bmRuNFlBdWhfeW1jaEp0LUlzZjM4MEFJT0RxRVI3dHRodGM?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/interactive/2023/04/16/science/spacex-starship-rocket-launch.html",
+            "query": "official SpaceX Starship test update 2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will the protests over Macron's pension reform in France end by May 15th?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-16",
+    "date_resolve_at": "2023-05-16",
+    "retrieval_dates": [
+      "2023-05-09"
+    ],
+    "retrieval_date_articles": {
+      "2023-05-09": {
+        "expert analysis on protest duration": [
+          {
+            "title": "Paris Saint-Germain ultras stage training-ground protest against club management - The New York Times",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUE1jX2F2bjNPb2J3QjVrVk1sVGxRMlY0a0Zuck5MeFpNRXZLQlJlTThmZUwwUnZhRmx2UEtUNWNwMWZuSUR6SnlVVnR3SUxUamt3cDFzTmZOLVJZTzM5cWNIRWxrR1YtV3RrNnFDajdLWlYxVk02TlFNdzNadFFvV2tWOEhSRjJpSlItNV9lc2o?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/athletic/4478299/2023/05/01/psg-ultras-training-ground-protest/",
+            "query": "expert analysis on protest duration",
+            "text": null
+          },
+          {
+            "title": "'The word heartbreaking comes up': Doctors call for action as Australians face years-long specialist waits - Australian Broadcasting Corporation",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "Australian Broadcasting Corporation",
+            "source_url": "https://www.abc.net.au",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlFOQlpnZC1ieWo5d1ZxSU1ha1VxZG1YTkxBWVZ3bEJVZHBiTFFmaDh0aVN6czhfU21na0dramNQd3RQVm9WVGd0Q3Jyd0NJaktMY0N0b1pMU1dMSlJ6ZWlPbGpFcnVfbmhISDhuNVZpTHNKVndvWU1ZVlZ3NkE2WmR3SWdXTU05NUdLRmwxd2J4MmFNZlFqZWpxaVBSWEU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.abc.net.au/news/2023-04-20/specialist-wait-times-blow-out-years-waiting-list/102232032",
+            "query": "expert analysis on protest duration",
+            "text": null
+          },
+          {
+            "title": "Head of anti-monarchy protesters says arrests \u2018direct attack on our democracy\u2019 - London Evening Standard",
+            "published_date": "Sun, 07 May 2023 07:00:00 GMT",
+            "source": "London Evening Standard",
+            "source_url": "https://www.standard.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTFMzOTZ3SXAyNFM0c193djczTm5WcUYyc29UaUtLM0pGT01MalVWTVNMSGRXZUpUMXNfd0c0UFR2LWRNWGhQNHYzN0FnX3VfTXZWWmFOMnBrTWZMek1TcU5Bc3RzeDRscTE0ZjF5SVlnbU5QUXZIS0tqOHJnanktMXdCVWxsMmNEbExDeW9tZjYtOHNIU0paaGxlV0NhbW1MQlkwZnd6c25QaUU0RjBJN2JpeU9NSkJVRUdZMXl4MExYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.standard.co.uk/news/politics/republic-anti-monarchy-protesters-arrested-london-metropolitan-police-b1079450.html",
+            "query": "expert analysis on protest duration",
+            "text": null
+          },
+          {
+            "title": "Thousands pack central London on second day of \u2018The Big One\u2019 environmental protests - London Evening Standard",
+            "published_date": "Sat, 22 Apr 2023 07:00:00 GMT",
+            "source": "London Evening Standard",
+            "source_url": "https://www.standard.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5UX1p0b2MwbnZ1M2NVMWRTcFk0U1k1c0dtWl9UNjVINEVyNFEwX1V5endoSnZSVTNBcm9ZNjBIT0FhUW1GYlBiNDZuQnY2eGtVUkdKekFrT2JXN19fTF9NcWh3UXUtNzZ2SUxBTHF4Q0ZJaUFuaHlBVkk4TGZVTUY0b0kzRmxmSzduSVNsOVhIbS1FMjF5WExreU5pMUN2ZjRr?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.standard.co.uk/news/london/extinction-rebellion-the-big-one-protests-london-b1076028.html",
+            "query": "expert analysis on protest duration",
+            "text": null
+          },
+          {
+            "title": "BBC impartiality row as Chris Packham rallies followers for XR Big One - London Evening Standard",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "London Evening Standard",
+            "source_url": "https://www.standard.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcm5oTFFMR3hSQVpjUWtlU2VHUmFNZ0VkUUQ4bWZNTVV2QWFaVDUxZTBjb3pTVm5hMkp1SWk1OHhDZzFJQXpYOEtnalBEY21OQnE2aVhSRFV2ZnFDM1lKcE1EN0h1SmU4bC00ZldnWHEzZDgtQVlWQWNUOVhVZzFibjBmWVA1MVRLV3JzTjczS0hVaXc1aGlwazJYc0xCeGl3N3R3R3VNUGJGeGxBSkdRWEFqcHd1Ny1PZzlhLVVpZ0V3eDAxalE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.standard.co.uk/news/london/chris-packham-big-one-protest-london-extinction-rebellion-bbc-impartiality-b1075127.html",
+            "query": "expert analysis on protest duration",
+            "text": null
+          },
+          {
+            "title": "Just Stop Oil block traffic across London\u2019s West End - London Evening Standard",
+            "published_date": "Mon, 24 Apr 2023 07:00:00 GMT",
+            "source": "London Evening Standard",
+            "source_url": "https://www.standard.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2dlNHhfWEZ2LUZEY2dJZ0VTVjVTR3c2UFJTaUVDZ0hyNnhURlRPaGpNRmZHX25kS09SWGhoNHNWVWpGM05ZbEcycEtqZHlIdWdxLUhMQXEwVXl2REFtNlZEZ2tUeFgtRGZpM3EyUDRneURzTDd0R2JuVF8xNXZaaTNIbTdnUm5paVhUWUlfcnRtOGVZLXJ5eXdiZjFod2RKNGlicmp1b01VcUpmYzhoRw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.standard.co.uk/news/london/just-stop-oil-haymarket-piccadilly-circus-waterloo-protest-b1076176.html",
+            "query": "expert analysis on protest duration",
+            "text": null
+          }
+        ],
+        "government response to pension protests": [
+          {
+            "title": "13 people arrested in France after a demonstration in protest of pension change - PBS",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0dlMHA1N1F0XzU5RnVJNDlZVXJjRlM2YTJCaHRsc1NJTTNodjNmaGpxZ2prdVM0dkRVVzVpcVhYSlFVSVZ2bVVyWVZtMy1IZWNnM3RjcE1wZGhJWUdvUTFJdDN4VG53TjlaTjNTMlNhenpIZTNFX0hDWWtWZTVhaUFPeTJhbVVIT09RZ0xUOFpnUWtwc3gxODFiMFJEaWUzY09KTTZOM29QblpGQWhKQ0JkdGvSAboBQVVfeXFMTW1nMFItWU42ZWJFaTJpY19EYU1sekJ3enMtWDk1eXB1cmczOTljRHc5ckJRNk02M1FrN1l2R2VJM0txMjk3ZTVVTm1hQ01SSXVJOEVhYzQwS2NXcy1CUk5aOXl5OF9hSnRQbUJvRFZHREl4LWN3dEwwOVdnS0xfdFM4M25JUGItVEhvRnpralNWXzltbjhNMDUtd2FZN0JJcUpIdE0xVmxCbjRWUjJqVEtjNVBJQy01WjhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/world/13-people-arrested-in-france-after-a-demonstration-in-protest-of-pension-change",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "How Macron Can Save His Presidency - Foreign Policy",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "Foreign Policy",
+            "source_url": "https://foreignpolicy.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSW14SjBnRHZwczBneUtoUldHYlBCQ29hT1hyejRVSHlHelZfZ1VNNGF1YXF6VXNHOWZhbkF2T2FWZm5CZ0ZlX25CWk9TOGM0WW93aE1TTjQwME1qc3pCN1QtbjBoOFZhM1ZfeXhRaTZJMjU1ZWxzdG91eW9GSE1FN2xlcXZOQUZZaHZPclBIRGRWN1FsQVlwbFNLZFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://foreignpolicy.com/2023/05/01/france-macron-pension-reform-democracy-citizens-assemblies/",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "The French Tradition of Protesting Pension Reforms - Statista",
+            "published_date": "Tue, 02 May 2023 07:00:00 GMT",
+            "source": "Statista",
+            "source_url": "https://www.statista.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1ya2diZVVjR0RNM2o5WjVyalhDRGlWeTEteHNiMjd6dTBqM3Z5QkFJamRTd0FzV2JubkZvakNOX2dJYWdZTVlsSmg5V0ZkejJKWUpUWjJQV1pMdGVfdTZDSXA0QUZybXlYUDRnalBGUUxmN2VBd0pCRDFaa0lBQUh6TjdYazJXSFN3dFRB0gGTAUFVX3lxTE5JNmtYeWV6bXZjdjhnWkNRby1kQnM3UGR3NDNGWnlyNmh2Z2Mwcy1FVW9xSkRtaWM1aHppaFplVW1XUUx3SGZNTjcxLTAydVplT0thejdUVFdhZFo4TWhCQWI1bms2YXhtUEllZ0lrRGpLQ1dNVDRodUJvczJiV3ZEREtRR1BKQ0pyMXZHemNvUW92cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.statista.com/chart/29569/france-protests-against-pension-reform-timeline/",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "French government leans on police and prefects to quell protests - Le Monde.fr",
+            "published_date": "Tue, 02 May 2023 07:00:00 GMT",
+            "source": "Le Monde.fr",
+            "source_url": "https://www.lemonde.fr",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNG1HRnN1NFRtbFZ5X05tb056dlhqX1FidUU1eFZMOW9vdC1yVEZDZG43MVRUby1Hd1RleG5KbER2UW1pc3F1Nkt2cTRlOExXaHNvYlgzLWd6M0tWVGxIbkhZNUtpWkVpcm1VdFVNeHltWS1XTERIdThoN3dfLTJOM0pHNmJycllJLW9QTTUzZmJOWVVweGtXRnVaclpyRHJnUXliZF84VFlDc0g2eXJDdW53NHp6ZjFJeFk5X3YwNk1sZV9ITHVyTXpfMi1aUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.lemonde.fr/en/politics/article/2023/05/02/french-government-leans-on-police-and-prefects-to-quell-protests_6025106_5.html",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "French police clash with black-clad anarchists during May Day rallies - Reuters",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0NyR3RNNlI2RUdkT3lLdU1PVzVFU0pueDlyZG1JYjZ4d2M3NDFWMUdhby1TNkcwRWp5Z0h0ZkxlVEs1UXM0UEpfVlBVcjBnUE5ndE9BbE5TRTZ0RF9sYlR1X0N5eFMzaE00REludmFjMFBFV1F3NlE5RGVoSmVSeXhwT2NuQzVzclplclVZNzBKLU5lWHJ2MWFJTTBjYjRYRGpCRmFQcUd1c3dGSmU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/world/europe/macron-faces-labour-day-protests-pension-reform-anger-festers-2023-05-01/",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "Opponents make last-ditch effort to stop French pension change as protests continue - PBS",
+            "published_date": "Tue, 02 May 2023 07:00:00 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWE5XelkxWW9rdjZJU3pvcmRsTXBPWHlhUWdsbkZXRFFnal9EZVN6RXRFdTFjNFFXNmZKaDJ2Z3c1VzNmVjV2Uk9VZW5jSktTZG5QbDdKVkNwN19ObmVUUHFmcUl2cEl6UXhnRW1nSG44WUdsa0psb0FkMks0bU9VbHVGOGdhRWg1eHhOSUU3bC1hS1NuMUdaTUs5UkJVLUExQTlJc3Vpek9QWUdiS0pGTVNFdnVTWUswYnfSAb8BQVVfeXFMT0tUNDNkVnVQM2pzalBheEdCTlJPeFo2aTJFMUF3bnRSQ1g4RTFpNmpwUUFjN0V4VmpTbkJYZno2QzE5bXgzS29xUkM2M0RldDEwbnpvTVlDQkFXNko3dWhwZEQyNE9jOFNNREppWmpDeVdsN05xejJzT0Q4bGE3dEpQamdiMDFkenRma0h2Zl9oX2Ffd1Z2TVRHbU12LU9VdUVES25PMTVyUmo0U1BvM043VmYyUk40clJMb2lmQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/world/opponents-make-last-ditch-effort-to-stop-french-pension-change-as-protests-continue",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "How do retirees in France really fare? - Al Jazeera",
+            "published_date": "Thu, 27 Apr 2023 07:00:00 GMT",
+            "source": "Al Jazeera",
+            "source_url": "https://www.aljazeera.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEF3THBERzFjS1BXcy1zdmNZNjQwVXp3ZDVnT3BRaXJDMDdUMS1zMUZEOXZvU29DSHFJanBUY283RF9ERU5fQjF3M3ZtTGhlM2oxSlk3YmdEZVMzVTZ3c0RTbnZBaVNDcklGSmk2UDhicmRLQVFrRDltZktrRmx1eXExYkdOS0RR0gGOAUFVX3lxTE1TeWNBQ09XdndQU1JKVkhlcG9iVVVWTUhWR0FCb25PQWJsM2tnU1g0bVRtaFg0WWFDNEloS1F2WjYtQ1k4cktxR3VuVXdjdkpUWVQwbEFMMlRzaEJpNnRuT3dnSU1OUm41anh3c2xnOC04SEpOT0lzZG12cEt4X1pDbEt1NmZQZXFuOGxfVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.aljazeera.com/economy/2023/4/27/how-do-retirees-in-france-really-fare",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "At least 108 police injured and 291 held in May Day protests in cities across France - The Guardian",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "The Guardian",
+            "source_url": "https://www.theguardian.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXI1X21qQ1lzZlYydDR6SDJrVC10Q1EzX3k2TmxvMjYzdHpxUzV1a25XSm8zaVZZVHBEaFNKbEJWZlRfVnoyZHJnYno5azIwMDFRU0xUQlRJWGltNjdqVGY1MVVaSWJPLWlsbzB3VHJXZ1BBcE1Ra01SNTFJZERUc2lOSF9ZOGxnWHh1d0J2YWRKaVY5bHkwS01xcUtUeUhtdHRLSUxWU2ZPeUpIS0djbQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.theguardian.com/world/2023/may/01/police-fire-teargas-on-may-day-protesters-in-cities-across-france",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "French public liberty body slams Paris police for human rights violations, preventive arrests - Anadolu Ajans\u0131",
+            "published_date": "Wed, 03 May 2023 07:00:00 GMT",
+            "source": "Anadolu Ajans\u0131",
+            "source_url": "https://www.aa.com.tr",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlF2R3V5SkxLLU15RmJJQUl4VS05YWJzRUZYQWVxeXhSOW9BbVJrVXVmSWlxVm1GejdnYlNuN3htUGIwaTA4bUxycHhHOWt4alRFbnI3YmE3UDVBcHpkY3ZjMlRRUm0ydzJyVTBhYmhWS184Rms1ZklfODQ4OGZObkZ2VkhZRXdEc0tZMXBWc1NwTml6eHNadnE2amttRzN2UUc1dWVMZXVma1BBdzhlZEg4QkZ4Q3AzT1hGRFFTU250V0dhY0tMQUZ2cXU?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.aa.com.tr/en/europe/french-public-liberty-body-slams-paris-police-for-human-rights-violations-preventive-arrests/2888461",
+            "query": "government response to pension protests",
+            "text": null
+          },
+          {
+            "title": "Constitutional Hardball and France\u2019s Drift Toward Illiberal Democracy - Diplomatic Courier",
+            "published_date": "Wed, 03 May 2023 07:00:00 GMT",
+            "source": "Diplomatic Courier",
+            "source_url": "https://www.diplomaticourier.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWNNRFNHZWoxVzBsZWhzUGF2Z082WHRUa1ZESHltVTRkRXNUVlRPX2F1TWJoMlJid01UUXBYbHdKMW1FcldCdkhKblFHUVBkUTNDNnZrU1F1eXJXNWF4SGxsMUszOGY0anF2TWZSbUdQTjB0cFlqejV4UTlPNEhEWUdEbE5Ddk11dzd5WDc3aTVrNDA1WTNmeWkzVnFkQ0stMWM5VmV4YVBuMk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.diplomaticourier.com/posts/constitutional-hardball-and-frances-drift-toward-illiberal-democracy",
+            "query": "government response to pension protests",
+            "text": null
+          }
+        ],
+        "protests in france pension reform update": [
+          {
+            "title": "13 people arrested in France after a demonstration in protest of pension change - PBS",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc0dlMHA1N1F0XzU5RnVJNDlZVXJjRlM2YTJCaHRsc1NJTTNodjNmaGpxZ2prdVM0dkRVVzVpcVhYSlFVSVZ2bVVyWVZtMy1IZWNnM3RjcE1wZGhJWUdvUTFJdDN4VG53TjlaTjNTMlNhenpIZTNFX0hDWWtWZTVhaUFPeTJhbVVIT09RZ0xUOFpnUWtwc3gxODFiMFJEaWUzY09KTTZOM29QblpGQWhKQ0JkdGvSAboBQVVfeXFMTW1nMFItWU42ZWJFaTJpY19EYU1sekJ3enMtWDk1eXB1cmczOTljRHc5ckJRNk02M1FrN1l2R2VJM0txMjk3ZTVVTm1hQ01SSXVJOEVhYzQwS2NXcy1CUk5aOXl5OF9hSnRQbUJvRFZHREl4LWN3dEwwOVdnS0xfdFM4M25JUGItVEhvRnpralNWXzltbjhNMDUtd2FZN0JJcUpIdE0xVmxCbjRWUjJqVEtjNVBJQy01WjhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/world/13-people-arrested-in-france-after-a-demonstration-in-protest-of-pension-change",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "France is still mad about a hike in the retirement age. But can protests last? - CNN",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "CNN",
+            "source_url": "https://www.cnn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1Z6SDYtZXBibGRYdlJyRlBZRmg1S1BZcFlacmFTUHNRdXlVWmh5eXNvZ19ldk1BUVB5SEMyaHFqU0QxRUtOTFdXLUdvYWZmcDZPRFB3TVNXT01TYkdIZlFyS0NLMTJBOVdhbU1rYmlja1hlcGxvVHZPWjdpX29Vem1B?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cnn.com/2023/05/01/europe/france-pension-protests-explainer-intl",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "Protesting becomes the new lingua franca in France - News Decoder",
+            "published_date": "Mon, 24 Apr 2023 07:00:00 GMT",
+            "source": "News Decoder",
+            "source_url": "https://news-decoder.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTklLQkZySlV6U05OSW9oMmU2TzBlYkJNWEZEWmxvTWUxdnhCc2ZXRHZVNVdsM1E3ekhNUG5vdElBeUdhX2VuTXBxOXpneWtZSU1wZkw3UHFLVEJkY05ydzZhOWJvcXFobDlEanNDNDZQUGxmcFpjMGZESG1FemRfNjZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://news-decoder.com/protesting-becomes-the-new-lingua-franca-in-france/",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "Clashes erupt in France on May Day as hundreds of thousands protest Macron's pension reforms - CBS News",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "CBS News",
+            "source_url": "https://www.cbsnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGRWRjI1aWFXY21TU0JZN0c4NnRZRno2UFctQlV2ZjNMVldXdUljTlEyRXU4RkI2VTM2aTN4NWlLYjRySWtpZ2NGZktpNmRUMUFCSHhmYkVwWUNzQTc2RzFmcXpBZklaYTVhcUM3R2Z1RFo3WWNRdnp1b0xuVXRhR0JzZFdCNzZDTmlyeVFkSTBYSnhrR1HSAZsBQVVfeXFMT2UxUExFUmZNOUc0NjB0blFsSC11QWpPU2ZHTjI1OHN2Qk9Eak9wR1BXWWVZQ1dlNDRfU1hlRzN3M3hlTWgwM3R4NG0xd2JGTFZabGQ2YVNqYmdMUjhDTzRCdWlTU0JwT1lYYS0yUW8xM1hYcDNLZHNEelJlYTJmOW4yeEdnbGVLNGNnSTB0Z2d5SDlOV1BUTHZtVjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbsnews.com/news/may-day-france-clashes-macron-pension-reform-millions-protest/",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "France protests: More than 100 police hurt in May Day demonstrations - BBC",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "BBC",
+            "source_url": "https://www.bbc.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ybHE3SzZMWWpjWUNDcG1HRGlDWW1NamszVExtT09ibEZOUXRhUGNZRklXNHpZVmNnRWU3Z2xNMzNhWTNwUnFqeE1fMGZUcGMyMnBJM0pZSktYQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bbc.com/news/world-europe-65449777",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "Anger Over Pensions Law Fuels May Day Protests in France (Published 2023) - The New York Times",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHNyVlY1bFhFd1JQTFBDZk1rRi1BYmxaWkpqZzNqZE84eEowXzFJLW9kQXBuVmg0RG5NdHVhaXdwbTJ0WURRU3cwUGF3b1RFQUl5U21oNjI5V3FjeG5UbXhWLUY1Wi1PczY2cG1BTVV3RWE1ZnRtOXVDUmdDMVBDVHZvcjcyOTd6R1QzTm84WUM5QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/2023/05/01/world/europe/france-protests-pension-law-may-day.html",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "Continued anger at retirement age change fuels further protests in France - PBS",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "PBS",
+            "source_url": "https://www.pbs.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjZYUEZQRm0wWkg5TDF3SHpkNVQtSzFSTXQxMkdTS0RiQjlfRmhnVGhhdjRaVjNHWlpVNFhpZm5pTno0UWxZclJIenpLTDdfeXZ3bm0xWFdpN0R1Mk9zMFl3amk4WU95dWRiakFjQmR3akppb2tGTGViaEZIWFllY1NjSnRCa1JDSDNYWVZ6cFlnS3lLVEtkblFfeWpWUUU2cDR3THdDUG9ha05x0gGyAUFVX3lxTFB0a1paWGNYeTlaeGlzNXFGYjJrMmpUVktTV0d4U3J2eVBVNm9hcWNWR18zcnc4MVp1eWRfWlZOUmdLZlFKaTc3YWtkUld3dUFLVGpKZTFISzljdEpsWHlNbkFmdGVjSWRZc2RENWp4TUd3aG51SlJTTUxuNHNhWFJSdXc4OFVuWUptOXZUYlRtbkVmcWk4dUtxeHNiSHlta2lid01lblE0R1RpQTBpd2dxVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pbs.org/newshour/world/continued-anger-at-retirement-age-change-fuels-further-protests-in-france",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "French police clash with black-clad anarchists during May Day rallies - Reuters",
+            "published_date": "Mon, 01 May 2023 07:00:00 GMT",
+            "source": "Reuters",
+            "source_url": "https://www.reuters.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd0NyR3RNNlI2RUdkT3lLdU1PVzVFU0pueDlyZG1JYjZ4d2M3NDFWMUdhby1TNkcwRWp5Z0h0ZkxlVEs1UXM0UEpfVlBVcjBnUE5ndE9BbE5TRTZ0RF9sYlR1X0N5eFMzaE00REludmFjMFBFV1F3NlE5RGVoSmVSeXhwT2NuQzVzclplclVZNzBKLU5lWHJ2MWFJTTBjYjRYRGpCRmFQcUd1c3dGSmU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.reuters.com/world/europe/macron-faces-labour-day-protests-pension-reform-anger-festers-2023-05-01/",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "The French Tradition of Protesting Pension Reforms - Statista",
+            "published_date": "Tue, 02 May 2023 07:00:00 GMT",
+            "source": "Statista",
+            "source_url": "https://www.statista.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk1ya2diZVVjR0RNM2o5WjVyalhDRGlWeTEteHNiMjd6dTBqM3Z5QkFJamRTd0FzV2JubkZvakNOX2dJYWdZTVlsSmg5V0ZkejJKWUpUWjJQV1pMdGVfdTZDSXA0QUZybXlYUDRnalBGUUxmN2VBd0pCRDFaa0lBQUh6TjdYazJXSFN3dFRB0gGTAUFVX3lxTE5JNmtYeWV6bXZjdjhnWkNRby1kQnM3UGR3NDNGWnlyNmh2Z2Mwcy1FVW9xSkRtaWM1aHppaFplVW1XUUx3SGZNTjcxLTAydVplT0thejdUVFdhZFo4TWhCQWI1bms2YXhtUEllZ0lrRGpLQ1dNVDRodUJvczJiV3ZEREtRR1BKQ0pyMXZHemNvUW92cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.statista.com/chart/29569/france-protests-against-pension-reform-timeline/",
+            "query": "protests in france pension reform update",
+            "text": null
+          },
+          {
+            "title": "Macron vows govt action plan in next 100 days to appease anger over pension reform - France 24",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "France 24",
+            "source_url": "https://www.france24.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMHBtaEVIUjdKM2ZZbmZHbVVsaEx3b2VBSTlNTl9qWi1rNmkxaElTdjdzT1hfUHl4VXdzbDR5MjlLb0JxS1FvRVBtU0ZlaV9ZdnY1b0s0bnVnUjhQOVBSWmxGdGliYUhESXNQbWJmZGozNm5JdmZiWXVha2ExTk5uRmpJeV9GdG9rVkxROWR2SFE5Q1V5R1FZQjl5NzAtVHBBSy01VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.france24.com/en/live-news/20230417-macron-to-address-france-after-pyrrhic-pensions-victory",
+            "query": "protests in france pension reform update",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will Starship exceed 28000 km/h (=LEO orbital speed) at an altitude of 200km or higher during the \"orbital\" flight test?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-16": {
+        "Starship trajectory suborbital details": [],
+        "Starship speed altitude test flight": [],
+        "Starship orbital speed test results": []
+      }
+    }
+  },
+  {
+    "question": "Will Real Madrid win the 2022-2023 UEFA Champions League?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-17",
+    "date_resolve_at": "2023-05-17",
+    "retrieval_dates": [
+      "2023-05-10"
+    ],
+    "retrieval_date_articles": {
+      "2023-05-10": {
+        "potential opponents real madrid champions league final": [
+          {
+            "title": "Champions League semi-finals: Head-to-head records - UEFA.com",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenk4c3JEbjZkSUhYY0ZySEQyUU42Wnd4OVFhSi1rZzd1MkRpaXdSdDlnd3YzMG1sNThkVjhOVEtuanVyM2VzNWZ5UUJyOWFmdV9kYzRFRjlHbUxvQ3NDQ2NSeEd2ZjZvRkw1aG9RRG1veUkwUnBOTERJVXJEbDZJX0hES01hdFNacVY1M0g1b3hDQ2xIeDRBaDgySEpLcXFhVFdfcXNYWmFXRnB0Uy1VT3pHc1BYVXBRY2NrUV9FUzFaZURIOWxnTjhjQ3dmZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/news/0280-17d12852c0f0-07478d167a2c-1000--champions-league-semi-finals-head-to-head-records/",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Chelsea vs Real Madrid press conference: Lampard says anything is possible with the Bridge behind us - Chelsea official site",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Chelsea official site",
+            "source_url": "https://www.chelseafc.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHlsYnVjOExYcVh0eHQ3OFl3RG9fNUFXNTh3MDI2Y2E4Y3ZSR1BFTWt6ZXg4Q21Mcy1fNjQyM3JqZzVkcXQ1QUxlMWVBY2tZUG9wY2lRYXNTUEU2cmxWNlBJQmtIanEyMlJYRm5OaUFfNWJvSUFnbzdjQlFtVzFiTHVSYUEwSmdRelp0SmNWOF95NXpkVzBESEx4V1Vpa1dZdHNYN2xZd3dkQ0dNcEEwdC1kMkQ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.chelseafc.com/en/news/article/chelsea-vs-real-madrid-press-conference-lampard-says-anything-is-possible",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Foden feels confident heading into Champions League semifinal - Diario AS",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "Diario AS",
+            "source_url": "https://en.as.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnhMaTM2TTQ2eU9mbzJnakhGWEtIVWZNOWRxSFZhRUlocG5nTTRVMUVSd2s4blRDLWZjTU1zblplTjZKYlAxWTEtWjhwenpXeUVTQzZPb21TZEEzZkRuRVVEeFFtaGZSbUV2VVk5b3FqbEhSVE5YbndCeW9jM3A1bWZJZ3lyam45OU1aS2JYVHBaeWvSAacBQVVfeXFMTW4zSF9PSUhxNEhwU2NOTmFBQURHZHEyZDdoZUdZNUhkRlB1SF9FUG9vZ3FYSldZQ21ON1ZqZW9EYzRfR042TzlrNjdNa2ZaOE5vVnVBV3d6dDJkSjM1a0hMOWF2ZGNkVENuVXBXekJ3Z2ZsWWxUaXpPdTR6SjRuWEpvQU54ZjhKUGNkaTU3ZE1BOFE2WFVoR3NTM2lIT056YUV2T3NTXzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://en.as.com/soccer/foden-feels-confident-heading-into-champions-league-semifinal-v/",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Inter on verge of UCL final after dominant win over rivals AC Milan - theScore",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "theScore",
+            "source_url": "https://thescore.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YZFRDdkdoV0NxUGdZdHRqejNtS05qWFhLcm9QRjlvRzlnNVV4em10MS1UeXV1bHl0MUU4MHNxeGdWQ0JkcGZWLVQ2TTZFNzVUeXJZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://thescore.com/ita_fed/news/2645940",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Bayern Munich vs. Manchester City projected lineups, starting XIs, team news: Will Sadio Mane return and play? - CBS Sports",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTXZtdTZMSGVSa3JHRnZDYldfSXpxc2ZOWW9Hai01MExVSEtwUS1ucW1qSUQzZU1FT0VZUmhlUW9SYlkwNWdqb1BMc0xWMlBLTUZJQnRZWDJwMjlIWTJGMmpvY1ZxeEM4UlhfMGdOdlR1XzNBc3lEWjVtSmJseno3Q1pMaUtxUHNraGF2SC1ZUkdIbTBWWEwxdGNOMkNtNzBIdzRtbC0tN2FTenRhS210R2pqLUNuRjJTam1JMnd1SkY3WS1vX3MyalhmTkdidzlUcE1NWVpGa2tiZ2lT?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/soccer/news/bayern-munich-vs-manchester-city-projected-lineups-starting-xis-team-news-will-sadio-mane-return-and-play/",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "AC Milan vs Inter: Probable lineups for this 2022/2023 UEFA Champions League match - bolavip.com",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "bolavip.com",
+            "source_url": "https://bolavip.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1NpTFdIaktoNmZKajB4cGV6TkR2ZDZDbXhlaHZoenFVcWxxSkxpVEtFR1YtNU5CNkVKRDl6RDZjN3R1UGdoaFpwc1h5RmUyX2FMREc2M3R0OGhZRl83U244V2tCRVhTdVBLNFgyVTRMNGhrLXBNcEJMbzBfSXFsNEZsUmtYcmJRMmlpbVF5U1RQN1pFaDJkb3JVaDROd1U5ZDJxekl5M09TZFRGRWx1OWhKU25zMXBqNXRiX0EwcHhQTUhUZlFFNtIBzgFBVV95cUxQM2F4VlFHUi1uLXlsLVBsazZJZVk2eml0RzhFM2gwaDZkcG9QZEdtQ3VUdWx5WHZtNVV6WjNTQnl5SUk5eUlzUnp3MUJ0N25GaDEyRURhLV8zWGdudnVzbzgtMi1sTEUzVE1Dc2Z1V1IxUExBci1aVmVjaVExazRsb2l0NzdsbnJRd24xaUxUUlZXck5valdDdV9LZ3pvd1Y5NnRTWHVicGhtelEtTmFoenI0ZEFqQkc2MkR0Y09TWkIyNVp6TXRhR0Y1aHl2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bolavip.com/en/soccer/AC-Milan-vs-Inter-Probable-lineups-for-this-20222023-UEFA-Champions-League-match-20230508-0021.html",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Madrid's cup king Rodrygo plots another City slip-up - China Daily",
+            "published_date": "Tue, 09 May 2023 07:00:00 GMT",
+            "source": "China Daily",
+            "source_url": "https://www.chinadaily.com.cn",
+            "google_news_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hWi0tVGluTVQ0UzQwWEFlMFJIWE1MTnVRZzhkQk5VMXA1Q3NkeDItVlFWeTJHQ0R5cjRfVzVIdUdWVTVTanBaanV2R2xEeWpRdE1rNnhTb2JXdjVmdmlQa0t6SjRfMm1QWUx4ZXF0MHFtSnFqSXRRcUhhV3lFZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.chinadaily.com.cn/a/202305/09/WS6459a26aa310b6054fad1d70.html",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Chelsea 0-2 Real Madrid (Agg: 0-4): Blues exit Champions League as Real finish job - BBC",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "BBC",
+            "source_url": "https://www.bbc.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWVRxc0lPczZmeWlKLTNwVWFyMzgyWE9JTk52Z3JKRmlWLU84bXVSZzRvQ0VFaEV2R1Nwem1SWU9yYVFfV0Nwd3ZKUVgxUHhRVEpDNFVn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.bbc.com/sport/football/65303856",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "Champions League: Jack Grealish warns Real Madrid of 'unstoppable' Manchester City at home - Firstpost",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "Firstpost",
+            "source_url": "https://www.firstpost.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTFHY241WlFHRThERlY3Q2dla0dibTJxMHFPbmh0LU9DWGpfX1UwQVVUd2hmTm93d3N5ZWhscDNMTWZka3BOXzRPVVM5OG5iTDJUU0JkNnU4RzllTDdjbnNDSWpOQnAyT0d4Z2lJQWcwb3prMHJvX3hJR0Z0Ukt3Nlk0ZkwwbU44WDZHTU1rRkZsbE9PV1BZSDRIWXc1VEpRMnNteWp5b2pEbXg1TTRNdlRmbmFDNnQwU2JZ0gHAAUFVX3lxTFBTcFdpeTdzNVhZWFIyZGNJMUgtVDJaQWd1RGM1bmdMZmd6X1pOVmxBdU1YNWJHaXdIZVFHdnRCeG5jbnQxeFc1dkc4VnROMjAxTzBPcmkzSkkxRG9xOFlCdUl0OXY3aE1Qek1rc3FTLVdEVFZFa1pCTWJqVXFDdTRpZ2tjbklESmJKV2ttb3RWMFZPeUx6akN4VDN4QnpQZEpndDAteXJxblhNY1VZSkdSa1dxRWlYMHNQb01Ob1puTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.firstpost.com/sports/football-news/champions-league-real-madrid-manchester-city-jack-grealish-12571582.html",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          },
+          {
+            "title": "The incredible Camavinga, the space-creating Rodrygo, and a questionable press against Manchester City - Managing Madrid",
+            "published_date": "Mon, 24 Apr 2023 07:00:00 GMT",
+            "source": "Managing Madrid",
+            "source_url": "https://www.managingmadrid.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSVByMWpRRVVQaFRTUmNFY2hQblRUdk5zTEFxbGZ1NW9zMXYzcS1oelhXOEVBMzZWSHN5OXFFaHlwTEw5QnRvd3RyOXZNYlJBNHRiQWFQTWFQVmpOeDN6YlhaNW40d1RVcTN5aU1kUF9NSTdOLW96VWFWVlJwMGlwWFNBcjZ3UWc0eEpDWWtVNXg5RTVFUWNiS2NEdjZuc0FPUlVmWnZrWFR1bkMtQm1FQllMR0JMbFh3MzBhb2ZWRkdhNFpxYXFPa0ZPbUx3QnJGRkN0YllZNmJkd1gxczV0QjJQaFY?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.managingmadrid.com/2023/4/24/23652160/the-incredible-camavinga-the-space-creating-rodrygo-and-a-questionable-press-against-manchester-city",
+            "query": "potential opponents real madrid champions league final",
+            "text": null
+          }
+        ],
+        "latest news real madrid champions league 2022-2023": [
+          {
+            "title": "Chelsea 0-2 Real Madrid (Apr 18, 2023) Final Score - ESPN",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUXMwV0dvMnBPS1dRdzhuNFJSVHZKLXFwa3dXczdOTkpXTHM4RmxGQVN1VF9hUzBnZE43MEEwcjV3OU5oSk0wcFpzMUl6Y05Mb095MXI5VHkwUWJISlhkTXQ3Qzc3YUxpcmZUcmVYSjhjYy0xbFRrSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/soccer/match/_/gameId/667471/real-madrid-chelsea",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "Real Madrid vs Osasuna: TV Channel, how and where to watch or live stream online 2022-2023 Copa Del Rey in ... - bolavip.com",
+            "published_date": "Sat, 06 May 2023 07:00:00 GMT",
+            "source": "bolavip.com",
+            "source_url": "https://bolavip.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdUpEaTlFWEo1YWg3ZDlLUmpGR1k3SmE1TnpQcU11d2tCWWJpRFpYdEc2cnRaNld0REk0cDkzWERUNVM5WFg4RXZBS1RvWkVudlpfVDNzTVZ0d21hN25RQWJOc1ZKbUZLdXdaNFA3SDF2OGhTcldIQ0taQURVMVJBbW9yNHNRckFXTVpkS2UtYlk1MS1LUkEwc1duTU9hUnVXa0hUcXRMT2wwYVJCSUpaeWVRTHdMUm1oMXJGWXJmZ2R3ZVNIdC1EY0hYUzRPMm84aG5jWW1IZ2pndm80QWZ2MmN3bERQTjFsNWFETEEtWmJKMHZfSVNBN1hB0gH_AUFVX3lxTE1nVU1sMXJjNFFVSWVSbWd6bFFacTNqYW9HOXM2ZHZqa0p0TFRfa3BHTUZCLVdKNk9Za2dPSlotWFpNVWRRbGpuSlZLOFp5T1hMdW1wTDhEOVJyQ3FlZmsxU29NNHVTcFUyaHhNR3JlelJTZjV6WTRmT2RxbzJuNmFNcXFyb3lZbUNIQk1Hdy0xZlZrWE50QTJ4N1plcXZHaHlyaE1LcXVnM2k5N0FjRXVtOE1wa0VpN2xwaThPNXk5TEd2aUVRSW9JcUROTnVJeDNNMXpiM1cwWHRUeGkwZEpOYUc5YzlpQVRDTnZjWV9JQWdUZGVsY2pBSDEyOVBjcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bolavip.com/en/soccer/Real-Madrid-vs-Osasuna-TV-Channel-how-and-where-to-watch-or-live-stream-online-2022-2023-Copa-Del-Rey-in-your-country-20230506-0004.html",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "Champions League semi finals 2023: Schedule, day, times for Man City vs Real Madrid, Milan vs Inter - sportingnews.com",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "sportingnews.com",
+            "source_url": "https://www.sportingnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNelZWeGlYUnhBX0RQNmRPZ3NzUFFNTFdBbHAwZ25RTldwV3MxWElGbWlHSzZvaFk4cDcxdDFLTDFMVFhCR2EyamtBYzN0Z0ltaUp4SW95c2l1NTV4OTB3UDdwbGZuTVBQdmFObVZxTHNpclNXZS1mS2dlYnlZWVV0VDJUR3VELWgzQktHRnJTUjFraVhEZzdOSzNOSVduWTIyd3lFTXM1NE1mdVVzamdmaWdkUk9CQUlBQXlYMF82RTZGV2o2anVtQkNXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sportingnews.com/uk/football/news/champions-league-semi-finals-2023-schedule-teams-1st-2nd-leg/s8e34p9bwuwqscucpwgkowru",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "History: Chelsea 0-2 Real Madrid - UEFA.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWFk0VXJyclNpMlA1bmVjNFVWNjlYRUN3aFF1cEp1WEZTTlRqRGtCLTJNTmtDOHM1dTlfN1QtT09XVjZ5T0FaNXc4MmExNldBMGprTzZNMUU0ZFNvMzJTOGxfZjdVaVJRaEh4cFNoM2J6RERRNnVJWnJKREhqSE54X1UySnByQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/match/2037774--chelsea-vs-real-madrid/",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "'He has to wake up!' - Real Madrid defender Eder Militao slammed by Carlo Ancelotti after basic error in Real Sociedad loss - Goal.com",
+            "published_date": "Wed, 03 May 2023 07:00:00 GMT",
+            "source": "Goal.com",
+            "source_url": "https://www.goal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQTR1VmM1VUhsS0hCbGF4OGZjMnN5Z3RtX0hyTXhKUktDN1pqUllCYkM5Z3RqREFJNjRzSG5vV29yeUVKMHhtX2pTT19aVEc4UGMyci12RE9Yd0NFTzhFUFhwQkNsQmVpdGtSTXVIbTZEX3R1ZVJSaEUxY0NhRC1MNWdBczgwTy04SHpkNVJnLVJVMTZvdmxYNFBhaWZPbVBaVGZzbUR6dHFLdjU4SGFVaE5PZVYxQ1YxWlBiQlJtTVpHTmxSQTl2UHNsbVNWblBtSG9yMl9aVFlsN2ZzNk0tbHRTZ2Qxc1BmdUxEcVIyM2Nlc1NwQnRBb1lGTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goal.com/en/news/he-has-to-wake-up-real-madrid-defender-eder-militao-slammed-by-carlo-ancelotti-after-basic-error-in-real-sociedad-loss/bltcee873d326bb1188",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "Chelsea vs Real Madrid: TV Channel, how and where to watch or live stream online 2022-2023 UEFA Champions L... - bolavip.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "bolavip.com",
+            "source_url": "https://bolavip.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcVBGR1MxTmZhOVlaMVlaaklmdGZ0UmRJVGhPZ2lhdzZzQmw1cWltb2JFNEpvODhNU3NrTDJzMnBVVm9sVWlSR1RUaWVlcXBiX1RLVFAycmxDV3doZTctUE5HRlE4c2hrVzZtdWt1djNyd3MzUi1SZkV5VnRsYlRTcTRlNGlMcHFRaEZQeTZWalYzbGpYMVdOd2N2aDlJYTdwaWd3TWtPUFF0b21SMVJhckYtNzVhTVJvZDJfU3p2MmEwd0J0Y2xUQXdKaXREbDBMdGRraWlBY1ctWklyVnZ2dFM3c3B6VTJLcHJYYTBvbzdlSHhIR1phZTZJTWh0aFJMczlheG5B0gGLAkFVX3lxTE4wMm9JZXViUVFaM2FDUkRmZ3R0Qk9Xb1B6SjNiVThnVFJlTW5YcDFHOHBVVGZpN0xySXk0RVNwRlJjdTFpVkpWRV9GckdtRnktYmdwdlhDUVdMNVNkaGZkWnU0S20zUU5adXZSWGJjY2J6NFgza1lXZ0M4dFhBMWYzT2VVY3diZlAwYnA1X3ZQRWF2NWlhLXVNZTZZVGMwRDQ5eVVTdEdWRlQtdnpnT3pYV2cwM3NwamJSZ29Qbm5ranQxeVZMNks2TWJybTlwam1MdVU5R1VMVlZ5UEpERENPdGdna3pHOTBzdElQUFFoTVZZaGZoQTU3bUdYa3N4Yks0V3IwdFdxTzFVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bolavip.com/en/soccer/Chelsea-vs-Real-Madrid-TV-Channel-how-and-where-to-watch-or-live-stream-online-2022-2023-UEFA-Champions-League-in-your-country-20230417-0021.html",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "These are the teams qualified for Champions League semi-finals - BeSoccer Livescore",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "BeSoccer Livescore",
+            "source_url": "https://www.besoccer.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0YwOUM3N0pvcWxJam1ZSUFqYkZOeFdJcmRyYkhrbzg3ZDJjRnVFZ3NSTks1WWJfcndlM0Vvdm5SRGJNTnhwVWR0MFVIWWdvNXVlcmctY0NJa1dzSnpOeXJoX3pYWFRlWnlYV3FQSnFDcDFlMlF6RlRGOWNDYnQ3STltVmpyRFNTX1BWdU8xVGJWYjNYMnRsejlKZzVXMlI30gGmAUFVX3lxTE5NWEpzdF9udnJJSWdybk9BRjA3aHBNQ2xXdG1UeUt6MkI0RGlhaVJBa2NEZlpha0cxcjFSU1BLN2ZMWDBzS3Q2S0kzWnM2SGJpMnVHTEY3SFViYkd6T2daRy1JQlU2NkhvdmtKOEo5LUxabEtINm41bEl3bUhsWXk1WnA5OVFxYnZtY0VsV3pxNExNZHNkRzRYOXhRdmV5SmgweU8xbWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.besoccer.com/new/these-are-the-teams-qualified-for-champions-league-semi-finals-1247244",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "'It's not my fault you thought we would win 6-0!' - Pep Guardiola takes exception to reporter's question following Man City's Champions League draw with Real Madrid - Goal.com",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "Goal.com",
+            "source_url": "https://www.goal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONHNaYVZVLXZNS3VrazhsT2VxY0ZGd2owMF9iNHU2SWNrOHdZclgtWmV4Z2NsQUtZN0NkSXl4UUxNRWNOMFZWZ1huUGNxcEluVEM3WGRqSjBYN3R6RzRoSW11QzhWSE5OeHB0MEQ0dm43N3ZNR0syXzBwTTBUQ0QwNWRwaUtjLWVTaW5CNWtFTkMyWmdGUkd4ckhycDB6X3hvdDJOOC0wb0FfUUNEV3dfSEw3Zkc1b1JEOUJ6VjZ5RS1leW1lRmV1bExLaDdfZzJXWEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goal.com/en-qa/news/pep-guardiola-exception-reporter-question-man-city-champions-league-draw-real-madrid/blt01b26f6476ccf58d",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "AC Milan vs Inter: Probable lineups for this 2022/2023 UEFA Champions League match - bolavip.com",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "bolavip.com",
+            "source_url": "https://bolavip.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX1NpTFdIaktoNmZKajB4cGV6TkR2ZDZDbXhlaHZoenFVcWxxSkxpVEtFR1YtNU5CNkVKRDl6RDZjN3R1UGdoaFpwc1h5RmUyX2FMREc2M3R0OGhZRl83U244V2tCRVhTdVBLNFgyVTRMNGhrLXBNcEJMbzBfSXFsNEZsUmtYcmJRMmlpbVF5U1RQN1pFaDJkb3JVaDROd1U5ZDJxekl5M09TZFRGRWx1OWhKU25zMXBqNXRiX0EwcHhQTUhUZlFFNtIBzgFBVV95cUxQM2F4VlFHUi1uLXlsLVBsazZJZVk2eml0RzhFM2gwaDZkcG9QZEdtQ3VUdWx5WHZtNVV6WjNTQnl5SUk5eUlzUnp3MUJ0N25GaDEyRURhLV8zWGdudnVzbzgtMi1sTEUzVE1Dc2Z1V1IxUExBci1aVmVjaVExazRsb2l0NzdsbnJRd24xaUxUUlZXck5valdDdV9LZ3pvd1Y5NnRTWHVicGhtelEtTmFoenI0ZEFqQkc2MkR0Y09TWkIyNVp6TXRhR0Y1aHl2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bolavip.com/en/soccer/AC-Milan-vs-Inter-Probable-lineups-for-this-20222023-UEFA-Champions-League-match-20230508-0021.html",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "AZ Alkmaar's achievement: 2022/23 UEFA Youth League at a glance - UEFA.com",
+            "published_date": "Mon, 24 Apr 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeERRYTBwdk1BZWJ6bUN2clM4ZHJYTjV0UWFjbWo1NDlOYkxhYVJaelZmMHc5WjIyWWFEZDEzcm9oUE1LMzhvc1dpdjFsTFZ1ZDFzbHl1OF9KRmU3X0VtWUNEdWpkWV82NDRGV25zTUQyQWduOHp4bTZIMkJzVllWNnZHSkpxS3dIUmJ5MUE5MmFrUldBeEo4SGJGd2NvY3Q2dTFlelZtS1VQaVNuSG5RNXNoUC1kOTh5bEJHUmVOX19ZVEJxQUtDMV9ZbUpvakFoZUxj?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefayouthleague/news/0280-17daf5fed42c-91856b9311fd-1000--az-alkmaar-s-achievement-2022-23-uefa-youth-league-at-a-g/",
+            "query": "latest news real madrid champions league 2022-2023",
+            "text": null
+          }
+        ],
+        "upcoming matches real madrid champions league": [
+          {
+            "title": "Chelsea 0-2 Real Madrid (Apr 18, 2023) Final Score - ESPN",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUXMwV0dvMnBPS1dRdzhuNFJSVHZKLXFwa3dXczdOTkpXTHM4RmxGQVN1VF9hUzBnZE43MEEwcjV3OU5oSk0wcFpzMUl6Y05Mb095MXI5VHkwUWJISlhkTXQ3Qzc3YUxpcmZUcmVYSjhjYy0xbFRrSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/soccer/match/_/gameId/667471/real-madrid-chelsea",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Top five Real Madrid comebacks in the Champions League - Drexel Triangle",
+            "published_date": "Fri, 05 May 2023 07:00:00 GMT",
+            "source": "Drexel Triangle",
+            "source_url": "https://thetriangle.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54V3JzTWNzZGRUR2pRcjY2eGV0RzRZZDA0bmY1V2dQX3ZpUzMtZkZtcmJRMzZZVURMWjJDZHF2a011SEtJWm1wd0FfckJzbFZXdjd0QktUejJGd0lOOGRMLWVPNjVhMW5TeXVfNE50cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://thetriangle.org/article/top-five-real-madrid-comebacks",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "CBS Sports\u2019 Multiplatform Coverage of the UEFA Champions League Semifinals to Feature Three Matches on the CBS Television Network and Every Match Streaming Live on Paramount+ - Paramount Press Express",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "Paramount Press Express",
+            "source_url": "https://www.paramountpressexpress.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNTA1cWJJMU5oM1dsbGpMYzY3TW9JVGtGNzd1M3ZuaENVLTQ4dkh4WE5JRXR2eTNoUnNBQXpVdFNSMHJucUpkdldhclFBQURJWG9lbXlkNzZaSWFEUk5GYmhKdG5vTU5fUnlScHJsTGVKenZuZU1qSGV5UDhmOW5NYkZGWmJ6bEwtMnlrZEw1XzlXdXRkNkNKNHFLTXJPU2REVXdYc0dybVhxdWlMSVc0NVhKVHNPZFBpaTZWMTBZWC03QkpVMkcwMnVMVlgtcHBTZVVTTFVRZ24zTXNLWE91ejhraEZWYU1HYzU1ZHdUdUctdmFJX2ptMWhFeFZ3TWFDcVVvWWlMZTNIS1hyV1NUaUJGU3RITmxNbDJTZ1VpNWRhRnV6M3JNSkZTMTR3QjhMS0VKcUlsWE9IWWlBcTlqRHhlQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.paramountpressexpress.com/cbs-sports/releases/?view=106517-cbs-sports-multiplatform-coverage-of-the-uefa-champions-league-semifinals-to-feature-three-matches-on-the-cbs-television-network-and-every-match-strea",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Why a U.S.-hosted UEFA Champions League final is no sure thing - FOX Sports",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "FOX Sports",
+            "source_url": "https://www.foxsports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUxETUcxVENya09rUkFZdWVqajJVUEt1eVlocDU2c0NMRlZNb3kxcGtkSlNDSHpkQnZJWUtVMmZ1WjU1d0ZSUzFwV3dheUFCR2s3Wm5CQkRuX04zZlRwZmNMVTZ4VkxkTHFRNXd1YnZ2UE9WUlNtQmxBMTNqRWx3T3Q0Y3dreUhEck9HVV9pX2dBQjNkQkFPa2ZyZFZSLUpCT01hWNIBpAFBVV95cUxQOVZjdDBCbGR4cEFKWVhKMG55R0pZUmZkQV9MLUthdG5lWUx0Q0QwTWFqMHBSUG02NUxEYU9ZZnpYZzQ2MDVxVEw2eUVZcGtLWGg0UnE4Und1Uld4WDBYZjNubDJQN3g1bkVwSTc0RHFldDVTMVE3b3dXenJBYmpQd2NEWXRiN1RtMlNpWlA5ZDdYdlNNVGhmblVjTnBVTWtUTmtISw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.foxsports.com/stories/soccer/why-a-u-s-hosted-uefa-champions-league-final-is-no-sure-thing",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Champions League fixtures in the U.S. \u2018possible\u2019 \u2014 UEFA president Aleksander Ceferin - The New York Times",
+            "published_date": "Tue, 25 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWEyXzRJMVpqckV5UDBUWUJYWm5wRDdwUm9hZnNCNW1fVU51a1oxTDg0bVJjR2ZsVndYbm1JbGdoMjlOYTV1ajZUc3dNczR5ZTB1WGY3LV9nX2JSRDhrbGpLdlNLMGEzckEzY21ySFBBcDVaTW5vUUF4dWVRV0p3b3hOTHMwMEtlMGZEY2VyOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/athletic/4449406/2023/04/25/champions-league-usa-uefa-ceferin/",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Chelsea vs Real Madrid Champions League quarter-final preview: Where to watch, kick-off time, starting line-ups - UEFA.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzVCc2I4UWRDVWQ3NkpoR1pnZmRXay02cVpFam1CcXVlcEszSHZWam1icG9FS25BZHJqWDJ4V0FodGZjOGd0SnNZVDQwVWIzeFVudWRUeHhqU2JTcERKa3RZbGFtUWZFWHNQcUZYYUlqNlR3NzhCQlYyenptRkZ4ZkwteTlJTEdmWjhNRTAtWWN6bHRUQVc4SkF5SlZBUEVfQTZ4MVVEYUtHMUhsNFhUbUd4cTlsMnJEMWNUOHBuc25KSVh4WkVrS1FKS29PWU5XeXJFTnlTWTFMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/news/0280-17c44f647e7e-759e88dff120-1000--chelsea-vs-real-madrid-champions-league-quarter-final-prev/",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Dates confirmed for Champions League semi-final clash with Real Madrid - mancity.com",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "mancity.com",
+            "source_url": "https://www.mancity.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVlCaTZJWGJsOGpGOVdpSUlUeHhqRWZmbU90R3RYRUxyTy1IQnYydmZRbGRFeWpkZ2c3c1JzbEt3d0FROU9pbjJSejhlcDNzeEFWYkNHeU4wU2kwVUpSNlMtaWJ3eWFsLWF2UGQ0N1dEZndwX1FWa1Z4NnVqWXRuTVZWeEJoclM4Xy1SaWhnT1FGZ2xC?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mancity.com/news/mens/man-city-real-madrid-confirmed-champions-league-63817521",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Foden feels confident heading into Champions League semifinal - Diario AS",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "Diario AS",
+            "source_url": "https://en.as.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnhMaTM2TTQ2eU9mbzJnakhGWEtIVWZNOWRxSFZhRUlocG5nTTRVMUVSd2s4blRDLWZjTU1zblplTjZKYlAxWTEtWjhwenpXeUVTQzZPb21TZEEzZkRuRVVEeFFtaGZSbUV2VVk5b3FqbEhSVE5YbndCeW9jM3A1bWZJZ3lyam45OU1aS2JYVHBaeWvSAacBQVVfeXFMTW4zSF9PSUhxNEhwU2NOTmFBQURHZHEyZDdoZUdZNUhkRlB1SF9FUG9vZ3FYSldZQ21ON1ZqZW9EYzRfR042TzlrNjdNa2ZaOE5vVnVBV3d6dDJkSjM1a0hMOWF2ZGNkVENuVXBXekJ3Z2ZsWWxUaXpPdTR6SjRuWEpvQU54ZjhKUGNkaTU3ZE1BOFE2WFVoR3NTM2lIT056YUV2T3NTXzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://en.as.com/soccer/foden-feels-confident-heading-into-champions-league-semifinal-v/",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Champions League: Real Madrid, Manchester City draw 1-1 in semifinals - France 24",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "France 24",
+            "source_url": "https://www.france24.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUldPSXhXYjJmXy1jckhrcklZendBdUR1MWdyVTRLaTBJeDVteGVKZW9JSTRqS3lHTV9NMVZ6cUlIM3F1NmVlVGdEXzBpMlh2NGQ2N1pnX1JTMGZHOTZJY2dvTE9RUXkxc0JJSmFFc0pDOFdJTUJkb3RGRXcyUWRnN29zNS1OTVZtZ3V0V1BrNHF4OVBRN1FKeg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.france24.com/en/europe/20230509-de-bruyne-rocket-leaves-man-city-and-madrid-level",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          },
+          {
+            "title": "Real Madrid vs. Manchester City: Preview, date, time, live stream and how to watch Champions League match in Canada - DAZN",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "DAZN",
+            "source_url": "https://www.dazn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbG55QXZpY2dYTXNCVjllWTBGWk9jQmwzekxoZGR5eVR1Zi1FNzdpeHItOVgtRENkVGpiLU9lV2ZxXzZOaGo1OTNXemZqQjlFejRKVld6MENSTlRHSk1SUnR5R2VRU1dMVFNwQzkzYUpKd0M0RDl2bi1sUGdFb3BvNC1lSWMxNl8tdnFkS3FVNlNjRHhBa1NOOTJCYUpkTENFei1OR09WcjdOSklFanAtazFCQkNkY3BacnNnZ1Job1R0S2xubTYwQmJLSk9oOHhVX0pZX1Rkd0ltTGctY2YtbU9mZEtsNmc4MHg3angtQkJ1ZDAtRHZwTVd0V3BRaC1aYjdFWDhn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.dazn.com/en-CA/news/soccer/real-madrid-vs-manchester-city-preview-date-time-live-stream-and-how-to-watch-champions-league-match-in-canada/h9iizvhdth801qirodsdcwlyj",
+            "query": "upcoming matches real madrid champions league",
+            "text": null
+          }
+        ],
+        "key players real madrid for champions league final": [
+          {
+            "title": "How Camavinga switched from midfield to left-back and became one of Real Madrid's key players - ESPN",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzNhM1FBVm1yczB2dGNodmg2T1hLbXdfSjRieWo0dnJqTk01cTRvRl9XMl94UEFRbzlHZThCNUlRTGU4VjVGbVRRV19BV2hJNzUzeGctTWprZzBnVmhXZFJYSHhXcFZxaGVJY1E4U3NQNmVnbElCM1BDVkpwb1hqSWQwNVJQbnRpaWozZDVWR3RPNTJ6MzlVSHNNZXp3bWk3OS1GWXJ6dzlSZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/soccer/story/_/id/37638677/how-camavinga-future-real-madrid-midfield-switched-defense",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Top five Real Madrid comebacks in the Champions League - Drexel Triangle",
+            "published_date": "Fri, 05 May 2023 07:00:00 GMT",
+            "source": "Drexel Triangle",
+            "source_url": "https://thetriangle.org",
+            "google_news_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54V3JzTWNzZGRUR2pRcjY2eGV0RzRZZDA0bmY1V2dQX3ZpUzMtZkZtcmJRMzZZVURMWjJDZHF2a011SEtJWm1wd0FfckJzbFZXdjd0QktUejJGd0lOOGRMLWVPNjVhMW5TeXVfNE50cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://thetriangle.org/article/top-five-real-madrid-comebacks",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Real Madrid\u2019s David Alaba expected to be fit for Manchester City first leg - The New York Times",
+            "published_date": "Thu, 20 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPODNINEhmZmduTF9zV0p5akZXQ2dyWmpnMTUzQUNjejB6bTlMSmZOVEl1aFVnMm1IX282dEhZcWc5TmsyMTZIZGJCSTVGM3BSa3hyanRYdDRob2VkbDlLeXZ4YjlFR2Y3b1gxWEU4X1lrM24wQ3RXTzZMNkFkSGQ2QllEUi02NDczNkZzRUJOWk5LazVQT09J?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/athletic/4432170/2023/04/20/david-alaba-injury-real-madrid-man-city/",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Champions League quarter-finals: Meet the teams - UEFA.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHlJdm5pbFk1ZWZXSjJPSVpQX3ZBQVNUMVgyaTM1T0h6ZVdXbjZ6TjIwWjlXdGFFZFBJaDJPc1kzSFhzbEQtM2FGT0pWWlNXSFlkZVlYTDE2V2ZRNHNZLWNvaGpNY2hQdXJZTHU5S2dEcUZsNE8ydTBsWThVa0tuTElYaXVyeHo4TDVEdTc4OW5XQzR5X0ZWT1hHR0I1anJiQzVwVURia0lYTWY5bjdTdEx3aEFLdVlTTUU2SlJ4WTlDZFhKWmJqbFhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/news/027f-177ac634b10d-322143ff6ec8-1000--champions-league-quarter-finals-meet-the-teams/",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Rodrygo: Man City can't afford to ignore Real Madrid's Champions League-loving Brazilian - Goal.com",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "Goal.com",
+            "source_url": "https://www.goal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd28xRV9MSXNTcmpTQmpKZWlISy1lSzNBbHg2WlQ1aHJ5VUJrYnE4MTJnMklMZ2F6NHVkU0FaUzU0TFVXNXVBdFRxX1NzZ2V1X0NlZnBHU1lKR0t3bEtpN09IWTNycHUyYWh3TERJMHpza3ZWQW4xdFoyZjNOMkc0UVBOQzkteUxvRTJnbnZKOEdsMk1wT2lSVVpKNzlyOEZRRWF0MHNsbEFNdmdTT204azdRRUZGWnVJUE91UG5wcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goal.com/en-us/lists/rodrygo-man-city-ignore-real-madrid-champions-league-loving-brazilian/bltc41db1bf11b2d999",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Luka Modric injury: Real Madrid star could miss Champions League semifinal first leg against Manchester City - CBS Sports",
+            "published_date": "Fri, 28 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcm1fZHhEU2w2dUpyWEN2S0ItVmZLc1lHRThDdXVGdU1RZjRyWDRSWXBhUVE1T25qaVJTQ2ZSMmR0bFVPWmQ5Yy1FZVdKS1k1RkNGSzdNWUpjakJyRzFSTElWRFJiN1U4QkZWOEh2WHlFeF90UkdFMndpZWVBbU91WmJ4alFOMjNoXzJiUWt2NjJkandEOVhSRmhBUWJtbjlUMEJPREMzcHFHandUb3U2THFOcjJqcVZ4MmtzR0lMQnI2U0NXWnNmc2FUa0lZQVdrdUFXUXlReko3OFF0Nlo4?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/soccer/news/luka-modric-injury-real-madrid-star-could-miss-champions-league-semifinal-first-leg-against-manchester-city/",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Chelsea vs. Real Madrid - Final Score - April 18, 2023 - FOX Sports",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "FOX Sports",
+            "source_url": "https://www.foxsports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkxuS2ktRnhBRkpwYktFc2tzVnh4cFp6T0VMUks4eDQ5bkN2OXdhZnBwZUh5bTVzSjY0RnZCQnh1YVloQmZqVFRFNU41ejdwS0h2V25SdEEtRUFsSmNZTzNvMEtiZV9GWDRSRkVUZVZQeVFTY0lzc2J0bVQzQkpDTW9vRTVHTGs5ZWxTa2FCVS1zTXlralpsYmhUQXMtZVdDcWFFa2VpakM?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.foxsports.com/soccer/champions-league-chelsea-vs-real-madrid-apr-18-2023-game-boxscore-117613",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Eduardo Camavinga wins battle vs Bernardo Silva in Real Madrid\u2019s draw with Manchester City - Managing Madrid",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "Managing Madrid",
+            "source_url": "https://www.managingmadrid.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTRDSVgxRVhZVG5EUTYxLWIzVVdlcG1HZGROb2pGQUlZZDh6SzZTZTFDVjBRMDVvRG80bWdoLVZOdFRObWpZX3JRUlhWTWU1TXI4VVp4OTdib1FzVk1wd0pfWVdobTVsc1REbDQ0Z01YRFlsSlo1QVlqSE9BRlczVUE5MzlZQWlTTTBPOTh3RS15TEFOLVZGZW4yYUlPcS15aC03N2xJSElOVXpKUGZKV1FGTVl0SWJjajhaSlhkMkFQRkgzQ1NDNjlQcDBkaG45OVpvSUJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.managingmadrid.com/2023/5/10/23718403/eduardo-camavinga-wins-battle-vs-bernardo-silva-in-real-madrids-draw-with-manchester-city",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Real Madrid vs Manchester City: times, how to watch on TV, stream online | Champions League - Diario AS",
+            "published_date": "Mon, 08 May 2023 07:00:00 GMT",
+            "source": "Diario AS",
+            "source_url": "https://en.as.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUERjc3BJVWdQNVZnRzJJc19UYXZRRjRQd0g5enlIUmJ4ejE3S3FhSzUyUklmcXlHOU04T1NUbUtRejRKY0xCRl9GQzZWUUtGZ3hyc2xLelQ1cmxkd0NDUjM0Y3dicmdUdlZHcjhNLS1zYjJqMVNyZUIyejU0MEc2TmE2bzJDQ0VSbXBoekFaczA0NmlycmxNSnhYSmhvLW0xc1hiY05icHJUREpQc0VYNU1sQlQtd0HSAcsBQVVfeXFMTk9pVWZBLXgzcllMWVAzQ1BLcFBsaG9SQmF6NXpEa2FHNTROb3dlVDg5SnZCNGtnQmdYbzZSV2hEcFgzSnZ3WnpZczlTV2NxT1FvbXYyWkdOZWxUZHd1M1RhREw3cUkwUHFiYVZjejNXX09xc2xES0JLNE1rc0hHM203S0UyeWN2U3o5Wko2b1RRZjZFYkRDMU1lOVd2N3YzVzY2eC1pNGVTaWpZb0J4LVZBNkpKNDdQb1dzUm41TlF6aUVOMjBpWWEzSzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://en.as.com/soccer/real-madrid-vs-manchester-city-times-how-to-watch-on-tv-stream-online-champions-league-n-2/",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          },
+          {
+            "title": "Croatia\u2019s Champions League Dominance - Breaking The Lines",
+            "published_date": "Wed, 26 Apr 2023 07:00:00 GMT",
+            "source": "Breaking The Lines",
+            "source_url": "https://breakingthelines.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWxJTzZCVWpxVkwwaTBBc1FTdlZEWVJQU3dXemdNQzd4NVdPUU43X0JtdFp5WExkWlN6eTZRQ0NXQW15R0FRclpwUzNSWGVvMl9oUXhhRzJPSkdNdUVpTVI2ckRlRkhEdk5LUlVrV0FiMGZ4cGJfQWx0OTZOWGhnR0VB?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://breakingthelines.com/historical/croatias-champions-league-dominance/",
+            "query": "key players real madrid for champions league final",
+            "text": null
+          }
+        ],
+        "recent form real madrid champions league 2022-2023": [
+          {
+            "title": "Chelsea 0-2 Real Madrid (Apr 18, 2023) Final Score - ESPN",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zUXMwV0dvMnBPS1dRdzhuNFJSVHZKLXFwa3dXczdOTkpXTHM4RmxGQVN1VF9hUzBnZE43MEEwcjV3OU5oSk0wcFpzMUl6Y05Mb095MXI5VHkwUWJISlhkTXQ3Qzc3YUxpcmZUcmVYSjhjYy0xbFRrSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/soccer/match/_/gameId/667471/real-madrid-chelsea",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "History: Real Madrid 1-1 Man City - UEFA.com",
+            "published_date": "Tue, 09 May 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjhTRjFGNHZfY1JPa1laeWlwbHJ4REFCSXBRX2N2Vm5MYnFPV29Qd2N6QjhzdlJmYWxtSFpnaks1Ulg5NHRKNWpSTTRTTXdTWWJWWmIzUjVVR2VPRGlCSV9uZnFZZ3Jzb2piVTVzLTVRcjZhSFktWDR1b3BjTFlsSDlDNFFQaXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/match/2037797--real-madrid-vs-man-city/",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "Champions League semi finals 2023: Schedule, day, times for Man City vs Real Madrid, Milan vs Inter - sportingnews.com",
+            "published_date": "Wed, 10 May 2023 07:00:00 GMT",
+            "source": "sportingnews.com",
+            "source_url": "https://www.sportingnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdzB4TVo4MHZNLTJrdW9XaDRLMl9NT012aHl0QmxJYU9va0xaeWduX1laem5SeVc0dlRUR3hyRTR3T0Z4MHN1dlFPalFuNG4xNFdTT0dZcnNmWTVDcEdSbTc5N1RHMUpYZTdVVjNGWUg4N3FvWk1ERW5WSm1DRmx4aVpoajRHdjY2Q3Q1MWctbmoxMkVEOHNoNkhsT1p6MGF2VmVrRVhxYmlNY0RKY2dwS0ZIWHRxd1h5THhYdzBoSTR4b1JDWjhlUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sportingnews.com/us/soccer/news/champions-league-semi-finals-2023-schedule-teams-1st-2nd-leg/s8e34p9bwuwqscucpwgkowru",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "What Is The 2023 Champions League Prize Money? - AugustMan Singapore",
+            "published_date": "Tue, 25 Apr 2023 07:00:00 GMT",
+            "source": "AugustMan Singapore",
+            "source_url": "https://www.augustman.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjhjNkM4cWtqeVNtWVhhYkF1S0Z4UjJPSXBzcW51c2gxUTBBYzgtTkxPQ0V2RWl2UW1QRzh5ekxPN2tXeHlLSWlYSlJSV0JtYXF1YmRmeGloRENHMkRxbExzeGVaTEoxQnIzTk9RLXlWQnlIbzR6ZTZoSXBfN25tUnRjOXNtdnRJT0wtQWx6QjZuc0psdjl30gGcAUFVX3lxTE00MU93TU9mRUJqOVpscXR2SkxETmpVUTFvTW0xamFoSkZhLVZJYTN6dUxIWTJfQWViXzFLYkY2RVRQaFFUamtYSXpMQ2M0MzhNbHQtWmJsUHgtMWpDcHBCWVVwaW9La0FaVmtUd0U4dnlNNEJDTGtQelR4NElPUFBmNlQtTm5JNjFuV2NLOHI2N21iZWJsU3g1eTluYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.augustman.com/sg/entertainment/culture/events/2023-champions-league-prize-money/",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "'He has to wake up!' - Real Madrid defender Eder Militao slammed by Carlo Ancelotti after basic error in Real Sociedad loss - Goal.com",
+            "published_date": "Wed, 03 May 2023 07:00:00 GMT",
+            "source": "Goal.com",
+            "source_url": "https://www.goal.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTEp1R2Q0UDJzOTR1UTl2ZjU2bHduS0NvVzZ5cDlLaTFDc1NldFhWZUNMSEJsWlZ5d1JxNmdGMFppMEktT0tBNkN5UGZyaUMwVEZkcW45Y0tKbjR4MXR3ejVVT0ZYNUJVemZqWm5zMXZmS00wSUVOWlQwbkVDOFBwUndGMi1tajdpd1QtY0R4aU9zLVpzbVVLUDhhT243ZnI1MjVfRXZGX21hbWh1QlhORTR3Z2tXTWN0TGRaTHlIUlVZRlAta0J2eTJPM0ZGRDdkZnI5OTE0UXJFSjFsQ2VQQ0FLRThwTWJ3TWNUMkxsT0gyaDRHNHUzVkFvNEtlaVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.goal.com/en-sa/news/he-has-to-wake-up-real-madrid-defender-eder-militao-slammed-by-carlo-ancelotti-after-basic-error-in-real-sociedad-loss/bltcee873d326bb1188",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "Napoli vs AC Milan: TV Channel, how and where to watch or live stream online 2022-2023 UEFA Champions Leagu... - bolavip.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "bolavip.com",
+            "source_url": "https://bolavip.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWXNvVU9zTk5uc21paWRhX0VYbDNNZzNoWVFtdEtaNU1JbE42aDczMGl1cmpMNmpyUlBOeDBTS2M1MWhvdllscUY1NUtjRm1faUtnVllvdElFSDZRaUg4cVBLelNPMnJjTWlfdHo5cmVydXUxWGQ5Y1M1YVVrelRQUU9LVFhPMS1aNUE2ellhVi1NWnBUQVhwY0VObjB2ajlJQ1hWV0xDcWw0dlFaNjk5Z25UdF9mcFE5ZDRxUUEySTh0aFpjZ1NTWjg1SDFWQ2szSXh0eGhwck4wYWZSVTA0Y21fQi1QYmJrdlc4VXNWTDRPbWw2UF9TX08tQ3hfRVBq0gGGAkFVX3lxTE1nRFZMRXMxZF9Vcjd0eVZ0bmx6UGY2aEc5TXc5cWhHcXZzV012Q0FfXzQ0WHFydzc1QldhVHp3bG01cjVfcmhPQlpqUTU2VERTWnlseE5LUVRVWG5jZnZ6NGdETXZBMVYyN1poZFFpc2w3MTdGb0xvQ0N2T2ppamx1bVh4MG9zX2YyeWRzaUhCeU4yQzVzOUt5ZnE4TUtmTUFPQzFhY3JfLUFUZWJTdk9fNnRtcTBLWk5GYW9tRDk2T0ZqWDZjeW1kMlRKTTNFTkVvamJNZlMtYnRxNDRGY09PUTJNWlhzOVFSeXZsTVV0OXJBVnRzVjNJRFVldHpQYjNxajlBeXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bolavip.com/en/soccer/Napoli-vs-AC-Milan-TV-Channel-how-and-where-to-watch-or-live-stream-online-2022-2023-UEFA-Champions-League-in-your-country-20230417-0023.html",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "UCL: Real Madrid Blow Away Fumbling Chelsea At Stamford Bridge - Channels Television",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "Channels Television",
+            "source_url": "https://www.channelstv.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc08xSnRlSC1EYTloeDM0YjlFV3YyTUN0d2VzYThpazVPcE9IVzh6YnZEbEpqMVpJSVlpdFNKTkRNUlE2cm5rLUJsLTdYLTF4aEhRMTdfTGdJaXIzcGlEaVY2Uk9yakRhbjUtYS1Jd1ROMUUweVBzQ3lvamNVNzdpY1ZPOEJRY2d6TGxXZ3dueGxYWmx3ZkxvSTJzX1BvM2tWT3fSAacBQVVfeXFMTlBVN1pLNFFXbGdHUTFFLTVUcjFtb0FsTHU1SVhsNWtlVTgxeFQxLXM4bG5uR0RxdE5zVktxZ25ScVgxZzdzUG5HcUR0bzhEM2pyeE1JTm44aHRrazNGaUpEYm52RFZmR3NrcExmRmtWSHNtUG84ay1IM3ZFWGNveW9ibXlOODlGMWFSdGN4NG10ZXdzQjFhR1RwbXRRTTFrM0hsM21lWlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.channelstv.com/2023/04/18/ucl-real-madrid-blow-away-fumbling-chelsea-at-stamford-bridge/",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "History: Chelsea 0-2 Real Madrid - UEFA.com",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "UEFA.com",
+            "source_url": "https://www.uefa.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWFk0VXJyclNpMlA1bmVjNFVWNjlYRUN3aFF1cEp1WEZTTlRqRGtCLTJNTmtDOHM1dTlfN1QtT09XVjZ5T0FaNXc4MmExNldBMGprTzZNMUU0ZFNvMzJTOGxfZjdVaVJRaEh4cFNoM2J6RERRNnVJWnJKREhqSE54X1UySnByQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.uefa.com/uefachampionsleague/match/2037774--chelsea-vs-real-madrid/",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "How Xabi Alonso has improved Bayer Leverkusen 2022/23: five tactical observations - Coaches' Voice",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "Coaches' Voice",
+            "source_url": "https://learning.coachesvoice.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSF9YNUxoR1F5V3hNUDVEN2s2UThaR0FuektrWUJQWmhiMXlRejM1Tnh3ZEVSdkFzNVoxaWlibTFHSVRzM2tKbEFvekNpdHhVd3RhVVV1eEh5SzlWZ1RfR0lyUTU1UGlzRzdCTmRzTnBtOFdFc2ZUTGJqZ1cwVHlHS2xDcVdvWWF2ZGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://learning.coachesvoice.com/cv/xabi-alonso-tactics-bayer-leverkusen-2022-23/",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          },
+          {
+            "title": "'Form of his life' - Lescott heaps praise on 'unique' Stones after Man City displays - TNT Sports",
+            "published_date": "Wed, 19 Apr 2023 07:00:00 GMT",
+            "source": "TNT Sports",
+            "source_url": "https://www.tntsports.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMnZPb0xRVDhKSEVVbEc3RnpOZmNnSHlRZzBKcXU4d3FJd3V6RkY2dFRJVmY2M0V1LTZicDh2S2pwT3ZxYmVkUmx0OTJ0NVo4YnRLNUFmMG5qUG9SNzAzb1NtaHhORkFDc1BoZlh3RjVfTFctbHVOMjZoODRIamhpSkxuNV9FNUllbTdUMW9jTUppVWNrRENIbWxtdXBuVGpQeFNkU1YxbGktV3RRQ3NhY2huWW1nTjlRenlMRjFJLVZ3cUdyb2d1b1pWZk04djN2UTRHV293NWdtNVNQc2NzTGd2ODE4b2x3V0hGVWt2VUo2Zy0wSXZsRTBnUHhvT3dLSFV4TENtRGJ4OEhHZ2tlY1ZpZzd0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.tntsports.co.uk/football/champions-league/2022-2023/former-manchester-city-defender-joeleon-lescott-says-john-stones-is-in-form-of-his-life-after-stando_sto9568921/story.shtml",
+            "query": "recent form real madrid champions league 2022-2023",
+            "text": null
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": "Will the #1 Milwaukee Bucks win Game 4 of their First Round Series against the #8 Heat in the 2023 NBA Playoffs?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-25",
+    "date_resolve_at": "2023-04-25",
+    "retrieval_dates": [
+      "2023-04-18"
+    ],
+    "retrieval_date_articles": {
+      "2023-04-18": {
+        "Milwaukee Bucks vs Miami Heat recent performance": [
+          {
+            "title": "Miami Heat vs Milwaukee Bucks Apr 16, 2023 Game Summary - NBA",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qWlhhMHAxaFNvLXBRQnVpYjZyR2hNb1hPMUMyWXJKUjlVQXRTWUtNalZqY3VOc3JJekxCMWVjQUYxREs1SE5IUlN6aWlkS3pUOHVlcFQ4ZDFudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/game/mia-vs-mil-0042200101",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "How Kevin Love helped the Heat stun the Bucks in Game 1 with a performance he found 'meaningful' - CBS Sports",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXFoRDJSWlVRX1U4SkVDVi1uMkQ3LUJaWFpqQWJKdXZ2TFFzOVhhTmVKSmZxeU1rdTFWdURra1oxMmU1dk5TSnhIT2c4ME4xSG5vMjdYTnhfZlhXbHRoRUNZQS1qVkh6MFBUS1hZaklpLTFfaDVOQjFxbTZhQ1U3RFdsNC1yaFNfeUE0VmVsNGtUVVVSeHl6N3BTWVRjV2ZDcmxROXpxZEFuRk1fS2pUU0FLYVdGaG1nYmMwTlVzdW9sejEyV1BCbDRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/nba/news/how-kevin-love-helped-the-heat-stun-the-bucks-in-game-1-with-a-performance-he-found-meaningful/",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Revisiting playoff history between the Milwaukee Bucks and Miami Heat - Behind the Buck Pass",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Behind the Buck Pass",
+            "source_url": "https://behindthebuckpass.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajBVTGRCc0YwRVNHcm9JVHpWSnNpLVp6TFVnUGU3WnFzN3lBOVdnWW5iWlZab0Y3NXNFeFdYNnN0dTA2MWdjMjZrNnZkNFpEbV8yUUJZUkNEcWtMdVh5dFg4eWF3TmNwVzZvYWVxbjdNV1FoT0Y1aE9nbk8tWGRTRGg1MGU1UjE1M3E3V015MElmZDRqUG1LSWdvZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://behindthebuckpass.com/2023/04/16/revisiting-playoff-history-milwaukee-bucks-miami-heat/",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Giannis' Back Injury Lamented by Fans After Bucks' Game 1 Loss to Jimmy Butler, Heat - Bleacher Report",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Bleacher Report",
+            "source_url": "https://bleacherreport.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazE4T2Jmb0o5emYteG5sRTAzWDNuYU5qcWVUaG1VR2lHRy1ZaHZqMFNSWHd4Q29wLUE3VHBOaWxQekgyY2pJYWxtSm9reXQzUEl1Rkd5eFNpVU9CTWxFVFNJdVhiUTRmZG9hNDJNaFZkQjI0VnJSR1FWaEVNMW5LaFBJWE10N1llSXFGU25qLS04OTZabXRwcmhLY1JaVzdrVVZuTkQ3dzRTem9SbnhfQlRDMWlqX1c2YWg0aUxWc2l4bDFT?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bleacherreport.com/articles/10072629-giannis-back-injury-lamented-by-fans-after-bucks-game-1-loss-to-jimmy-butler-heat",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "2023 NBA playoffs: Odds, picks, betting tips for Sunday - ESPN",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGIxZkpQRUExbWJ5c1ZQZVhhOE5ZVHliYzhqcHJtdVUwUGduNDV3U2g0SXVidGVkbW1iU1RjRWV3eXBtSkdsai1WR1B4dWtXaktXYkJPb09zbHRIUE56YXBWczFZUkR3SFZnVXNQVXVlUFJWVnFUS19hWjB6ZVpabmpSdS04eDM0am1XN29sVGhOZEE3RlB6UTFQS1hXc2lZQXdaSGJlVUlVYjdDVFZoTXdXbzVtdlpCRTF1elJuZl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/chalk/story/_/id/36206174/2023-nba-playoffs-odds-picks-betting-tips-first-round-game-1-sunday-04-16-23",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Giannis Antetokounmpo And Ja Morant Suffer Injuries To Start NBA Playoffs - VIBE.com",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "VIBE.com",
+            "source_url": "https://www.vibe.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1kycDhpd0dZeHVvbjlMdF96LWtSNzA5OWduWW5zVXpwbXNXNEthU0U0N3NXQS1saE11MHRsaEhEb2dXXzZIZUtNOUxtU3doeHFXR0FWWVhnVFRTNWNXckU3YXZhUS1Ha1EzSUlXald3bjdJNUJ6MUt5NHBxSUJQMTFKZUoyNVNUSUxmbzhiUHFXVld1LTFYdTRUVEgyZnBZM3F5VDgtMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.vibe.com/news/sports/giannis-antetokounmpo-ja-morant-injuries-start-nba-playoffs-1234749326/",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Bucks vs. Heat schedule: Updated scores, results & bracket for 2023 NBA Playoffs first round series - sportingnews.com",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "sportingnews.com",
+            "source_url": "https://www.sportingnews.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaE55SzJMZUo5bkEzUm9SWk8waEh6NVdMOHVPUVNFNUloUmVxSTEwWTZaV3RYM0x1a3h6SHRuVFkwWnNtQWtoNnVDWVRjMXFTaW1nbHB1U2lINS1EZmtaaUxzR25TVVJPb3JUWV9xcUc3SmN0dHhsZHZOemtWdXNfeW84VVl5bWRsWjhKOEVld2R6Nnk3LWVQWGlqYWFKeHZ0aHZTRkJGcnpVdU1OZFhpVHBnWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sportingnews.com/us/nba/news/bucks-heat-schedule-scores-results-nba-playoffs/jnyif3nmz1wpoldlijktktty",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Giannis Antetokounmpo injury: Bucks star returns in Game 4 with Milwaukee down 2-1 - SB Nation",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "SB Nation",
+            "source_url": "https://www.sbnation.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0IyWENLSjNCN09aZ3BEVVV1UmZ4cU9YN1RndWY3UGpUeEpLWEJYbWo4WExWb0hhcVU0c2p5aUI2Y0NJdGg3WHlZelY2bk4xTUZHdnhxdmtDNFlHcXNFbE0wSWtud3NGMWotbVkzdFRLOUo3UFE2ZWxDZ2FaQm9hT25ILXA0TmVMaXN3LUhibmZWWF9sUzJKLTlRc29wQUhlbXhzOWdCTTljRkpOM0d0V0k3STA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.sbnation.com/nba/2023/4/16/23685728/giannis-antetokounmpo-injury-bucks-vs-heat-fall-video-nba-playoffs",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Milwaukee Bucks sweating on Giannis Antetokounmpo fitness after horror injury - The Mirror",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "The Mirror",
+            "source_url": "https://www.mirror.co.uk",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hRanFadkNGbjZ1WUtObU5FR1lVT3NSa29kMElhS2JIZURELWJpYkNtWjQzS3hhekxHbm1FQi1OcmRYZ0xXVGRIRzQ0bTlVOURkWEs5Ul9FX2ZYOGtzVWFIMjY4WExVdF9HcWpkS1RIRDBSR2xVUkVjYXdMRC0zTnpwcXQ5RlhTSHg4dTdOQXBpTEpJY2J3NVI5UnlnYVZ5SzR5OFk2TzNaUTVrdWdPODI1c9IBuAFBVV95cUxOejJsNHotS3FpRFVjeFVGZ3R4QlZZZmYyaDFVOUZDemxjYTctTG02am5hVjBTczVuUzNaZ2RNSVdvT3Uwc0lZeXpxLTl2Ul9iS0YwcHl4Tnh3QzNoVkJRSHJNcUF6UVI5bFhIeHowdENCMGcydUJOeWlOZHZWUkEzWnVIclNOc1owY05ZaURPYVpNQ1RNUnhkR3JNV2VaQmZ1S3dNeEd5WVluOU53bnpIZ2Fnd2pXN1pk?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.mirror.co.uk/sport/other-sports/american-sports/milwaukee-bucks-giannis-antetokounmpo-injury-29732344",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          },
+          {
+            "title": "Miami Heat guard Tyler Herro breaks right hand in Game 1 - NBA",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "NBA",
+            "source_url": "https://www.nba.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk1VZk91T1JFeldQV1FkM3hEMWtFZzdOcGRaX3ZhQmhEbFdSQWV6Sk8xM2ZGT19lMnhtV1RWM1dtR0pYTHFEUzkyeXpNTVRvc2laRk5HZ0xJajNsOHZ4V1NzcFlDaFQtc1FXS3RMZEJSY2tWSGFKUXJCYXVacGQ0WVJ5dU0zbGJpZkY3QXBtWGRxOGxw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nba.com/news/miami-heat-guard-tyler-herro-leaves-game-1-with-broken-right-hand",
+            "query": "Milwaukee Bucks vs Miami Heat recent performance",
+            "text": null
+          }
+        ],
+        "Milwaukee Bucks Game 4 odds": [
+          {
+            "title": "Bucks vs. Heat prediction, odds, start time: 2023 NBA playoff picks, Game 1 best bets from model on 71-36 run - CBS Sports",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "CBS Sports",
+            "source_url": "https://www.cbssports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNTBuZFFTVnVMa1p6SHJJYW1mWjJJaW9BMGt6VUNPRHNNTzFIZm54NFZIc1JEb2V2YlQyOHZjRTBPWEg2c3hoUkhORWF5Q21qNmJfelpjTGpiRjI5RF9CRGtJTDhvQlp3bXJJSEtvTGQ2QUZKXzZwbE91OVlBY2ZpNWFOQkdjTUNfdThIZ2lCbVdDYU51a2hnd3VfbWRrUmZNd1RSZ3l5OFp2UGFmQ2M5a3J5SzRkVlFXS1J2aFFGUE9jYTJwRHNtWk5XNjRVYkd0a04tYzFHaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.cbssports.com/nba/news/bucks-vs-heat-prediction-odds-start-time-2023-nba-playoff-picks-game-1-best-bets-from-model-on-71-36-run/",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "2023 NBA Playoffs betting trends: odds, ATS stats, more - ESPN",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTG4zSWd6TW1IOUYtdWFSaEYxR2Q2VlB1RGZzaGxEdnhHTjhXMTkxR2VpVVNEUkhvWm1lSDNkM19RcGY4QzZTLTFnbWdLM1FudnF1d2NPV29NOWRZa1FJODVvQ1dnS0ZCeWprY2x3UEFwcVd6U0k3NXVBeEVkRzhpM0h4ak9CeF9Jc2RoRU1NcG1DV0E1R2hkWVpmTVdFS1VZZ3NDRExETHJ5TGtE?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/sports-betting/story/_/id/36177781/2023-nba-playoffs-betting-trends-odds-ats-stats-more",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "Bucks star Giannis Antetokounmpo injures lower back, exits playoff game vs. Heat - Yahoo Sports",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Yahoo Sports",
+            "source_url": "https://sports.yahoo.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkhOVXppcXhhenpLOEI2U1AzejNhUXRQcUhfSDlXMkpnVjBzeE9pUmNjcXZfcFNydUpzMXBoNFdJdzFCeGJvWldBSHFUd2o2eklycEJlLTVreW9EVVN2cS16aXhnVndfNDVvaVl5WVlTQlZrRWh6NFFXTVJhM2ZTdEtzbGVuaEk?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://sports.yahoo.com/bucks-star-giannis-antetokounmpo-injures-232312332.html",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "2022-23 NBA MVP Race: Will final week of season determine MVP? - FOX Sports",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "FOX Sports",
+            "source_url": "https://www.foxsports.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWkNISVUwVUYtdXlTS19OLXFLM1NROS11ckhPWDVBU1VQTVdicFFrdGx3eEV6TGRacmpsaUpkT3hBeXpnVG9CakZmcV9VODhwUGtYNnNiLVlaOXVtMWtkVkZ3dTBfZVNydmfSAWpBVV95cUxNcGg5Yk5ackVZNE9kV1BibGRRdGpFOHlVc25oUDhiRTdiRmcwakxUUlVsRG5aQ05qeXVqZURpcUJlNk5HWXI0UVNVblRnSlBQcmg3ZDlvWjFUMm03TE94akYydjhaVF82NTN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.foxsports.com/stories/nba/2022-23-nba-mvp-race",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "Jimmy Butler: 'I Hope Giannis' Returns from Back Injury for Heat vs. Bucks Series - Bleacher Report",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "Bleacher Report",
+            "source_url": "https://bleacherreport.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXlqMVBmZ3BacnFhdHlIcXNTQ3lCWVN5NkpoQXp5YUNLb0NzRVM5Yi1NNHNFSWdWZlBBNl9QOGNXYnV4bkhuRWtfZVptVkl5NEhocktERnBMZUFyQmZ6Ump0cmN2V2J1N3BXUGZaZDNpaUxCeUpWakdxZmN4SU9uemNpeTdEam5lR0pTd21XeWkyd3NsbExiQjNzVXZSZ1lQZXBCVkdCaFFpbHVfaGo3M19OWWxYcHNtdThFQ2QtNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://bleacherreport.com/articles/10072673-jimmy-butler-i-hope-giannis-returns-from-back-injury-for-heat-vs-bucks-series",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "2023 NBA playoffs: Odds, picks, betting tips for Sunday - ESPN",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "ESPN",
+            "source_url": "https://www.espn.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGIxZkpQRUExbWJ5c1ZQZVhhOE5ZVHliYzhqcHJtdVUwUGduNDV3U2g0SXVidGVkbW1iU1RjRWV3eXBtSkdsai1WR1B4dWtXaktXYkJPb09zbHRIUE56YXBWczFZUkR3SFZnVXNQVXVlUFJWVnFUS19hWjB6ZVpabmpSdS04eDM0am1XN29sVGhOZEE3RlB6UTFQS1hXc2lZQXdaSGJlVUlVYjdDVFZoTXdXbzVtdlpCRTF1elJuZl8?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.espn.com/chalk/story/_/id/36206174/2023-nba-playoffs-odds-picks-betting-tips-first-round-game-1-sunday-04-16-23",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "Grizzlies\u2019 Jaren Jackson Jr. wins 2023 NBA Defensive Player of the Year honors - The New York Times",
+            "published_date": "Mon, 17 Apr 2023 07:00:00 GMT",
+            "source": "The New York Times",
+            "source_url": "https://www.nytimes.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3F2ZFhmM2ZFSXRRUS1fdTlYLV9BQkRXNU5mMXlRb2k5ME50Zmw1YV96XzRuZlRmUWNrNTBicDdTUjY1ZTB3T0xGOHZxclZZZkpyd2RYU1ZKZDdkWWtVeHVVUmtiYW5WU2RrcjZtSzNwUnF2NDg0bVF0eWNPeng3T3oxYlRIck92NEdfMkxqTUJSU3NHQmZiZUdQbw?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.nytimes.com/athletic/4422604/2023/04/17/jaren-jackson-jr-nba-defensive-player-year/",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "Houston Rockets vs. Utah Jazz 2019 NBA Playoffs: Starting Lineups, Matchups, Preview, Schedule - Lineups",
+            "published_date": "Tue, 18 Apr 2023 07:00:00 GMT",
+            "source": "Lineups",
+            "source_url": "https://www.lineups.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3B6WFJmbmxqTXREc1Y2MFhqd3JXcTBSY2hiY0V5YWpLNHlRblNwaWNtTkV1Vm5QMkctY29mWnVlRlZ1QnJTODNicU15S2pJUUVuaUNzaklzNGhtbnZ2dEMzdGNSNi1hR2p1TE92X1MzbkNQdFBqVkRkRkx1aTExRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.lineups.com/articles/houston-rockets-utah-jazz-playoff-preview/",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          },
+          {
+            "title": "NBA Heat vs Bucks Same Game Parlay Predictions at +866 odds - Pickswise",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Pickswise",
+            "source_url": "https://www.pickswise.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVJFZkkyQmlLZTd2Y19nbzdaUGRFVXdnY2pmSVdpNVhFaHlSX0pEMVltZmk0R3BEM09wN0NYZlJtQm5MdDI5enp2UnBISm0tcG56NVp0dFo2Z19ZN2RuT183TE9GeHVZUUFNLU4xZjBtcTVQc01FMlRMM19rOTAtR1JqTHZ1Uk5IUzl3UnoxRXc3bHUyMjFtckxyMVRSVVpFX3c4VnJjTURyS0FGUEE3VG5faTZtQUstUDhFb3I4NDdkaExsVWZIMU5n?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://www.pickswise.com/news/nba-miami-heat-vs-milwaukee-bucks-same-game-parlay-picks-antetokounmpo-saves-the-bucks-at-866-odds/",
+            "query": "Milwaukee Bucks Game 4 odds",
+            "text": null
+          }
+        ],
+        "Miami Heat current form analysis": [
+          {
+            "title": "NBA on TNT\u2019s Reggie Miller and Greg Anthony talk preparing for different matchups: \u2018We live in front of a screen.\u2019 - Awful Announcing",
+            "published_date": "Sun, 16 Apr 2023 07:00:00 GMT",
+            "source": "Awful Announcing",
+            "source_url": "https://awfulannouncing.com",
+            "google_news_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlZqRXNmYkZqRDlpR3MwTVZsVGZEdzE4cW1mcTRUUk5lWHdqNlBFcmFLbHZ0S3RxbDViS21na3hqWTFyMUtrRFhaaV80WEJuQU9pX21kOWZod3ZQSmZMbWl1RFdjWlhldV9nTnFEQW1SZl9Cc2tMRE9zUkdiLXNiUmRRSG9Pc3Aydlh30gGQAUFVX3lxTFBRRzZNNFl2TzFGSHBwNlhla0NLeEUwNDgwRUtLSFB2NXhXWGtYbnpqMXVjemFtaWJhd1Vka0ljZkpEdE43Xzh0VU5kbUtadGlRT0VhZzZ0VUROVlZqMkpIOFpoSmhBak1WOGo5NVVsQmZMeXdQYUk3aXdkcUNJTDk3SE5KWVF1dDhhWGkza2NKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
+            "url": "https://awfulannouncing.com/nba/reggie-miller-greg-anthony-playoff-preparation.html",
+            "query": "Miami Heat current form analysis",
+            "text": null
+          }
+        ]
+      }
+    }
   }
 ]

@@ -1098,5 +1098,467 @@
         }
       }
     }
+  },
+  {
+    "question": "Will the #1 Milwaukee Bucks win Game 2 of their First Round Series against the #8 Heat in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Milwaukee Bucks and the Miami Heat, we need to consider recent performance, team statistics, and any relevant news or updates leading up to the game. Since there is no specific background information provided, we can focus on general team performance and upcoming game details.\n\nSearch Queries:\nMilwaukee Bucks vs Miami Heat Game 2 analysis; NBA playoffs 2023 trends; Milwaukee Bucks recent performance; Miami Heat current form; key players in Bucks vs Heat; playoff series updates 2023;",
+          "queries": [
+            "Milwaukee Bucks vs Miami Heat Game 2 analysis",
+            "NBA playoffs 2023 trends",
+            "Milwaukee Bucks recent performance",
+            "Miami Heat current form",
+            "key players in Bucks vs Heat",
+            "playoff series updates 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #6 Golden State Warriors win Game 2 of their First Round Series against the #3 Kings in the 2023 NBA Playoffs?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Golden State Warriors and the Sacramento Kings, we need to consider recent performance, team statistics, and any relevant news or updates leading up to the game. Since there is no specific background information provided, we can focus on general team performance and recent trends.\n\nSearch Queries:\nNBA playoffs game 2 analysis; Golden State Warriors recent performance; Sacramento Kings playoff form;",
+          "queries": [
+            "NBA playoffs game 2 analysis",
+            "Golden State Warriors recent performance",
+            "Sacramento Kings playoff form"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #4 Phoenix Suns win Game 2 of their First Round Series against the #5 Clippers in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Phoenix Suns and the Clippers, we need to consider recent performance, team statistics, and any relevant news or updates leading up to the game. Since there is no specific background information provided, we can focus on general factors that might influence the game's result.\n\nSearch Queries:\nNBA Phoenix Suns vs Clippers analysis;;\nClippers form before playoffs 2023;; \nPhoenix Suns recent performance 2023 playoffs;;",
+          "queries": [
+            "NBA Phoenix Suns vs Clippers analysis",
+            "Clippers form before playoffs 2023",
+            "Phoenix Suns recent performance 2023 playoffs"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #2 Boston Celtics win Game 2 of their First Round Series against the #7 Hawks in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer this question, we need to consider recent game performances, team statistics, and any relevant news or analysis from experts. We should look for information that might give us an indication of which team is more likely to win.\n\nSearch Queries:\n2023 NBA Playoffs Game 2 analysis; Celtics vs Hawks odds today; recent Celtics performance stats; Hawks playoff form 2023; expert predictions Game 2",
+          "queries": [
+            "2023 NBA Playoffs Game 2 analysis",
+            "Celtics vs Hawks odds today",
+            "recent Celtics performance stats",
+            "Hawks playoff form 2023",
+            "expert predictions Game 2"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #4 Cleveland Cavaliers win Game 2 of their First Round Series against the #5 Knicks in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-19",
+    "date_resolve_at": "2023-04-19",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Cleveland Cavaliers and the New York Knicks, we need to consider recent performance, team statistics, and any relevant news or analysis from experts. Given today's date is April 15, 2023, we should focus on recent developments and expert opinions up to this date.\n\nSearch Queries:\nCleveland Cavaliers vs Knicks game 2 analysis; NBA playoffs 2023 trends; expert predictions for Cavaliers vs Knicks; recent form Cavaliers vs Knicks; key players impact playoffs 2023;",
+          "queries": [
+            "Cleveland Cavaliers vs Knicks game 2 analysis",
+            "NBA playoffs 2023 trends",
+            "expert predictions for Cavaliers vs Knicks",
+            "recent form Cavaliers vs Knicks",
+            "key players impact playoffs 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #2 Memphis Grizzlies win Game 2 of their First Round Series against the #7 Lakers in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Memphis Grizzlies and the Lakers, we need to consider recent performance, team statistics, and any relevant news or updates leading up to the game. Since there is no specific background information provided, we can focus on general team performance and recent trends.\n\nSearch Queries:\nMemphis Grizzlies vs Lakers recent performance; NBA playoff trends 2023; Grizzlies form before playoffs 2023;",
+          "queries": [
+            "Memphis Grizzlies vs Lakers recent performance",
+            "NBA playoff trends 2023",
+            "Grizzlies form before playoffs 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #3 Philadelphia 76ers win Game 2 of their First Round Series against the #6 Nets in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 2 between the Philadelphia 76ers and the Brooklyn Nets, we need to consider recent performance, key player statistics, and team dynamics. Since there is no specific background information provided, we can focus on general trends and expert opinions.\n\nSearch Queries:\nPhiladelphia 76ers vs Nets recent form; Philadelphia 76ers key players stats; Brooklyn Nets team performance analysis; NBA playoff expert predictions;",
+          "queries": [
+            "Philadelphia 76ers vs Nets recent form",
+            "Philadelphia 76ers key players stats",
+            "Brooklyn Nets team performance analysis",
+            "NBA playoff expert predictions"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Brad Tavares beat Bruno Silva?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer whether Brad Tavares will beat Bruno Silva, we need to gather information about their recent performances, fight records, and any upcoming fights. Since there is no specific background provided, we can assume they are fighters in a combat sport, likely MMA or boxing based on the names.\n\nSearch Queries:\nfight results brad tavares vs bruno silva; recent performance brad tavares; upcoming fights brad tavares;",
+          "queries": [
+            "fight results brad tavares vs bruno silva",
+            "recent performance brad tavares",
+            "upcoming fights brad tavares"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Song Yadong beat Ricky Sim\u00f3n?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-30",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-23": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo generate effective search queries, we need to focus on recent news about both fighters, their past performances, and any upcoming events. We also need to consider any potential issues that could lead to a cancellation or no contest.\n\nSearch Queries:\nUFC Song Yadong recent form; Ricky Sim\u00f3n latest updates; UFC Fight Night 223 odds; Song Yadong vs Ricky Sim\u00f3n betting analysis; potential fight cancellations UFC; recent injuries UFC fighters;",
+          "queries": [
+            "UFC Song Yadong recent form",
+            "Ricky Sim\u00f3n latest updates",
+            "UFC Fight Night 223 odds",
+            "Song Yadong vs Ricky Sim\u00f3n betting analysis",
+            "potential fight cancellations UFC",
+            "recent injuries UFC fighters"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will there be over 2 goals scored in the Premier League game of Newcastle United vs Tottenham on the April 23, 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the number of goals in a specific Premier League match, we need to consider recent trends in goal scoring for both teams, their head-to-head record, and any other relevant factors like form, injuries, or key player availability. Given the specific nature of the question, we can focus on recent performances and predictions from experts.\n\nSearch Queries:\nrecent Newcastle United goal scoring trend; Tottenham Hotspur recent form; expert predictions Newcastle vs Tottenham; Premier League goal line bets; historical Newcastle Tottenham head-to-head goals;",
+          "queries": [
+            "recent Newcastle United goal scoring trend",
+            "Tottenham Hotspur recent form",
+            "expert predictions Newcastle vs Tottenham",
+            "Premier League goal line bets",
+            "historical Newcastle Tottenham head-to-head goals"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Sergei Pavlovich beat Curtis Blaydes?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of the fight between Sergei Pavlovich and Curtis Blaydes, we need to gather information about their recent performances, current form, and any relevant news or updates leading up to the event. We also need to check if there have been any changes to the fight status.\n\nSearch Queries:\nfight results sergi pavlovich recent; curtis blaydes performance update; ufc fight night 222 latest news;",
+          "queries": [
+            "fight results sergi pavlovich recent",
+            "curtis blaydes performance update",
+            "ufc fight night 222 latest news"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Russia control western Bakhmut by June 30?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-21",
+    "date_resolve_at": "2023-05-21",
+    "retrieval_dates": [
+      "2023-05-14"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-14": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo generate effective search queries, we need to focus on the key elements of the question: the timeline (up to June 30), the specific location (Bakhmut Children's Hospital), and the condition (shaded red on ISW maps). We also need to consider alternative sources if ISW is unavailable.\n\nSearch Queries:\nISW Bakhmut Children's Hospital map update; Russian advance Bakhmut news; Bakhmut Children's Hospital control June 2023; ISW Bakhmut Children's Hospital shaded red; Alternative sources Bakhmut conflict updates;",
+          "queries": [
+            "ISW Bakhmut Children's Hospital map update",
+            "Russian advance Bakhmut news",
+            "Bakhmut Children's Hospital control June 2023",
+            "ISW Bakhmut Children's Hospital shaded red",
+            "Alternative sources Bakhmut conflict updates"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship 2023: Will white (Ian Nepomniachtchi) win game 7?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of game 7, we need to consider recent performances, current form, and any relevant match history between the players. We should also look at expert opinions and analyses from chess commentators.\n\nSearch Queries:\nNepomniachtchi vs Ding Liren recent form; chess experts' predictions game 7; Nepomniachtchi winning chances game 7; recent chess tournament results 2023; Ding Liren performance analysis game 7; chess match analysis game 6 outcomes; key factors in game 7 outcome",
+          "queries": [
+            "Nepomniachtchi vs Ding Liren recent form",
+            "chess experts' predictions game 7",
+            "Nepomniachtchi winning chances game 7",
+            "recent chess tournament results 2023",
+            "Ding Liren performance analysis game 7",
+            "chess match analysis game 6 outcomes",
+            "key factors in game 7 outcome"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship: Will game 7 be a draw?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast whether Game 7 of the World Chess Championship will be a draw, we need to consider recent game trends, player strategies, and current match status. We should look for any indications that suggest a draw is likely or if either player is more inclined to win.\n\nSearch Queries:\nworld chess championship game 7 trends; recent game outcomes world chess championship; player strategies world chess championship game 7;",
+          "queries": [
+            "world chess championship game 7 trends",
+            "recent game outcomes world chess championship",
+            "player strategies world chess championship game 7"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will any 1st round NBA series end in a sweep?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo address the question about whether any 1st round NBA series will end in a sweep, we need to consider the current standings and performance of the teams involved. Since the question is specific to the 2023 playoffs, we should focus on recent game results and team statistics from the playoffs up to the specified date.\n\nSearch Queries:\nNBA 2023 first round series results; current NBA playoff standings 2023; recent NBA playoff game outcomes 2023; team performance analysis NBA playoffs 2023;",
+          "queries": [
+            "NBA 2023 first round series results",
+            "current NBA playoff standings 2023",
+            "recent NBA playoff game outcomes 2023",
+            "team performance analysis NBA playoffs 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Starship's orbital flight test be aborted via the Flight Termination System?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo address the main question about whether Starship's orbital flight test will be aborted via the Flight Termination System, we need to gather recent news and reports related to the Starship and Superheavy vehicle's test flight. The key points to focus on are credible reports about potential abort scenarios and any official statements from SpaceX regarding the test.\n\nSearch Queries:\nSpaceX Starship orbital test abort reports; SpaceX Starship Superheavy flight termination system; official SpaceX Starship test update 2023;",
+          "queries": [
+            "SpaceX Starship orbital test abort reports",
+            "SpaceX Starship Superheavy flight termination system",
+            "official SpaceX Starship test update 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the protests over Macron's pension reform in France end by May 15th?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-16",
+    "date_resolve_at": "2023-05-16",
+    "retrieval_dates": [
+      "2023-05-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast whether the protests will end by May 15th, we need to consider recent developments, ongoing factors influencing the situation, and potential outcomes. We should look for news about the current state of the protests, any new measures or responses from the government, and expert opinions on the likelihood of the protests ending soon.\n\nSearch Queries:\nprotests in france pension reform update; government response to pension protests; expert analysis on protest duration;",
+          "queries": [
+            "protests in france pension reform update",
+            "government response to pension protests",
+            "expert analysis on protest duration"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Starship exceed 28000 km/h (=LEO orbital speed) at an altitude of 200km or higher during the \"orbital\" flight test?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo address the question, we need to focus on the expected speed and trajectory of the Starship during its upcoming test flight. The key points are whether it will exceed 28,000 km/h at an altitude of 200 km or higher, and if not, whether it will still achieve a suborbital trajectory. We need to look for information on the expected speed and trajectory details of the test flight.\n\nSearch Queries:\nStarship speed altitude test flight; Starship trajectory suborbital details; Starship orbital speed test results;",
+          "queries": [
+            "Starship speed altitude test flight",
+            "Starship trajectory suborbital details",
+            "Starship orbital speed test results"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Real Madrid win the 2022-2023 UEFA Champions League?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-05-17",
+    "date_resolve_at": "2023-05-17",
+    "retrieval_dates": [
+      "2023-05-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast whether Real Madrid will win the 2022-2023 UEFA Champions League, we need to consider their recent performance, key matches leading up to the final, and any potential challenges they might face. We should also look at the overall form of other competing teams and any significant news or events that could impact the outcome.\n\nSearch Queries:\nrecent form real madrid champions league 2022-2023; upcoming matches real madrid champions league; key players real madrid for champions league final; potential opponents real madrid champions league final; latest news real madrid champions league 2022-2023;",
+          "queries": [
+            "recent form real madrid champions league 2022-2023",
+            "upcoming matches real madrid champions league",
+            "key players real madrid for champions league final",
+            "potential opponents real madrid champions league final",
+            "latest news real madrid champions league 2022-2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #1 Milwaukee Bucks win Game 4 of their First Round Series against the #8 Heat in the 2023 NBA Playoffs?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-16",
+    "date_close": "2023-04-25",
+    "date_resolve_at": "2023-04-25",
+    "retrieval_dates": [
+      "2023-04-18"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-18": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo forecast the outcome of Game 4 between the Milwaukee Bucks and the Miami Heat, we need to consider recent performance, key player stats, and any relevant news or updates leading up to the game. Since there is no specific background information provided, we can focus on general team performance and recent game outcomes.\n\nSearch Queries:\nMilwaukee Bucks vs Miami Heat recent performance; Milwaukee Bucks Game 4 odds; Miami Heat current form analysis;",
+          "queries": [
+            "Milwaukee Bucks vs Miami Heat recent performance",
+            "Milwaukee Bucks Game 4 odds",
+            "Miami Heat current form analysis"
+          ]
+        }
+      }
+    }
   }
 ]
