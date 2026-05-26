@@ -108,5 +108,995 @@
         }
       }
     }
+  },
+  {
+    "question": "Will Donald Trump get gag order in Manhattan DA case?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-05",
+    "date_resolve_at": "2023-04-04",
+    "retrieval_dates": [
+      "2023-04-03"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-03": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Donald Trump will get a gag order in the Manhattan DA case, we need to consider the current developments in the case, the judge's previous rulings, and any relevant legal precedents. Sub-questions that can help guide our search include: What is the current status of the Manhattan DA case against Donald Trump? Are there any recent updates on the possibility of a gag order? How have judges in similar cases handled gag order requests?\n\nSearch Queries:\nTrump Manhattan DA case updates; Gag order in Trump case; Trump gag order latest news",
+          "queries": [
+            "Trump Manhattan DA case updates",
+            "Gag order in Trump case",
+            "Trump gag order latest news"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Boston Marathon: Will a US runner place in the top 10 in the men's division?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-10"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-10": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether a US runner will place in the top 10 in the men's division of the Boston Marathon, we need to consider the current performance and rankings of US male runners, as well as the overall competitiveness of the Boston Marathon. We should look for recent news articles about the Boston Marathon, US runners' past performances, and previews of the upcoming event. Sub-questions to guide our search include: Who are the top US male runners competing in the Boston Marathon? What are their recent performance records? Are there any strong international competitors that might affect US runners' chances of placing in the top 10?\n\nSearch Queries:\nBoston Marathon men's favorites; US runners Boston Marathon; Top US male marathoners",
+          "queries": [
+            "Boston Marathon men's favorites",
+            "US runners Boston Marathon",
+            "Top US male marathoners"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Wout van Aert win Paris-Roubaix 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-03"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-03": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Wout van Aert will win Paris-Roubaix 2023, we need to consider his current form, past performance in the race, and any recent developments that might affect his chances. Sub-questions include: What is Wout van Aert's current form and recent results? How has he performed in previous editions of Paris-Roubaix? Are there any injuries or issues that could impact his participation or performance in the 2023 race?\n\nSearch Queries:\nWout van Aert current form; Paris-Roubaix 2023 favorites; Wout van Aert Paris-Roubaix record",
+          "queries": [
+            "Wout van Aert current form",
+            "Paris-Roubaix 2023 favorites",
+            "Wout van Aert Paris-Roubaix record"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Mads Pedersen win Paris-Roubaix 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-03"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-03": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Mads Pedersen will win Paris-Roubaix 2023, we need to consider his current form, past performance in the race, and how he stacks up against other competitors. Sub-questions include: What is Mads Pedersen's current form and recent results? How has he performed in previous editions of Paris-Roubaix? Who are the top contenders for Paris-Roubaix 2023 and how do they compare to Pedersen?\n\nSearch Queries:\nMads Pedersen current form; Paris-Roubaix 2023 favorites; Mads Pedersen Paris-Roubaix record",
+          "queries": [
+            "Mads Pedersen current form",
+            "Paris-Roubaix 2023 favorites",
+            "Mads Pedersen Paris-Roubaix record"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will every G7 economy have negative GDP growth in Q1 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-04",
+    "date_resolve_at": "2023-05-04",
+    "retrieval_dates": [
+      "2023-04-27"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-27": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to determine if every G7 economy will have negative GDP growth in Q1 2023. The G7 economies include the US, UK, Canada, Japan, and the EU. We can break down the question into sub-questions: What is the current GDP growth forecast for each G7 economy in Q1 2023? Are there any indications of negative GDP growth in any of these economies? Are all G7 economies expected to experience negative GDP growth simultaneously?\n\nSearch Queries:\nG7 GDP growth Q1 2023; EU GDP forecast Q1 2023; US UK Canada Japan GDP growth",
+          "queries": [
+            "G7 GDP growth Q1 2023",
+            "EU GDP forecast Q1 2023",
+            "US UK Canada Japan GDP growth"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will bitcoin hit 30k before hitting 25k?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-04-11",
+    "date_resolve_at": "2023-04-11",
+    "retrieval_dates": [
+      "2023-04-04"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-04": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether bitcoin will hit 30k before hitting 25k, we need to consider the current market trends and predictions. Some sub-questions that can help guide our search queries include: What is the current price of bitcoin and its recent fluctuations? Are there any market predictions or analyst forecasts that suggest bitcoin will reach 30k soon? Are there any external factors, such as economic changes or regulatory updates, that could impact bitcoin's price in the short term?\n\nSearch Queries:\nbitcoin price forecast; bitcoin 30k prediction; bitcoin market trends today",
+          "queries": [
+            "bitcoin price forecast",
+            "bitcoin 30k prediction",
+            "bitcoin market trends today"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the next SpaceX Falcon Heavy launch be fully successful?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-03",
+    "date_close": "2023-05-01",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-23": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question about the success of the next SpaceX Falcon Heavy launch, we need to consider the current status of the launch and any potential issues that may arise. Sub-questions that can help guide our search queries include: What is the current status of the Falcon Heavy launch scheduled for today? Have there been any recent issues or concerns with the Falcon Heavy rocket that could impact its success? Are there any weather or technical conditions that could affect the launch?\n\nSearch Queries:\nSpaceX Falcon Heavy launch status; Falcon Heavy rocket issues today; SpaceX launch success rate",
+          "queries": [
+            "SpaceX Falcon Heavy launch status",
+            "Falcon Heavy rocket issues today",
+            "SpaceX launch success rate"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will another Supreme Court Justice make any public comment about Clarence Thomas' gifted vacations by the 5/7/2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-07",
+    "date_close": "2023-05-08",
+    "date_resolve_at": "2023-05-08",
+    "retrieval_dates": [
+      "2023-05-01"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-01": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the likelihood of another Supreme Court Justice making a public comment about Clarence Thomas' gifted vacations. This involves looking into recent news and developments surrounding the Supreme Court, particularly any controversies or discussions related to Justice Thomas. We should also consider the time frame given, which is from the current date (2023-04-07) to the question close date (2023-05-01), and the specific date mentioned in the question (2023-05-07). However, since the question close date is before 2023-05-07, we focus on the period up to 2023-05-01 for any relevant comments or announcements. Sub-questions include: Are there any ongoing investigations or discussions about Justice Thomas' vacations? Have other justices historically commented on their peers' controversies? Are there any upcoming events or hearings where such comments might be made?\n\nSearch Queries:\nSupreme Court Justice Thomas controversy; Clarence Thomas vacation gifts; Supreme Court justices public comments",
+          "queries": [
+            "Supreme Court Justice Thomas controversy",
+            "Clarence Thomas vacation gifts",
+            "Supreme Court justices public comments"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Leeds United defeat Crystal Palace in the Premier League on April 9, 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current form and performance of both Leeds United and Crystal Palace. We should look into their recent match results, head-to-head statistics, and any potential injuries or suspensions that might impact the outcome. Additionally, checking the latest news and previews for the upcoming match on April 9, 2023, could provide valuable insights.\n\nSearch Queries:\nLeeds United vs Crystal Palace preview; Leeds United recent form; Crystal Palace injury updates",
+          "queries": [
+            "Leeds United vs Crystal Palace preview",
+            "Leeds United recent form",
+            "Crystal Palace injury updates"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will OpenAI release an iOS app for ChatGPT in 2023??",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-05-18",
+    "date_resolve_at": "2023-05-18",
+    "retrieval_dates": [
+      "2023-05-11"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-11": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question about OpenAI releasing an iOS app for ChatGPT in 2023, we need to consider a few sub-questions. These include: Is OpenAI planning to expand ChatGPT to mobile devices? Are there any announcements or rumors about an iOS app for ChatGPT? What is the current development status of a potential ChatGPT iOS app? \n\nConsidering these sub-questions, our search queries should focus on finding recent announcements, updates, or rumors related to OpenAI and ChatGPT, specifically regarding an iOS app release in 2023.\n\nSearch Queries:\nOpenAI ChatGPT iOS app; ChatGPT mobile release 2023; OpenAI iOS plans 2023",
+          "queries": [
+            "OpenAI ChatGPT iOS app",
+            "ChatGPT mobile release 2023",
+            "OpenAI iOS plans 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Royal Challengers Bangalore beat Lucknow Super Giants in Indian Premiere League on Apr 10, 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-10",
+    "date_resolve_at": "2023-04-10",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current performance and standings of both Royal Challengers Bangalore (RCB) and Lucknow Super Giants (LSG) in the Indian Premiere League (IPL). We should look for recent match results, team statistics, and player performances. Additionally, checking for any injuries or suspensions that might affect the teams' lineups could be helpful. Since the question is about a specific match on April 10, 2023, we should focus on finding information that is as up-to-date as possible.\n\nSearch Queries:\nRCB vs LSG head to head; Royal Challengers Bangalore recent form; Lucknow Super Giants team news",
+          "queries": [
+            "RCB vs LSG head to head",
+            "Royal Challengers Bangalore recent form",
+            "Lucknow Super Giants team news"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the 2023 Masters Tournament finish on Sunday?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo determine if the 2023 Masters Tournament will finish on Sunday, we need to consider the schedule and any potential delays or changes. Sub-questions include: What is the scheduled end date of the 2023 Masters Tournament? Are there any weather forecasts or warnings that could impact the tournament schedule? Have there been any announcements or updates from the tournament organizers regarding the schedule?\n\nSearch Queries:\n2023 Masters Tournament schedule; Masters Tournament weather forecast; 2023 Masters finish date",
+          "queries": [
+            "2023 Masters Tournament schedule",
+            "Masters Tournament weather forecast",
+            "2023 Masters finish date"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Isaac King be first on both leaderboard categorizes?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-18",
+    "date_resolve_at": "2023-04-18",
+    "retrieval_dates": [
+      "2023-04-11"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-11": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider Isaac King's current standing on the leaderboards and his potential to maintain or improve his position. We should also look into any recent developments or updates that might affect the leaderboards. Additionally, understanding the criteria for the leaderboards and how they are updated is crucial. Some sub-questions to consider are: What are Isaac King's current rankings? Are there any upcoming events or changes that could impact the leaderboards? How often are the leaderboards updated?\n\nSearch Queries:\nIsaac King leaderboard rankings; Isaac King recent updates; Leaderboard update schedule",
+          "queries": [
+            "Isaac King leaderboard rankings",
+            "Isaac King recent updates",
+            "Leaderboard update schedule"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Nepomniachtchi win in Nepomniachtchi vs. Liren in the 2023 FIDE World Chess Championship?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-30",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-23": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Nepomniachtchi will win in the 2023 FIDE World Chess Championship against Liren, we need to consider recent performance, head-to-head statistics, and any news about the players' current form. Sub-questions include: How have Nepomniachtchi and Liren performed recently? What is their head-to-head record? Are there any recent interviews or statements from the players that could indicate their confidence or strategy going into the championship?\n\nSearch Queries:\nNepomniachtchi vs Liren head to head; Nepomniachtchi recent chess performance; Liren current form 2023",
+          "queries": [
+            "Nepomniachtchi vs Liren head to head",
+            "Nepomniachtchi recent chess performance",
+            "Liren current form 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Sakura Miko get the highest peak concurrent viewers of any vtuber livestream on YouTube on 9th April, 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider Sakura Miko's popularity and streaming schedule, as well as the streaming schedules of other popular VTubers. We should also look for any upcoming events or collaborations that could impact the peak concurrent viewership. Additionally, we should check if there are any technical issues or updates with Vstats or YouTube that could affect the accuracy of the peak concurrent viewership data. \n\nSub-questions to consider:\n- Is Sakura Miko scheduled to stream on April 9th, 2023?\n- Are there any other popular VTubers streaming on the same day?\n- Are there any events or collaborations that could boost Sakura Miko's viewership?\n\nSearch Queries:\nSakura Miko stream schedule; VTuber streams April 9 2023; YouTube VTuber events April 2023",
+          "queries": [
+            "Sakura Miko stream schedule",
+            "VTuber streams April 9 2023",
+            "YouTube VTuber events April 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will either of the expelled Tennessee state representatives be immediately reelected or reappointed?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-10",
+    "date_resolve_at": "2023-04-10",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the possibilities of Justin Jones and Justin Pearson being reappointed or reelected. We should look into Tennessee state laws and recent news regarding the expulsion and potential reappointment or special elections. Sub-questions include: What are the chances of Justin Jones and Justin Pearson being reappointed to their seats in the interim? Will they be able to win the special elections? Are there any precedents for expelled Tennessee state representatives being reappointed or reelected?\n\nSearch Queries:\nTennessee state representative reappointment rules; Justin Jones reappointment chances; Tennessee special election schedule",
+          "queries": [
+            "Tennessee state representative reappointment rules",
+            "Justin Jones reappointment chances",
+            "Tennessee special election schedule"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Bitcoin be at 30k before Ethereum is at 2k?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-11",
+    "date_resolve_at": "2023-04-11",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Bitcoin will reach $30k before Ethereum reaches $2k, we need to consider the current prices and trends of both cryptocurrencies. We should look into recent price movements, market predictions, and any significant events that could impact their values. Sub-questions to consider include: What are the current prices of Bitcoin and Ethereum? Are there any predictions or forecasts from experts about the potential prices of Bitcoin and Ethereum in the near future? Are there any upcoming events or developments that could affect the prices of these cryptocurrencies?\n\nSearch Queries:\nBitcoin price prediction 2023; Ethereum forecast 2023; Crypto market trends today",
+          "queries": [
+            "Bitcoin price prediction 2023",
+            "Ethereum forecast 2023",
+            "Crypto market trends today"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Bitcoin Hit $30,000 USD By End Of April 14th 2023 11:59pm EST?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-11",
+    "date_resolve_at": "2023-04-11",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Bitcoin will hit $30,000 USD by the end of April 14th, 2023, 11:59pm EST, we need to consider the current price of Bitcoin and its recent trends. We should also look for any predictions or forecasts from experts in the field. Additionally, we should check for any recent news or events that could potentially impact the price of Bitcoin. \n\nSome sub-questions to consider are: \n- What is the current price of Bitcoin?\n- Are there any predictions or forecasts for Bitcoin reaching $30,000 USD?\n- Are there any recent events or news that could impact the price of Bitcoin?\n\nSearch Queries:\nBitcoin current price; Bitcoin forecast April 2023; Bitcoin news April 8 2023",
+          "queries": [
+            "Bitcoin current price",
+            "Bitcoin forecast April 2023",
+            "Bitcoin news April 8 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Ethereum Hit $2,000 USD By End Of April 14th 2023 11:59pm EST?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-13",
+    "date_resolve_at": "2023-04-13",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Ethereum will hit $2,000 USD by the end of April 14th, 2023, at 11:59 pm EST, we need to consider the current price of Ethereum, its recent price trends, and any potential market or economic factors that could influence its price. We should also look for any news or predictions from reputable sources that may indicate a potential price surge. Given that the question can resolve early if Ethereum reaches $2,000 USD before the market close date/time, we should also monitor real-time price updates.\n\nSub-questions to consider:\n- What is the current price of Ethereum?\n- Are there any predictions or forecasts from experts that Ethereum could reach $2,000 USD by April 14th, 2023?\n- Are there any significant market or economic events that could impact Ethereum's price in the given timeframe?\n\nSearch Queries:\nEthereum price prediction April; Ethereum reaches $2000 USD; Ethereum market forecast 2023",
+          "queries": [
+            "Ethereum price prediction April",
+            "Ethereum reaches $2000 USD",
+            "Ethereum market forecast 2023"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will bitcoin be at least $28000 on Friday 4/21",
+    "resolution": 0.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-22",
+    "date_resolve_at": "2023-04-22",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current trends and forecasts for bitcoin's price. Some sub-questions that can help guide our search queries include: What is the current price of bitcoin and its recent trend? Are there any upcoming events or announcements that could impact bitcoin's price? What are expert predictions for bitcoin's price in the near future, specifically around the question close date and the target date of 4/21?\n\nSearch Queries:\nbitcoin price forecast; bitcoin upcoming events; bitcoin expert predictions",
+          "queries": [
+            "bitcoin price forecast",
+            "bitcoin upcoming events",
+            "bitcoin expert predictions"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will 'The Super Mario Bros. Movie' gross more domestically than any Illumination movie released before it, by 2024?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-21",
+    "date_resolve_at": "2023-04-21",
+    "retrieval_dates": [
+      "2023-04-14"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-14": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the potential box office performance of 'The Super Mario Bros. Movie' in relation to the highest-grossing Illumination movie, 'Minions: The Rise of Gru'. We should look for information about the movie's release date, marketing strategy, and early box office predictions. Additionally, we should monitor the movie's daily box office earnings to see if it's on track to surpass the domestic gross of 'Minions: The Rise of Gru'. \n\nGiven the time-sensitive nature of the question, with the question close date being 2023-04-14, we should focus on finding the most up-to-date information available. \n\nSub-questions to consider:\n- What is the release date of 'The Super Mario Bros. Movie'?\n- How does the movie's marketing strategy compare to other successful Illumination films?\n- What are the early box office predictions for 'The Super Mario Bros. Movie'?\n\nSearch Queries:\nSuper Mario Bros movie release date; Mario Bros box office predictions; Illumination movie box office records",
+          "queries": [
+            "Super Mario Bros movie release date",
+            "Mario Bros box office predictions",
+            "Illumination movie box office records"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Kenshiro Teraji beat Anthony Olascuaga?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Kenshiro Teraji will beat Anthony Olascuaga, we need to consider the fighters' past performances, current form, and any relevant news or updates about the upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and rankings? Are there any injuries or concerns that could affect their performance? Have there been any recent interviews or statements from the fighters that could provide insight into their strategies or confidence levels?\n\nSearch Queries:\nKenshiro Teraji vs Olascuaga preview; Teraji Olascuaga fight predictions; Teraji current form update",
+          "queries": [
+            "Kenshiro Teraji vs Olascuaga preview",
+            "Teraji Olascuaga fight predictions",
+            "Teraji current form update"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Jesse Rodriguez (17-0) beat Cristian Gonzalez (15-1)?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-08",
+    "date_close": "2023-04-09",
+    "date_resolve_at": "2023-04-09",
+    "retrieval_dates": [
+      "2023-04-08"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-08": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Jesse Rodriguez will beat Cristian Gonzalez, we need to consider their past performances, skills, and any recent developments that might affect the outcome of the fight. Sub-questions that can help guide our search include: What are the fighters' current skills and strategies? Are there any injuries or issues that might impact their performance? Have they made any recent statements or predictions about the fight? \n\nSearch Queries:\nJesse Rodriguez vs Cristian Gonzalez; Rodriguez Gonzalez fight preview; Gonzalez vs Rodriguez prediction",
+          "queries": [
+            "Jesse Rodriguez vs Cristian Gonzalez",
+            "Rodriguez Gonzalez fight preview",
+            "Gonzalez vs Rodriguez prediction"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Brandon Royval beat Matheus Nicolau?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Brandon Royval will beat Matheus Nicolau, we need to consider their past performances, current form, and any relevant information about their upcoming fight. Sub-questions that can help guide our search include: What are the fighters' recent win-loss records? Have they fought each other before, and if so, what was the outcome? Are there any injuries or other factors that could affect their performance in the upcoming fight? \n\nSearch Queries:\nBrandon Royval recent fights; Matheus Nicolau fight record; Royval vs Nicolau prediction",
+          "queries": [
+            "Brandon Royval recent fights",
+            "Matheus Nicolau fight record",
+            "Royval vs Nicolau prediction"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Ed Herman beat Zak Cummings?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Ed Herman will beat Zak Cummings, we need to consider the fighters' past performances, current form, and any relevant news or updates about their upcoming fight. Sub-questions that can help guide our search include: What are Ed Herman's and Zak Cummings' recent fight records? Are there any injuries or concerns that could affect either fighter's performance? Have there been any recent interviews or statements from the fighters that could provide insight into their strategies or confidence levels?\n\nSearch Queries:\nEd Herman recent fights; Zak Cummings fight record; Herman vs Cummings preview",
+          "queries": [
+            "Ed Herman recent fights",
+            "Zak Cummings fight record",
+            "Herman vs Cummings preview"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Piera Rodriguez beat Gillian Robertson?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Piera Rodriguez will beat Gillian Robertson, we need to consider the fighters' past performances, current form, and any relevant news or updates about the upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and recent results? Are there any injuries or concerns that could affect either fighter's performance? Have there been any recent interviews or statements from the fighters that could provide insight into their strategies or confidence levels?\n\nSearch Queries:\nPiera Rodriguez vs Gillian Robertson; Piera Rodriguez fight record; Gillian Robertson recent results",
+          "queries": [
+            "Piera Rodriguez vs Gillian Robertson",
+            "Piera Rodriguez fight record",
+            "Gillian Robertson recent results"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Aljamain Sterling beat Henry Cejudo at UFC 288?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-05-07",
+    "date_resolve_at": "2023-05-07",
+    "retrieval_dates": [
+      "2023-04-30"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-30": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Aljamain Sterling will beat Henry Cejudo at UFC 288, we need to consider the fighters' past performances, current form, and any relevant news or updates about the upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and recent fight outcomes? Are there any injuries or training issues that could affect their performance? Have there been any recent interviews or statements from the fighters that could provide insight into their strategies or confidence levels?\n\nSearch Queries:\nAljamain Sterling vs Cejudo odds; UFC 288 fight predictions; Sterling Cejudo preview analysis",
+          "queries": [
+            "Aljamain Sterling vs Cejudo odds",
+            "UFC 288 fight predictions",
+            "Sterling Cejudo preview analysis"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Lando Vannata beat Daniel Zelhuber?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Lando Vannata will beat Daniel Zelhuber, we need to consider the fighters' past performances, recent form, and any relevant news or updates about the upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and stats? Are there any injuries or concerns that could affect their performance? Have there been any recent interviews or statements from the fighters that could provide insight into their strategies or confidence levels?\n\nSearch Queries:\nLando Vannata fight record; Daniel Zelhuber UFC stats; Vannata vs Zelhuber preview",
+          "queries": [
+            "Lando Vannata fight record",
+            "Daniel Zelhuber UFC stats",
+            "Vannata vs Zelhuber preview"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Clay Guida beat Rafa Garcia?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Clay Guida will beat Rafa Garcia, we need to consider their past performances, current form, and any relevant information about their upcoming fight. Sub-questions that can help guide our search include: What are the fighters' recent win-loss records? Have Guida and Garcia fought each other before, and if so, what was the outcome? Are there any injuries or other factors that could affect the fighters' performance in the upcoming bout?\n\nSearch Queries:\nClay Guida recent fights; Rafa Garcia fight record; Guida vs Garcia preview",
+          "queries": [
+            "Clay Guida recent fights",
+            "Rafa Garcia fight record",
+            "Guida vs Garcia preview"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the New Democracy party win a plurality of seats in the Greece 2023 legislative elections?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-05-22",
+    "date_resolve_at": "2023-05-22",
+    "retrieval_dates": [
+      "2023-05-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current political climate in Greece, the popularity of the New Democracy party, and any recent polls or election forecasts. Sub-questions that can help guide our search include: What is the current polling data for the New Democracy party in Greece? Are there any significant events or scandals that could impact the party's chances in the upcoming election? Have there been any recent shifts in Greek public opinion that could affect the election outcome?\n\nSearch Queries:\nGreece election polls 2023; New Democracy party popularity; Greek legislative election forecasts",
+          "queries": [
+            "Greece election polls 2023",
+            "New Democracy party popularity",
+            "Greek legislative election forecasts"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Pedro Munhoz beat Chris Gutierrez?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Pedro Munhoz will beat Chris Gutierrez, we need to consider the fighters' past performances, recent form, and any relevant news or updates. Sub-questions to consider include: What are the fighters' current records and stats? Have they fought each other before, and if so, what was the outcome? Are there any injuries or other factors that could affect the fight? \n\nSearch Queries:\nPedro Munhoz vs Chris Gutierrez; Munhoz fight record UFC; Gutierrez recent fight results",
+          "queries": [
+            "Pedro Munhoz vs Chris Gutierrez",
+            "Munhoz fight record UFC",
+            "Gutierrez recent fight results"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Dustin Jacoby beat Azamat Murzakanov?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Dustin Jacoby will beat Azamat Murzakanov, we need to consider their past performances, current form, and any relevant information about their upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and recent results? Are there any injuries or concerns that could affect their performance? Have they made any statements or predictions about the fight? \n\nSearch Queries:\nDustin Jacoby vs Azamat Murzakanov; Jacoby Murzakanov fight prediction; Dustin Jacoby UFC record",
+          "queries": [
+            "Dustin Jacoby vs Azamat Murzakanov",
+            "Jacoby Murzakanov fight prediction",
+            "Dustin Jacoby UFC record"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Edson Barboza beat Billy Quarantillo?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Edson Barboza will beat Billy Quarantillo, we need to consider the fighters' past performances, current form, and any relevant news or updates about the upcoming fight. Sub-questions that can help guide our search include: What are the fighters' recent win-loss records? Are there any injuries or concerns that could affect their performance? Have the fighters made any recent statements or predictions about the upcoming fight?\n\nSearch Queries:\nEdson Barboza recent fights; Billy Quarantillo fight record; Barboza vs Quarantillo predictions",
+          "queries": [
+            "Edson Barboza recent fights",
+            "Billy Quarantillo fight record",
+            "Barboza vs Quarantillo predictions"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Ion Cutelaba beat Tanner Boser?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-09"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-09": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Ion Cutelaba will beat Tanner Boser, we need to consider their past performances, recent form, and any relevant information about their upcoming fight. Sub-questions that can help guide our search include: What are the fighters' current records and recent results? Are there any injuries or concerns that could affect their performance? Have they made any statements or predictions about the upcoming fight?\n\nSearch Queries:\nIon Cutelaba recent fights; Tanner Boser UFC record; Cutelaba vs Boser predictions",
+          "queries": [
+            "Ion Cutelaba recent fights",
+            "Tanner Boser UFC record",
+            "Cutelaba vs Boser predictions"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will DeSantis announce his presidential candidacy by the end of June?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-05-25",
+    "date_resolve_at": "2023-05-25",
+    "retrieval_dates": [
+      "2023-05-18"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-18": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether DeSantis will announce his presidential candidacy by the end of June, we need to consider his current political stance, any hints he may have given about a potential presidential run, and the typical timeline for such announcements. Sub-questions to consider include: Is DeSantis showing interest in a presidential run? Are there any scheduled events or deadlines that could influence his announcement timeline? What are the current rumors or speculations about his potential candidacy?\n\nSearch Queries:\nDeSantis presidential run rumors; DeSantis announcement timeline; DeSantis 2024 candidacy plans",
+          "queries": [
+            "DeSantis presidential run rumors",
+            "DeSantis announcement timeline",
+            "DeSantis 2024 candidacy plans"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will DeSantis announce his presidential candidacy by the end of April?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-09",
+    "date_close": "2023-04-30",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-23": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether DeSantis will announce his presidential candidacy by the end of April, we need to consider his current political stance, any hints or statements he has made about a potential presidential run, and the timeline for such an announcement. Sub-questions to consider include: Is DeSantis considering a presidential run? Are there any scheduled events or deadlines that could influence his announcement timeline? Have there been any recent developments or statements from DeSantis or his team regarding a potential candidacy?\n\nSearch Queries:\nDeSantis presidential run rumors; DeSantis announcement timeline; DeSantis 2024 candidacy plans",
+          "queries": [
+            "DeSantis presidential run rumors",
+            "DeSantis announcement timeline",
+            "DeSantis 2024 candidacy plans"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Ethereum's price be above $2200 on April 30th?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-14",
+    "date_close": "2023-05-01",
+    "date_resolve_at": "2023-05-01",
+    "retrieval_dates": [
+      "2023-04-24"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-24": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question about Ethereum's price on April 30th, we need to consider current market trends, potential price influencers, and forecasts from reputable sources. Sub-questions that can guide our search include: What is the current price of Ethereum and its recent trend? Are there any upcoming events or updates that could impact Ethereum's price? What are expert predictions for Ethereum's price in the near future?\n\nSearch Queries:\nEthereum price forecast; Ethereum market trends 2023; Crypto price predictions April",
+          "queries": [
+            "Ethereum price forecast",
+            "Ethereum market trends 2023",
+            "Crypto price predictions April"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "NBA playoffs: Will any team get swept in the first round?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether any team will get swept in the first round of the NBA playoffs, we need to consider the current standings and matchups. We should look for information on teams that are struggling or have a significant disadvantage in their series. We can also search for updates on the ongoing playoff games and any teams that have already lost multiple games. Additionally, we should check for any news on injuries or other factors that could impact a team's performance.\n\nSearch Queries:\nNBA playoff series updates; Teams struggling in playoffs; NBA first round sweeps",
+          "queries": [
+            "NBA playoff series updates",
+            "Teams struggling in playoffs",
+            "NBA first round sweeps"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "2023 Chess Championship: Will there be MORE drawn games than with decisive results?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-30",
+    "date_resolve_at": "2023-04-30",
+    "retrieval_dates": [
+      "2023-04-23"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-23": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current trend of the 2023 Chess Championship and the playing styles of Ian Nepomniachtchi and Ding Liren. We should look into the number of drawn games versus decisive results so far in the championship. Additionally, we can examine the historical data of the two players to see if they tend to have more drawn or decisive games. We also need to consider the format of the championship, which is a best of 14 games, and how this might influence the players' strategies.\n\nSearch Queries:\nNepomniachtchi vs Liren drawn games; 2023 Chess Championship results; Chess Championship game trends",
+          "queries": [
+            "Nepomniachtchi vs Liren drawn games",
+            "2023 Chess Championship results",
+            "Chess Championship game trends"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship: Will game 6 be a draw?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether game 6 of the World Chess Championship will be a draw, we need to consider the current state of the championship, the players' strategies, and any patterns or trends that have emerged in the previous games. Sub-questions that can help guide our search include: What is the current score in the championship? Have the players been playing defensively or aggressively in the previous games? Are there any historical trends or statistics that suggest a draw is more or less likely in game 6?\n\nSearch Queries:\nWorld Chess Championship current score; Game 6 chess championship predictions; Chess championship draw trends",
+          "queries": [
+            "World Chess Championship current score",
+            "Game 6 chess championship predictions",
+            "Chess championship draw trends"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Newcastle United defeat Tottenham Hotspur on April 23rd 2023?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-23",
+    "date_resolve_at": "2023-04-23",
+    "retrieval_dates": [
+      "2023-04-16"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-16": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current form and performance of both Newcastle United and Tottenham Hotspur. We should look into their recent match results, head-to-head statistics, and any potential injuries or suspensions that might impact the outcome of the match. Additionally, we can check for any recent news or updates from the teams that might give us an insight into their preparation and strategy for the upcoming match.\n\nSearch Queries:\nNewcastle United recent form; Tottenham Hotspur injury updates; Newcastle vs Tottenham head to head",
+          "queries": [
+            "Newcastle United recent form",
+            "Tottenham Hotspur injury updates",
+            "Newcastle vs Tottenham head to head"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Gerhardt Richter's painting '4096 Farben' (1974) fetch $25mm at auction May 18th?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-05-19",
+    "date_resolve_at": "2023-05-19",
+    "retrieval_dates": [
+      "2023-05-12"
+    ],
+    "retrieval_date_queries": {
+      "2023-05-12": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the factors that influence the auction price of a painting, such as the artist's reputation, the painting's rarity, and recent sales of similar artworks. We also need to look for any recent news or trends related to Gerhardt Richter's paintings and the art market. Some sub-questions to consider are: What is Gerhardt Richter's current market value? Have there been any recent sales of his paintings? Are there any upcoming auctions featuring his work?\n\nSearch Queries:\nGerhardt Richter auction prices; Richter painting sales 2023; Gerhardt Richter market value",
+          "queries": [
+            "Gerhardt Richter auction prices",
+            "Richter painting sales 2023",
+            "Gerhardt Richter market value"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "World Chess Championship 2023: Will white (Ding Liren) win game 6?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-16",
+    "date_resolve_at": "2023-04-16",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question of whether Ding Liren will win game 6 with the white pieces, we need to consider the current state of the championship, the performance of both players, and any recent developments that might influence the outcome. Sub-questions to consider include: What is the current score in the championship? How have Ding Liren and Ian Nepomniachtchi performed with the white and black pieces, respectively? Are there any recent trends or strategies that could impact the game?\n\nSearch Queries:\nDing Liren game 6 prediction; World Chess Championship 2023 updates; Nepomniachtchi vs Ding Liren strategy",
+          "queries": [
+            "Ding Liren game 6 prediction",
+            "World Chess Championship 2023 updates",
+            "Nepomniachtchi vs Ding Liren strategy"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will Starship's orbital test flight launch before 7:05AM, local time, on April 17th 2023?",
+    "resolution": 0.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-17",
+    "date_resolve_at": "2023-04-17",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer the question, we need to consider the current schedule and any potential updates or changes to the launch window. We should look for information on the scheduled launch time, any delays or updates, and the likelihood of the launch occurring within the first five minutes of the window. Sub-questions to consider include: What is the current scheduled launch time for Starship's orbital test flight? Are there any indications of potential delays or changes to the launch schedule? Have there been any recent updates or announcements from SpaceX regarding the launch?\n\nSearch Queries:\nStarship launch schedule update; SpaceX Starship launch time; Starship orbital test flight delay",
+          "queries": [
+            "Starship launch schedule update",
+            "SpaceX Starship launch time",
+            "Starship orbital test flight delay"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "question": "Will the #1 Denver Nuggets win Game 2 of their First Round Series against the #8 Timberwolves in the 2023 NBA Playoffs?",
+    "resolution": 1.0,
+    "date_begin": "2023-04-15",
+    "date_close": "2023-04-20",
+    "date_resolve_at": "2023-04-20",
+    "retrieval_dates": [
+      "2023-04-15"
+    ],
+    "retrieval_date_queries": {
+      "2023-04-15": {
+        "prompt_0": {
+          "llm_response": "Thoughts:\nTo answer this question, we need to consider the current performance and dynamics of both the Denver Nuggets and the Minnesota Timberwolves, especially in the context of their First Round Series in the 2023 NBA Playoffs. Sub-questions that could guide our search include: How have the Nuggets been performing lately? What is the current status of the series between the Nuggets and the Timberwolves? Are there any injuries or notable absences that could affect the outcome of Game 2?\n\nSearch Queries:\nNuggets vs Timberwolves Game 2; Denver Nuggets recent performance; Nuggets Timberwolves series update",
+          "queries": [
+            "Nuggets vs Timberwolves Game 2",
+            "Denver Nuggets recent performance",
+            "Nuggets Timberwolves series update"
+          ]
+        }
+      }
+    }
   }
 ]
