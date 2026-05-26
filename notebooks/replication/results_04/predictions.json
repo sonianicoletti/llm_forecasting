@@ -1,0 +1,93 @@
+[
+  {
+    "question": "will Kevin Warsh be nominated by Trump as Fed Chair?",
+    "resolution": 1.0,
+    "date_begin": "2025-08-05",
+    "date_close": "2026-03-04",
+    "date_resolve_at": "2026-03-04",
+    "retrieval_date_predictions": {
+      "2026-02-25": {
+        "source_predictions": {
+          "Fortune": {
+            "llm_response": "The decision to nominate Kevin Warsh as the next Federal Reserve Chair involves several factors, including political dynamics, personal relationships, and economic considerations. Based on the provided information and historical context, here are the reasons for and against the nomination:\n\n### Reasons Why the Answer Might Be No:\n1. **Close Relationship with Kevin Hassett**: President Trump has shown a strong preference for Kevin Hassett, who is currently the director of the White House National Economic Council. Hassett's close relationship with the President and his existing role within the administration make him a more likely choice.\n2. **Policy Alignment**: While both candidates are described as dovish on monetary policy, Hassett's previous roles and current position might align better with Trump's economic agenda. Hassett's experience in advising various Republican politicians and the White House could give him a slight edge over Warsh in terms of policy alignment.\n3. **Political Pressure**: Treasury Secretary Scott Bessent is pushing for a swift announcement, and the White House might prioritize a nominee who can be quickly confirmed by the Senate, possibly Hassett due to his existing ties and experience.\n\n### Reasons Why the Answer Might Be Yes:\n1. **Growing Momentum**: Kevin Warsh is gaining momentum as a leading candidate, which suggests that his support base is growing within the administration. This increase in support could lead to a nomination if other factors align.\n2. **Experience and Expertise**: Warsh has extensive experience in finance and government, which could be attractive to the administration. His background and network could make him a compelling choice, especially if the administration wants someone with strong connections in the financial sector.\n3. **Economic Considerations**: If the administration prioritizes a dovish stance on monetary policy, Warsh's alignment with this approach might make him a preferred candidate, even if Hassett is also a strong contender.\n\n### Rating of the Strength of Each Reason:\n1. **Close Relationship with Kevin Hassett**: Strong (7 out of 10). Given the close relationship and Hassett's current role, this factor carries significant weight.\n2. **Policy Alignment**: Moderate (6 out of 10). While important, the specific alignment with Hassett might be secondary to personal relationships and existing roles.\n3. **Political Pressure**: Weak (4 out of 10). Political pressure can influence decisions, but it might be more about internal consensus rather than external pressure.\n4. **Growing Momentum**: Strong (7 out of 10). The increase in support could indicate a shift in internal preferences, making this a critical factor.\n5. **Experience and Expertise**: Moderate (6 out of 10). Experience is valuable, but it might be less decisive than personal relationships and policy alignment.\n6. **Economic Considerations**: Moderate (6 out of 10). The administration's priorities could play a significant role, but this is somewhat speculative without clearer guidance.\n\n### Aggregated Considerations:\nWhile there are valid arguments for both sides, the close relationship and existing roles of Kevin Hassett appear to carry more weight initially. However, the growing momentum behind Kevin Warsh suggests that he could become the nominee if the administration prioritizes certain attributes or if internal dynamics shift.\n\n### Answer:\n*0.5*\n\nGiven the current balance of evidence, the probability of Kevin Warsh being nominated is around 50%, considering the close relationships and existing roles of Hassett versus the growing support and attributes that Warsh brings to the table.",
+            "prediction": 0.5
+          },
+          "CNN": {
+            "llm_response": "```\n*0.3*\n```\n\n### Reasons Why the Answer Might Be No:\n\n1. **Economic Alignment**: \n   - **Reason**: Kevin Warsh was a vocal proponent of lower interest rates and quantitative easing during his tenure as a governor at the Federal Reserve. However, under the current administration, there seems to be a stronger preference for a candidate who is more aligned with the current economic policies and less likely to support further aggressive rate cuts. This could weigh against Warsh\u2019s nomination.\n   - **Strength Rating**: 4/5. The alignment of economic views is crucial for Senate confirmation, and the current administration seems to favor a different approach.\n\n2. **Political Dynamics**:\n   - **Reason**: While President Trump initially seemed open to considering both Kevin Warsh and Kevin Hassett, Hassett has become the frontrunner in recent months. Given that Trump has indicated a preference for someone who aligns with his policies and has the necessary political connections, it is possible that Hassett\u2019s position as the National Economic Council Director could provide him with additional political leverage.\n   - **Strength Rating**: 4/5. The political landscape is often unpredictable, but Hassett\u2019s current position and alignment with Trump\u2019s economic vision could give him a significant edge.\n\n3. **Senate Confirmation**: \n   - **Reason**: Even if Trump nominates Warsh, the confirmation process in the Republican-controlled Senate is uncertain. There could be internal party disagreements or other obstacles that could prevent Warsh from being confirmed. In contrast, Hassett\u2019s current position and background might make him a more easily confirmable choice.\n   - **Strength Rating**: 5/5. The confirmation process is a critical factor, and the complexity of the Senate confirmation adds a layer of uncertainty to the nomination.\n\n### Reasons Why the Answer Might Be Yes:\n\n1. **Personal Connections**:\n   - **Reason**: Kevin Warsh has a long history with the Trump administration, including his role as a Fed Governor under the Obama administration. Personal relationships can sometimes play a significant role in such high-stakes nominations, and Trump\u2019s familiarity with Warsh could be an advantage.\n   - **Strength Rating**: 4/5. Strong personal relationships can influence decisions, but they are not always decisive in the formal nomination process.\n\n2. **Expertise in Financial Regulation**:\n   - **Reason**: Warsh has extensive experience in financial regulation and banking, which could be valuable in shaping the Federal Reserve\u2019s approach to financial stability. His expertise might make him a preferred choice over someone with less experience in these areas.\n   - **Strength Rating**: 4/5. Expertise in relevant areas is important for the role of Federal Reserve Chair, and Warsh\u2019s background in this area is a strong selling point.\n\n3. **Historical Precedent**:\n   - **Reason**: There is historical precedent for the outgoing president to nominate someone from within the existing Fed leadership or someone with close ties to the administration. Given that Warsh has been associated with the Fed for some time, it is not unprecedented for him to be nominated.\n   - **Strength Rating**: 3/5. While this is a valid point, it does not necessarily ensure a nomination, especially given the current political climate and the preferences of the current administration.\n\n### Aggregated Considerations:\n\nGiven the strong preference for someone who aligns with the current economic policies and the current political landscape, Hassett is more likely to be chosen based on recent developments. However, the personal relationship and expertise of Kevin Warsh could still play a role. The confirmation process remains a significant hurdle for either candidate.\n\n### Output:\n\n```\n*0.3*\n```",
+            "prediction": 0.3
+          }
+        }
+      }
+    }
+  },
+  {
+    "question": "will Ryan Dotson be the KY-06 Republican Primary Winner?",
+    "resolution": 0.0,
+    "date_begin": "2025-12-18",
+    "date_close": "2026-05-19",
+    "date_resolve_at": "2026-05-19",
+    "retrieval_date_predictions": {
+      "2026-05-12": {
+        "source_predictions": {
+          "NBC News": {
+            "llm_response": "```\n1. Provide at least 3 reasons why the answer might be no.\n\n   a. Lack of mention in recent articles: Ryan Dotson is not mentioned in any of the available news articles, which suggests that he may not be a prominent or likely contender for the primary win.\n   b. Focus on other races: The article highlights the significance of races involving Thomas Massie and Ed Gallrein in Kentucky, indicating that these races may receive more attention and resources from the party.\n   c. No public support or endorsements: Without substantial public support or endorsements, Ryan Dotson\u2019s chances of winning the primary appear lower compared to established candidates or those backed by influential figures.\n\n2. Provide at least 3 reasons why the answer might be yes.\n\n   a. Potential for upsets: Given the historical tendency for primary upsets, especially when there is a strong incumbent like Thomas Massie running against a challenger supported by a powerful figure like Trump, it is possible for Ryan Dotson to win.\n   b. Grassroots support: If Ryan Dotson has strong grassroots support among Republican voters in the district, it could give him a competitive edge.\n   c. Trump's influence: Since Trump is actively backing him, if Dotson is able to effectively leverage this support, he could gain the necessary momentum to win the primary.\n\n3. Rate the strength of each of the reasons given in the last two responses.\n\n   a. Lack of mention in recent articles (Reason 1): 2 - This is speculative and lacks concrete evidence.\n   b. Focus on other races (Reason 2): 3 - This is based on current news but still uncertain.\n   c. No public support or endorsements (Reason 3): 2 - While this is a factor, the absence of mention does not necessarily mean lack of support.\n   d. Potential for upsets (Reason 1): 4 - Primary elections can often see unexpected results.\n   e. Grassroots support (Reason 2): 3 - Strong grassroots support can be difficult to measure and verify.\n   f. Trump's influence (Reason 3): 4 - Given Trump\u2019s past influence in primary elections, this is a strong reason.\n\n4. Aggregate your considerations.\n\n   - The reasons suggesting a \"no\" are somewhat speculative and based on the absence of information, making them less reliable.\n   - The reasons suggesting a \"yes\" include factors that are more grounded in potential outcomes and historical trends, making them stronger.\n\n5. Output your answer (a number between 0 and 1) with an asterisk at the beginning and end of the decimal.\n\n*0.4*\n```",
+            "prediction": 0.4
+          }
+        }
+      }
+    }
+  },
+  {
+    "question": "will Zach Dembo be the KY-06 Democratic Primary Winner?",
+    "resolution": 1.0,
+    "date_begin": "2026-05-14",
+    "date_close": "2026-05-19",
+    "date_resolve_at": "2026-05-19",
+    "retrieval_date_predictions": {
+      "2026-05-15": {
+        "source_predictions": {}
+      }
+    }
+  },
+  {
+    "question": "US x Iran ceasefire by April 30 2026?",
+    "resolution": 1.0,
+    "date_begin": "2026-02-28",
+    "date_close": "2026-04-30",
+    "date_resolve_at": "2026-04-05",
+    "retrieval_date_predictions": {
+      "2026-03-28": {
+        "source_predictions": {}
+      }
+    }
+  },
+  {
+    "question": "Will the Iranian regime fall by April 30?",
+    "resolution": 0.0,
+    "date_begin": "2026-03-05",
+    "date_close": "2026-04-30",
+    "date_resolve_at": "2026-04-30",
+    "retrieval_date_predictions": {
+      "2026-04-23": {
+        "source_predictions": {}
+      }
+    }
+  },
+  {
+    "question": "US strikes Iran by June 30 2026?",
+    "resolution": 1.0,
+    "date_begin": "2025-12-22",
+    "date_close": "2026-06-30",
+    "date_resolve_at": "2026-02-28",
+    "retrieval_date_predictions": {
+      "2026-02-21": {
+        "source_predictions": {
+          "CNN": {
+            "llm_response": "```\n1. Reasons why the answer might be no:\n   - Diplomatic efforts: The article mentions that the U.S. is continuing to monitor the situation closely and is focusing on preventing further killings in Iran, indicating a preference for diplomatic solutions over military action.\n   - Concerns from allies: Israel and Saudi Arabia, key U.S. allies in the region, are advising against military action due to the risks and uncertainties it would entail. This suggests that the U.S. may be seeking to avoid escalating tensions.\n   - No immediate threat: As of January 15, 2026, there was no immediate threat of military action, with President Trump reconsidering the use of military force after the killing had ceased.\n\n2. Reasons why the answer might be yes:\n   - Heightened tensions: The U.S. is conducting military drills and deploying forces in the region, indicating a build-up of military readiness and a possible escalation of tensions.\n   - Presidential authority: The White House maintains that all options remain on the table, including military ones, and that the president retains the authority to decide on military action.\n   - Iran's response: Iran's armed forces are prepared to respond to any aggression, which could lead to a confrontational scenario if the U.S. decides to act.\n\n3. Rating the strength of each of the reasons:\n   - Diplomatic efforts: 7/10 - There is a strong indication that the U.S. is leaning towards diplomacy, but the situation remains fluid.\n   - Concerns from allies: 8/10 - Allies' advice against military action is a significant factor, suggesting that political and strategic considerations are weighing heavily.\n   - No immediate threat: 5/10 - While the immediate threat had ceased, this could change rapidly, and the situation is volatile.\n   - Heightened tensions: 6/10 - The presence of military drills and forces in the region indicates readiness, but it is not a definitive sign of impending action.\n   - Presidential authority: 9/10 - The ultimate decision rests with the president, who has the authority to order military action.\n   - Iran's response: 7/10 - Iran's preparedness for retaliation adds a layer of complexity to any potential conflict.\n\n4. Aggregated considerations:\n   - The U.S. appears to be maintaining a cautious approach, prioritizing diplomacy and avoiding escalation as much as possible. However, the ongoing tensions and the president's authority to order military action mean that the situation remains unpredictable.\n   - The presence of military forces and the potential for rapid changes in the situation make a strike a possibility, albeit one that depends on various factors including diplomatic outcomes and the actions of both the U.S. and Iran.\n\n5. Answer: *0.4*\n```",
+            "prediction": 0.4
+          }
+        }
+      }
+    }
+  }
+]
